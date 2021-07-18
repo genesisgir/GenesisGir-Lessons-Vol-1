@@ -14,14 +14,14 @@ print('My names Cristian and I started doing programming about 7 days ago!')# us
 print('and everyday im learning something new not only that I think its imporatant to train.')# more chatter with the print function!
 print('The world of coding is so beautiful to me and I find myself lost doing it ALOT!')# print function being used here to generate text on stream(screen)
 print()#empty
-print(' What File editor do you use? i use visual studio code!')# asking the user what text editor they use!
+print(' What File editor do you use? I use visual studio code!')# asking the user what text editor they use!
 print()#empty
 file_editor=input()# input makes users file editor name using the input() function use it if your asking someone a question!
 print()#empty
 print(' Oh wow I would love to try '+file_editor+' one day who knows!')# here we use the file_editor variable and use it to reveal their tool of choice
 print()#empty
 print('I was born in New York city, Queens and its pretty nice up there')# yes its true i was born in NYC also print call function
-print('Im from Baltimore and its too loud over here and i miss my country peru')# telling the user that i orgin from peru
+print('Im from Baltimore and its too loud over here and I miss my country peru')# telling the user that i orgin from peru
 print('Thats where my parents are from and the food there is amazing!')# using the print call function to display text
 print()# another cute empty line! wanna do this just use the print() cal function
 print('Anyways where are you from?') # asking the user where are they from
