@@ -81,8 +81,8 @@ print('Mr.interviewer:These goals must be important to you '+name+'.')
 
 █▀▀ █ █░█ █ █▄░█ █▀▀   █▀▀ █░█ ▄▀█ █▀█ ▄▀█ █▀▀ ▀█▀ █▀▀ █▀█
 █▄█ █ ▀▄▀ █ █░▀█ █▄█   █▄▄ █▀█ █▀█ █▀▄ █▀█ █▄▄ ░█░ ██▄ █▀▄
-Notice on how we are brining life to the character by making him ask redimentary questions
-giving the feel that you are connected with mr.interviewer and giving a sense of personality
+Notice on how we are bringing life to the character by making him ask redimentary questions
+giving the feel that you are connected with mr.interviewer and giving a sense of personality is
 very important to be creative during the writing process. Choose a personality for your character!
 which is the fun part you can create all type of personalities using your brain meat. Is the
 character a mean or fancy type? or maybe they are cute and friendly? Roleplay and imagination
@@ -143,7 +143,7 @@ ex.( box='a cat inside of it' ) we stored "a cat inside of it" inside box making
   ██      ▓▓▓▓                              ▓▓▓▓      ▓▓                
   ██          ▓▓▓▓                      ▓▓▓▓          ▓▓  𝙁𝙪𝙣 𝙛𝙖𝙘𝙩: 𝙂𝙚𝙣𝙚𝙨𝙞𝙨 𝙂𝙞𝙧 𝙬𝙖𝙨 𝙤𝙣𝙡𝙮 7 𝙙𝙖𝙮𝙨 𝙞𝙣𝙩𝙤 𝙥𝙧𝙤𝙜𝙧𝙖𝙢𝙢𝙞𝙣𝙜 𝙬𝙝𝙚𝙣 𝙝𝙚 𝙢𝙖𝙙𝙚 𝙩𝙝𝙞𝙨              
   ██              ▓▓▒▒              ▓▓▓▓              ▓▓                
-  ██                  ▓▓▓▓      ▓▓▒▒                  ▓▓  𝙏𝙞𝙥: 𝙝𝙩𝙩𝙥𝙨://𝙖𝙪𝙩𝙤𝙢𝙖𝙩𝙚𝙩𝙝𝙚𝙗𝙤𝙧𝙞𝙣𝙜𝙨𝙩𝙪𝙛𝙛.𝙘𝙤𝙢/2𝙚/𝙘𝙝𝙖𝙥𝙩𝙚𝙧1/ 𝙞𝙨 𝙚𝙨𝙨𝙚𝙣𝙩𝙞𝙖𝙡              
+  ██                  ▓▓▓▓      ▓▓▒▒                  ▓▓  𝙏𝙞𝙥: 𝙝𝙩𝙩𝙥𝙨://www.𝙖𝙪𝙩𝙤𝙢𝙖𝙩𝙚𝙩𝙝𝙚𝙗𝙤𝙧𝙞𝙣𝙜𝙨𝙩𝙪𝙛𝙛.𝙘𝙤𝙢/2𝙚/𝙘𝙝𝙖𝙥𝙩𝙚𝙧1/ 𝙞𝙨 𝙚𝙨𝙨𝙚𝙣𝙩𝙞𝙖𝙡              
   ██                      ██████                      ▓▓                
   ██                        ▓▓                        ▓▓  𝙏𝙞𝙥: 𝙫𝙖𝙧𝙞𝙖𝙗𝙡𝙚𝙨 𝙖𝙧𝙚 𝙡𝙞𝙠𝙚 𝙗𝙤𝙭𝙚𝙨 𝙮𝙤𝙪 𝙨𝙩𝙤𝙧𝙚 𝙞𝙣𝙛𝙤𝙧𝙢𝙖𝙩𝙞𝙤𝙣 𝙙𝙖𝙩𝙖 𝙩𝙮𝙥𝙚𝙨 𝙞𝙣              
   ██                        ▓▓                        ▓▓                
