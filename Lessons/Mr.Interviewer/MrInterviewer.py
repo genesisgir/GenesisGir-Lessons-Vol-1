@@ -52,7 +52,7 @@ print('In a errie bright white room.')# Letting the user know what setting they 
 print('The room gets colder and colder and he begins to stare at you and utters the words.')
 # By saying the room gets colder we let the user know its horror themed.
 print() # An empty line of text using the print() function!
-print("Mr.Interviewer: What's your name sir!") # Asking the user their name. Using print()
+print("Mr.Interviewer: What's your name sir?") # Asking the user their name. Using print()
 name=input()# By entering input() we let the users intake become the variable
 #The """ create a multi line comment as you can see below to create multiple lines of comments
 # Very useful if you need to leave larger comments but make sure to end it with another """ on the bottom
