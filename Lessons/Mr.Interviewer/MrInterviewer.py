@@ -1,10 +1,11 @@
 """ 
 █▀▀ █▀▀ █▄░█ █▀▀ █▀ █ █▀   █░░ █▀▀ █▀ █▀ █▀█ █▄░█ █▀   █░█ █▀█ █░░ ░ ▄█
 █▄█ ██▄ █░▀█ ██▄ ▄█ █ ▄█   █▄▄ ██▄ ▄█ ▄█ █▄█ █░▀█ ▄█   ▀▄▀ █▄█ █▄▄ ▄ ░█ 
-Welcome to the genesis gir lesson tutorials Volume 1! We start of the lessons with
-you getting to know me! This program tells you more about me and who I am and is more like 
-a cool story line about me make sure to pay attention to the functions used and the variables
-how they are approached. Thanks for downloading!
+Welcome to the genesis gir lesson tutorials Volume 1! Mr.interviewer is a program
+based on asking you basic questions and gets errie as it goes on building up the tension 
+between you and the charcter! He even gathers your information you feed him putting you 
+in a real interrogation in real-time. Chat , Interact , and experience mr.interviewer!
+. Thanks for downloading!
 ⼕ㄖᗪ🝗ᗪ & 山尺讠セセ🝗𝓝 ⻏丫 Ꮆ🝗𝓝🝗丂讠丂 Ꮆ讠尺
 """
 """
@@ -81,13 +82,8 @@ print('Mr.interviewer: These goals must be important to you '+name+'.')
 
 █▀▀ █ █░█ █ █▄░█ █▀▀   █▀▀ █░█ ▄▀█ █▀█ ▄▀█ █▀▀ ▀█▀ █▀▀ █▀█
 █▄█ █ ▀▄▀ █ █░▀█ █▄█   █▄▄ █▀█ █▀█ █▀▄ █▀█ █▄▄ ░█░ ██▄ █▀▄
-<<<<<<< HEAD
 Notice on how we are bringing life to the character by making him ask redimentary questions
 giving the feel that you are connected with mr.interviewer and giving a sense of personality is
-=======
-Notice on how we are brining life to the character by making him ask redimentary questions
-giving the feel that you are connected with Mr.interviewer and giving a sense of personality
->>>>>>> d75008cca94b88bd3e5c109fa2f50bfb5e8dc3a1
 very important to be creative during the writing process. Choose a personality for your character!
 Which is the fun part you can create all type of personalities using your brain meat. Is the
 character a mean or fancy type? or maybe they are cute and friendly? Roleplay and imagination
@@ -102,7 +98,7 @@ is really important as well but its all entirely up to you.
 """
 # The program continues here
 print() # Empty line using the print() function to create space for other lines to breathe
-print('Mr.inteviwer: Are you scared to be poor?. . .') # Asking the user a question
+print('Mr.inteviewer: Are you scared to be poor?. . .') # Asking the user a question
 fearofpoverty=input() # fearofpoverty is the variable and the input from the user makes it
 print() # Yay another empty line
 print("Mr.interviewer: That's understandable. . .") # Talking to the user even more using print
@@ -185,3 +181,11 @@ print() # Empty line to create space between lines
 print('Thank you for Playing! Created by Genesis Gir') # Thanking the user
 print('(Press [ENTER] to exit)') # A little menu letting the user know to press any key to end program
 input() # Once user presses key program will close.
+"""
+
+█▀█ █▀▀ █▀ █▀█ █░█ █▀█ █▀▀ █▀▀ █▀
+█▀▄ ██▄ ▄█ █▄█ █▄█ █▀▄ █▄▄ ██▄ ▄█
+
+link: >>> https://www.twitch.tv/cashbunny2k  <<< Find Livestreams and more!
+link: >>> https://automatetheboringstuff.com <<< Discover and learn how i did!
+"""

@@ -51,7 +51,7 @@ ex.'Line 3' (  After the ENTER press as seen in Line 2 the user is now in this l
 #Programs continues here @Line @1
 print('(press ENTER to read)')# prompt the user to press enter to progress with print function
 input()# using the input() function as a menu system to continue
-print('-while looking at  your clock you notice your late for your date-')#driving storyline with print functions and using ideas
+print('-while looking at your clock you notice your late for your date-')#driving storyline with print functions and using ideas
 print('(press ENTER to read)')#prompt user to continue essentially 
 input()#input() function being used here to take users enter keyboard press to continue
 print('-your clock on your watch stops as you look at it and a bright flash happens-')#print function being used to print values onto stream(screen)
@@ -228,7 +228,7 @@ print('-'+name+' makes it ontop of the huge building having a vast view of the c
 print('(Press ENTER to continue)')#prompting user to press enter 
 input()#input function being used to progress to next line of code uses the enter key or any key to be activated!
 print('Kim the Robot™️: Finally. Ive been up here for like..')#using the print function to let Kim speak
-print('(Press ENTER..')#prompting to press enter with the function print
+print('(Press ENTER..)')#prompting to press enter with the function print
 input()#input takes input from user using the 'input()'
 print('Kim the Robot™️:1 hour , Humans are just so..lazy')#Kim drags about how humans are lazy using the print function
 print('* She looks over at you and blushes at the effort you have made*')#the print fuction being used to print a sense of direction with the character Kim
