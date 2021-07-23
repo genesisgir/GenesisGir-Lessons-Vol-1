@@ -1,2 +1,4 @@
 # Ꮆ∈ﬡ∈⟆⫯⟆ し∈⟆⟆ᗝﬡ⟆ ⋎〇し.1
 Welcome rookies and veterans! I'm Genesis Gir and I have been documenting my progress in code and programming and in that addition I've been releasing my work and progress for all of you lovely developers to take a sneak peek of what my workflow looks like and maybe you can learn from these lessons or projects and gain some knowledge or give me insight to become better! I have a passion for writing code and if you find yourself stuck or inspired take a look inside my source code files and see how I made them and why I made the choices I did and I explain in full detail what I did and what the functions and lines mean with comments and such! Enjoy and oh Cotal says hiiiiii!
+
+images: (https://user-images.githubusercontent.com/87259615/126816781-37d6f6be-78ed-490c-8c36-05fcf53e0612.png)
