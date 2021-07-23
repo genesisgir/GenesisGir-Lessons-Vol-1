@@ -32,8 +32,8 @@ Like a wizard in training, you might think these concepts seem arcane and tediou
 but with some knowledge and practice, you’ll be able to command your computer like a 
 magic wand and perform incredible feats." by Al Sweigart
 
-Just like in chapter 1 Python basics he goes on to explain that it's a langue that 
-uses various lines of code to create handy little programs! Like this one ,
+Just like in chapter 1 Python basics he goes on to explain that it's a language that 
+uses various lines of code to create handy little programs Like this one!
 This volume uses python as the language 100%.
 """
 print('The room around you is still and all white with forestation growing within the walls')#setting the scene of the program with print!
@@ -122,7 +122,7 @@ this you are self-taught as well!
  ███▄███  ▀ ▀     ▀▀  
 
                      
-|￣￣￣￣￣￣￣￣￣￣￣|             𝙏𝙞𝙥: 𝘿𝙤𝙣𝙩 𝙧𝙚𝙨𝙤𝙡𝙫𝙚 𝙩𝙤 𝙨𝙩𝙖𝙘𝙠𝙤𝙫𝙚𝙧𝙛𝙡𝙤𝙬 𝙖𝙡𝙡 𝙩𝙝𝙚 𝙩𝙞𝙢𝙚
+|￣￣￣￣￣￣￣￣￣￣￣|             
    I'm Self-taught!                
 |＿＿＿＿＿＿＿＿＿＿＿|             𝙏𝙞𝙥: 𝙂𝙞𝙩 𝙆𝙧𝙖𝙠𝙚𝙣 𝙞𝙨 𝙫𝙚𝙧𝙮 𝙪𝙨𝙚𝙛𝙪𝙡
 ⠀⠀⠀⠀⠀⠀(\__/) ||
@@ -324,7 +324,7 @@ print('GLADOS:You look agitated why dont you spend time with your new. . ')#glad
 .;==i+::::=)i=;      Use your imagination the world of coding is diverse and endless you
 ,+==iiiiii+,         can make a program about any setting you'd like and the best developers         
 `+=+++;`             think outside the box and use improvised decisions. There is no right
-                     or wrong but to think of your file editor as a canvas and your brain
+                     or wrong but think of your file editor as a canvas and your brain
                      the paint brush. Because in the end you really are creating an experience
                      that user must go threw and you are setting the scene. YOU are setting the                            
                      Emotion , Paths , Routes , YOU are building the earth and waterfalls that
