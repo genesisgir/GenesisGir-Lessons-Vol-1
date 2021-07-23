@@ -3,8 +3,8 @@
 █▄█ ██▄ █░▀█ ██▄ ▄█ █ ▄█   █▄▄ ██▄ ▄█ ▄█ █▄█ █░▀█ ▄█   ▀▄▀ █▄█ █▄▄ ▄ ░█ 
 Welcome to the genesis gir lesson tutorials Volume 1! Mr.interviewer is a program
 based on asking you basic questions and gets errie as it goes on building up the tension 
-between you and the charcter! He even gathers your information you feed him putting you 
-in a real interrogation in real-time. Chat , Interact , and experience mr.interviewer!
+between you and the character! He even gathers your information you feed him putting you 
+in a real interrogation in real-time. Chat , Interact , and experience Mr.interviewer!
 . Thanks for downloading!
 ⼕ㄖᗪ🝗ᗪ & 山尺讠セセ🝗𝓝 ⻏丫 Ꮆ🝗𝓝🝗丂讠丂 Ꮆ讠尺
 """

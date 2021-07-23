@@ -37,7 +37,7 @@ game=input() # User's input becomes game variable and is later used later down t
 print() # Empty line use the print() call function to use this function
 print(game+ '?'+' Hmm sounds nice I should try it some time hehe') # Using print() to have a friendly conversation
 print() # Empty line
-print("I'm glad that we got to know each other see you in the next tutorial '+name+' see ya!") # Using print and a variable in tandem to create atmosphere
+print('Im glad that we got to know each other see you in the next tutorial '+name+ 'see ya!') # Using print and a variable in tandem to create atmosphere
 print() # I used the print() call function to create some more room between the lines
 print('Genesis gathered that your name is '+name+'.') # Telling the user that we know their name based off variables
 print('Genesis gathered that your from '+location+'.') # Telling the user that we know their location based off variables
