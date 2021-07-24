@@ -215,7 +215,7 @@ print()#(ELOC)
 print('Fun fact: Genesis dated a goth girl that was into invader zim as much as he was and')#gives fun facts about me to the user w/print
 print('they cuddled under the table every class break and they went to different schools and lost')#continues fun facts about me to the user w/print from line '122'
 print('communication sadly.')#continues fun facts about me to the user w/print from line '123'
-print('Answer:(Yes)')#the answer to the question uses print functions
+print('Answer:(yes)')#the answer to the question uses print functions
 print('press enter to continue')#prompts user to press enter w/print and gathers data collection
 input()#Question starts on line '129'
 print()#(ELOC)
