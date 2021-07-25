@@ -25,7 +25,8 @@ things , I'm learning quite quickly and figured to release my programs so others
 or remix them completely and study them and use them as a place to refer to. I didnt have this especially that most sites want you to 
 pay for their studying! ugh! Times are rough and I want to help out others who want to learn coding as much as I do.
 # screenshots
+![prtl](https://user-images.githubusercontent.com/87259615/126915445-7b24a7fb-77c9-4594-8ecc-8e4b7f6b414d.PNG)
 
+![portol scs](https://user-images.githubusercontent.com/87259615/126915608-ddea6fbb-a997-4d6e-b484-2accffef553c.PNG)
 
-
-
+![Be creative](https://user-images.githubusercontent.com/87259615/126915390-a8b23edd-2a63-4f81-affd-9cd94cbd3fa8.PNG)
