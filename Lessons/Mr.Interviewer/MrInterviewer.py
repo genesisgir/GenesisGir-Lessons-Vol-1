@@ -186,6 +186,6 @@ input() # Once user presses key program will close.
 █▀█ █▀▀ █▀ █▀█ █░█ █▀█ █▀▀ █▀▀ █▀
 █▀▄ ██▄ ▄█ █▄█ █▄█ █▀▄ █▄▄ ██▄ ▄█
 
-link: >>> https://www.twitch.tv/cashbunny2k  <<< Find Livestreams and more!
+link: >>> https://www.twitch.tv/genesisgir  <<< Find Livestreams and more!
 link: >>> https://automatetheboringstuff.com <<< Discover and learn how i did!
 """

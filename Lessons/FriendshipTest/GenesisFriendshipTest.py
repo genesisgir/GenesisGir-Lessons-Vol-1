@@ -263,8 +263,8 @@ print()#(ELOC)
 
 Finding different workflows while writing code can beneift the developer in finding quicker ways
 to do things like a nifty app like ClipClip can enhance work flows and its important to sharpen
-your workflow in a way that makes things easier for you! remember just because we speak the same
-language doesnt mean our workflows are the same. find your manner of writing your scripts and
+your workflow in a way that makes things easier for you! Remember just because we speak the same
+language doesnt mean our workflows are the same. Find your manner of writing your scripts and
 harness its ability to get faster and faster with flows. Branching out to new software that helps
 with copy & pasting functinalities for instance would help to write lines of code down quicker!
 
@@ -273,7 +273,7 @@ with copy & pasting functinalities for instance would help to write lines of cod
            §§§§
           §§                              Get comfy with your workflows as well you can have as
          §§                               many as you like but figure out little tricks to write
-        §§        $$$$$$$$$$$$$$$$        quicker and get that programed commited & pushed!
+        §§        $$$$$$$$$$$$$$$$        quicker and get that program commited & pushed!
        §§§§       $$$$$$$$$$$$$$$$
       #######     $$$$    $$$$            Heres a choo choo train yay!
        ####        $$$$    $$$$
