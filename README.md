@@ -10,7 +10,16 @@ learn with me as I create various programs to try out and explore! Have a questi
 me something you know that I dont but please just dont push your methods against me! I like to experiment and try things out on my own first
 I've made these programs to self-teach myself in a innovative way pushing myself to learn and also releasing my work for others to see how I 
 made them.
+
 # Why did I start coding?
 I found an app called replika and was fascinated by the structure of how it worked and always was into computers as I was little
 and finnally started using source code to spill out my ideas! Firstly I was reccommended Visual Studio Code by a random Viewer and
 dived right into it and never looked back ever since.
+
+# what is Genesis Gir lessons Volume 1?
+(GGLV1)Genesis Gir lessons Volume 1 is a repository that is full of programs that I've made to share and show my progress in programming
+it contains various programs that self explain what each of line of code does so a novice like me can come along and learn from them essentially
+and can be very useful to someone starting out. Exciting adventures , beautiful story plots , Mysterious characters , and even Moogle appears in
+Volume 1 also I highly recommend to read and visit https://automatetheboringstuff.com/2e/chapter1/ to learn about the basic like I have because
+that website is where I learned the basic and it is very valuable to get started! So hopeully you gain some knowledge in these lessons and start making
+your own unique programs and such
