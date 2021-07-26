@@ -7,6 +7,9 @@ guns , loot and bring them back to her. She will be very interactive with you
 just make sure to do as she says or game over! Moxxie is a Famous barkeeper in Pandora
 and the word around is that she has the hots for anyone that helps her out! If not for her
 Do it for the loot please. . . and make it back in one peace goodluck Vault Hunter!
+# Defeat Handsome jack!
+![borderlands header](https://user-images.githubusercontent.com/87259615/127055301-9239d911-f005-41c3-baeb-42c1f2529624.jpg)
+
 
 # Learn , Discover , Explore!
 In this .py you can learn alot from what I did and discover methods I use to make things work! This is very Novice level friendly
