@@ -1,7 +1,8 @@
 """ 
 █▀▀ █▀▀ █▄░█ █▀▀ █▀ █ █▀   █░░ █▀▀ █▀ █▀ █▀█ █▄░█ █▀   █░█ █▀█ █░░ ░ ▄█
 █▄█ ██▄ █░▀█ ██▄ ▄█ █ ▄█   █▄▄ ██▄ ▄█ ▄█ █▄█ █░▀█ ▄█   ▀▄▀ █▄█ █▄▄ ▄ ░█
-Welcome to the Genesis Gir lesson tutorials Volume 1! We start of the lessons with
+Welcome to the Genesis Gir lesson tutorials Volume 1! We start 
+of the lessons with
 you getting to know me! This program tells you more about me and who I am and is more like 
 a cool story line about me make sure to pay attention to the functions used and the variables
 how they are approached. Thanks for downloading!
@@ -58,7 +59,7 @@ Did you enjoy the little program I made? Did it teach you more about coding or m
  and store them in variables for later use. Ask a question in print then after that link make a variable
  with an assignment operator and put input it will take the users input whatever they texted.
  links below!
- - Twitch: https://www.twitch.tv/cashbunny2k follow, chat ,and learn!
+ - Twitch: https://www.twitch.tv/genesisgir follow, chat ,and learn!
  - Github: https://github.com/GenesisGir programs, learn, contribute, a great dev that loves his community!
  🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂
  ──────▄▀▄─────▄▀▄

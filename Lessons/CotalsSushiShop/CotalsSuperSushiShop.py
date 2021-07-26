@@ -19,7 +19,7 @@ input()#T/I
 print()#(ELOC)
 print('█▀▀ █▀█ ▀█▀ ▄▀█ █░░ █▀   █▀ █░█ █▀ █░█ █   █▀ █░█ █▀█ █▀█')
 print('█▄▄ █▄█ ░█░ █▀█ █▄▄ ▄█   ▄█ █▄█ ▄█ █▀█ █   ▄█ █▀█ █▄█ █▀▀')
-print()
+print()#(ELOC)
 print('Welcome to Cotals Super Sushi shop!')#welcomes user to setting/location
 print()#(ELOC)
 print('Written & Coded by Genesis Gir')#shows user creator of source code!
