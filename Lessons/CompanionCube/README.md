@@ -1,11 +1,11 @@
 # READ.md
 ⼕ㄖᗪ🝗ᗪ & 山尺讠セセ🝗𝓝 ⻏丫 Ꮆ🝗𝓝🝗丂讠丂 Ꮆ讠尺
-# Genesis Friendship Test
-A Cyber Robotic Girl? Variables,
-Functions and much more! This program will take you on a joy-ride threw cites and situations
-that will leave you breathless and wanting to understand coding more, A Lovely Date is a
-cool way to learn coding for novices and experts alike written and coded by me making it easy
-to understand my actions and choices.
+# Companion Cube
+Companion Cube is a program
+based on doing various tasks on guiding your companion cube to freedom and most importantly 
+you! escape the robotic infrastructure and save your little cube friend out of the chaos
+and i have a feeling a portal gun will be needed to overcome these challenges can you escape?
+is the cake a lie?
 
 # Learn , Discover , Explore!
 In this .py you can learn alot from what I did and discover methods I use to make things work! This is very Novice level friendly
