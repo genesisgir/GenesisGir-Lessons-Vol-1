@@ -11,6 +11,9 @@ Do it for the loot please. . . and make it back in one peace goodluck Vault Hunt
 
 ![mooogleee](https://user-images.githubusercontent.com/87259615/127359844-d123266f-d1af-4761-8ca9-9ff91869d7a4.png)
 
+# Wonderous Worlds!
+Visit worlds like Traverse Town , Winnie The Pooh & Lilo & Stitch! Team up with them to defeat the Heartless
+
 # Learn , Discover , Explore!
 In this .py you can learn alot from what I did and discover methods I use to make things work! This is very Novice level friendly
 and if you find yourself lost just make sure to look at the comments next to the lines of code to see what each line does and why 
@@ -31,3 +34,4 @@ pay for their studying! ugh! Times are rough and I want to help out others who w
 # screenshots
 ![moogle header](https://user-images.githubusercontent.com/87259615/127359218-cd4c0e02-837a-4418-abf5-2b87ed5904c0.PNG)
 
+![attributes](https://user-images.githubusercontent.com/87259615/127360134-55f5411a-a526-4568-91db-c73c4c8c301b.PNG)
