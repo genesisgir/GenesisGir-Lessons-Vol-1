@@ -223,7 +223,7 @@ input()#takes input w/input()
 print('JACK:You gained some pounds around the stomach area mox what hell happened to you?')#dialog w/print
 print('(press enter)')#prompts user to press enter key 
 input()#gathers keyboard presses from user using the input() function
-print('JACK:For Goodness sakes baby girl. run a lap or something at least '+len('__')+'!')#(C2CI) uses the print function
+print('JACK:For Goodness sakes baby girl. run a lap or something at least!')#(C2CI) uses the print function
 print('(press enter)')#prompts user to press enter key w/prpint
 input()#gathers and collects key press from user w/input()
 """
@@ -376,7 +376,7 @@ the number of items in the container! really can be used in a situations that ne
 use it whatever floats ya boat! Check out line '334' to see this in action
 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂
 """
-print('(Obtained:Deadmans Revolver! Level '+len('fivee'))#lets user know what gun they have obtained
+print('(Obtained:Deadmans Revolver! Level '+str(5)+')')#lets user know what gun they have obtained
 print('(Lock and reload[press enter])')#(SOA)
 input()#T/I
 print('(Gun is Loaded)')#(SOA) 'sense of direction' w/print
