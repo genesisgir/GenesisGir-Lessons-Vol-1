@@ -2,7 +2,8 @@
 # Welcome
 Welcome rookies and veterans! I'm Genesis Gir and I have been documenting my progress in code and programming and in that addition I've been releasing my work and progress for all of you lovely developers to take a sneak peek of what my workflow looks like and maybe you can learn from these lessons or projects and gain some knowledge or give me insight to become better! I have a passion for writing code and if you find yourself stuck or inspired take a look inside my source code files and see how I made them and why I made the choices I did and I explain in full detail what I did and what the functions and lines mean with comments and such! Enjoy and oh Cotal says hiiiiii!
 # The programmer behind screen
-![firepower](https://user-images.githubusercontent.com/87259615/126916517-28bcdff9-cf0a-4773-bfdc-897feaaf95f2.PNG)
+![Capture](https://user-images.githubusercontent.com/87259615/127349469-8c6c506e-0659-4de6-81f6-e36f604e188e.PNG)
+
 
 # Who is Genesis Gir?
 I'm a novice with -100 IQ that started programming 11 days ago sharing my experiences with programming and delving into the world of code
