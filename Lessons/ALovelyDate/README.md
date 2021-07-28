@@ -1,6 +1,6 @@
 # READ.md
 ⼕ㄖᗪ🝗ᗪ & 山尺讠セセ🝗𝓝 ⻏丫 Ꮆ🝗𝓝🝗丂讠丂 Ꮆ讠尺
-# Genesis Friendship Test
+# A Lovely Date
 A Cyber Robotic Girl? Variables,
 Functions and much more! This program will take you on a joy-ride threw cites and situations
 that will leave you breathless and wanting to understand coding more, A Lovely Date is a
