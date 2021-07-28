@@ -397,10 +397,10 @@ input()#waits for a direct input from user
 print(name+':'+'Its asking me for to put a random number.')#uses the print func+the user namae variable
 print('(enter any number)')#we ask the user to give us a random number!
 number=input()#creating the number variable with users input uses the input() function
-print('-you input the number '+str(int(number)))#Ah! my favorite part! we use
+print('-you input the number-')#Ah! my favorite part! we use
 print('(press enter to input your guess)')#telling user to input their guess uses the print function!
 input()#input() being used as a menu sys
-print('(-The number was guessed prefectly turns out '+str(int(number)))+' was right!-'
+print('-The number was guessed perfectly turns out it was right!-')
 print('(press enter to confirm)')#prompts user to confirm
 input()#gathers input function from user and waits for the enter key press
 print('-The door opens and an elevator awaits you-')#setting the scene
