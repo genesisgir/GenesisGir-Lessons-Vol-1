@@ -2,8 +2,7 @@
 █▀▀ █▀▀ █▄░█ █▀▀ █▀ █ █▀   █░░ █▀▀ █▀ █▀ █▀█ █▄░█ █▀   █░█ █▀█ █░░ ░ ▄█
 █▄█ ██▄ █░▀█ ██▄ ▄█ █ ▄█   █▄▄ ██▄ ▄█ ▄█ █▄█ █░▀█ ▄█   ▀▄▀ █▄█ █▄▄ ▄ ░█
 Welcome to the Genesis Gir lesson tutorials Volume 1! We start 
-of the lessons with
-you getting to know me! This program tells you more about me and who I am and is more like 
+of the lessons with you getting to know me! This program tells you more about me and who I am and is more like 
 a cool story line about me make sure to pay attention to the functions used and the variables
 how they are approached. Thanks for downloading!
 """ # Multi line comments pretty useful if you wanna explain yourself
