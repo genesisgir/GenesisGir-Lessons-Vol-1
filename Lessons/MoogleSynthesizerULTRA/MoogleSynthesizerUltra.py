@@ -2,7 +2,7 @@
 █▀▀ █▀▀ █▄░█ █▀▀ █▀ █ █▀   █░░ █▀▀ █▀ █▀ █▀█ █▄░█ █▀   █░█ █▀█ █░░ ░ ▄█
 █▄█ ██▄ █░▀█ ██▄ ▄█ █ ▄█   █▄▄ ██▄ ▄█ ▄█ █▄█ █░▀█ ▄█   ▀▄▀ █▄█ █▄▄ ▄ ░█ 
 Welcome to the genesis gir lesson tutorials Volume 1! Kupo! Moogle Synthesizer Shop takes the user
-their different worlds to collect attributes to create the Elixir Shard Potion with the help of
+to different worlds to collect attributes to create the Elixir Shard Potion with the help of
 a cute Moogle named Jixo as they set out on fun interactive tasks to finally put together the 
 concatanation of componets! A magical experience super fun to learn variables as well. use your
 Keyblade to fight for the light and save the world from the lost!
@@ -876,7 +876,7 @@ print('(press enter)')#prompts user to press enter w/print
 input()#T/I
 print('-You walk into the shop with the others and confront '+Moo+'-')#(SOD) sense of direction (User,Leon,Yuffie,Aerith) w/print
 print('(press enter)')#prompts user to press enter w/print 
-input()
+input()#T/I
 print(name+':Jixo! I brought some people who want to help us against the heartless!')#speech dialog from (User) uses print function
 print('They know where the last attribute is!')#speech continues from line '880' w/print
 print('(press enter to talk)')#prompts user to press enter to talk w/print 
