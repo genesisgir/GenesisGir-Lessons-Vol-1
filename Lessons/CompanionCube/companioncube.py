@@ -11,7 +11,7 @@ is the cake a lie?
 """
 #This program is about escpaing a facility with a cube know as companion cube!
 #a reference to the game portal by valve enjoy!
-print('Enter your name into terminal')#prompts user to enteir threir name in terminal
+print('Enter your name into terminal')#prompts user to enter their name in terminal
 print('(press enter)')#prompts the user to press enter 
 name=input()#the input() function takes input from the user to create essentially the variable
 print('You hear a mysterious radio playing music and you awaken')#setting scene with print function!
