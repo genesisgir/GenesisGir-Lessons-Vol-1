@@ -381,7 +381,7 @@ print(belle+':yeah but you heard they cant find the team that they put up there 
 print('(press enter)')# prompts user to press enter w/print function
 input()#T/I
 print(travis+'::And thats were we come in to come help them find them Belle. I Love you but they most likely just lost a signal or something')#speech dialog from (Travis Riley) uses print function
-print('again why would they send us somehwhere that they have no clue about Belle? Trust me')#speech continues from line '383' w/print
+print('again why would they send us somehwhere they have no clue about? Trust me')#speech continues from line '383' w/print
 print('(get up from the bed press enter)')#prompts user to exit bed uses w/print
 input()#T/I 'takes input from user and waits for enter key press'
 print('-5 DAYS IN THE FUTURE-')#(SOD) sense of direction () w/print
@@ -412,33 +412,119 @@ print('is lightweight but very efficient and has a logo TRAVIS RILEY NASA PILOT 
 print('the suspense from the on lookers is dramatic with people crying from the missing explorer families watching')#(SOD) continues sense of direction from line '410' w/print
 print('in fear and joy , the joy that one day that their loved ones will be found and will be sent back to home.')#(SOD) continues sense of direction from line '411' w/print
 print()#(ELOC)
-print('-watching in bliss , tears , estatic emotions as TEAM BRAVO B enters the shuttle-')#(SOD) sense of direction () w/print
+print('-watching in bliss , tears , estatic emotions as TEAM BRAVO B enters the shuttle-')#(SOD) sense of direction (Everyone) w/print
 print('(press enter)')# prompts user to press enter w/print function
-input()
+input()#T/I
 print(roger+':You going to start this mother fucker?. . ')#speech dialog from (Roger) uses print function
 print('(press enter)')# prompts user to press enter w/print function
-input()
-print(travis+':You were always the impatient fucker out of all of us.')
-print()
-print('-inspiring cinematic music plays as swells of violins and suspense tenses up-')
+input()#T/I
+print(travis+':You were always the impatient one out of all of us Roger.')#speech dialog from (Travis Riely) uses print function
+print()#T/I
+print('-inspiring cinematic music plays as swells of violins and suspense tenses up-')#(SOD) sense of direction () w/print
 print('(press enter)')# prompts user to press enter w/print function
-input()
-print('-The sound of the engine roaring burning into a inferno causeing the ground beneath to melt and seep as the shuttle slowly begins to-')
-print('rise above the ground. its set in stone that the mission to mars will be executed-')
-print('(press enter to go full throttle)')
-input()
-print(roger+':Give this badboy more juice Travis what the hell are you doing!?')#speech dialog from (Roger) uses print function
+input()#T/I
+print('-The sound of the engine roaring burning into a inferno causing the ground beneath to melt and seep. The shuttle slowly begins to')#(SOD) sense of direction () w/print
+print('rise above the ground its set in stone that the mission to mars will be executed-')#(SOD) continues sense of direction from line '426' w/print
+print('(press enter to go full throttle)')# prompts user to press enter to go full speed w/print function
+input()#T/I
+print(roger+':Give this badboy more juice Travis what the hell are you waiting for!?')#speech dialog from (Roger) uses print function
 print('(press enter)')# prompts user to press enter w/print function
-input()
-print(travis+':IM GIVING IT ALL IVE GOT!')#speech dialog from (Travis Riley) uses print function
-print()
+input()#T/I
+print(travis+':IM GIVING IT ALL IVE GOT! HOLD ON!!')#speech dialog from (Travis Riley) uses print function
+print()#(ELOC)
 print('-Travis pulls the throttle all the way back and the shuttle starts to line up with the right directions')#(SOA) Sense of action (Travis Riley) uses w/print
-print('and a huge cloud of smoke is seen under the shuttle miles wide , this is the start of the mission. A gigantic streak of flames from the ')
-print('exhaust , the heat is molten lava hot and the ground under where the ship flew off is molten and rendered into lava from the takeoff')
-print('')
-
-
-
-
+print('and a huge cloud of smoke is seen under the shuttle miles wide , this is the start of the mission. A gigantic streak of flames from the ')#(SOA continues) from line '435'
+print('exhaust , the heat is molten lava hot and the ground under where the ship flew off is molten and rendered into lava from the takeoff')#(SOA continues) from line '436'
+print('(press enter)')
+input()
+print('-The shuttle now in space the NASA team celebrates-')
+print('(press enter to talk to Roger)')
+input()
+print(travis+':We made it. . oh dear lord we made it.')
+print()
+print(roger+':Special Forces recon solider..*He holds up a '+bayonet_knife+'*')
+print('(press enter)')
+print()
+print()
+print('                                   _----..................___             ')
+print(' __,,..,-====>       _,.--  ------   |   _____  ______________` --._')
+print(' \      `\   __..--                 |  /::: / /::::::::::::::\        ')
+print('  \       `                         | /____/ /___ ____ _____::|    .   ')
+print('   \         Roger             ,.... |            `    `     \_|   ( )  |')
+print('    `.                       /`     `.\ ,,''` - ,.----------.._     `   |')
+print('      `.                     |                `               `-.      |')
+print('        `-._                 \                                    ``.. /')
+print('            `---..............>')
+print()
+print()
+input()
+print(travis+':* You pull out your '+bayonet_knife+'*')
+print('(pull out your  knife press enter)')
+input()
+print()
+print()
+print('                                   _----..................___             ')
+print(' __,,..,-====>       _,.--  ------   |   _____  ______________` --._')
+print(' \      `\   __..--                 |  /::: / /::::::::::::::\        ')
+print('  \       `                         | /____/ /___ ____ _____::|    .   ')
+print('   \         Travis             ,.... |            `    `     \_|   ( )  |')
+print('    `.                       /`     `.\ ,,''` - ,.----------.._     `   |')
+print('      `.                     |                `               `-.      |')
+print('        `-._                 \                                    ``.. /')
+print('            `---..............>')
+print()
+print()
+print(travis+':Roger. . I wanna thank you for saving my life back in cambodia..i mean if it wasnt for you id be.')
+print('(press enter to watch scene)')
+input()
+print(roger+':Dead. . I know dont worry about it..')
+print()
+print(roger+':Us. . were like brothers you and I. .')
+print()
+print(roger+':Nothing can come between two brothers. .')
+print('(press enter)')
+input()
+print(roger+':That war. . was just the test. . this is the real war. .it doesnt take much to take a mans life')
+print('but what takes courage is to let that man walk away with HIS life Travis. .You know this. .We talked about this')
+print('(press enter)')
+input()
+print(roger+':We were special forces recon not to kill. .but to save lives Travis. .')
+print('(press enter to get upset)')
+input()
+print(travis+':Monica. .If anything happens to her ill..')
+print('(press enter to hold back emotion)')
+input()
+print(roger+':Travis. .Killing isnt the solution to everything.')
+print('(press enter)')
+input()
+print('-You both sit in the spaceship shuttle piolot seats waiting for instruction and the dead silence of space is not heard')
+print('other members of your team from '+taylor+' are getting things')
+print('set up for the voyage and mission-')
+print('(press enter)')
+input()
+print(roger+':Remember. . make it back home to your wife and successfully complete tasks.')
+print()
+print(roger+':thats our job Travis.. whatever is going on with TEAM ALPHA we need to go repot on it and find them and get them back home')
+print('thats what we were instructed to do.')
+print('(press enter)')
+input()
+print(travis+':For Monica. .')
+print()
+print('-You stare up at the ceiling and the other member of TEAM BRAVO comes walking in-')
+print('(press enter)')
+input()
+print(taylor+':Guys your going to want to see this.')
+print()
+print('-Taylor shows the planet mars on a laptop screen showing how far and how blue its gotten from the sub zero')
+print('tempatures from the climate change and the planet has been rendered unfamiliar.-  ')
+print()
+print(taylor+':This is what they mustve been talking about the climate change')
+print('(press enter to talk)')
+input()
+print(travis+':This shit is all types of wrong mars is not a freezing cold planet. .')
+print('(press enter)')
+input()
+print(roger+':Well it is now , and whatever happened to TEAM ALPHA has to do with this change.')
+print()
 
 
