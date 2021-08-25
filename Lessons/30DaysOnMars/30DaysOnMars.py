@@ -14,7 +14,7 @@ and cunning take the user into a out of this world experience Thanks for downloa
 #----------------------------------- 𝐌𝐀𝐈𝐍 𝐏𝐋𝐀𝐘𝐄𝐑
 
 # Main Player
-travis='Travis' # The main Character in the game
+travis='Travis (Player)' # The main Character in the game
 
 
 
@@ -27,13 +27,13 @@ travis='Travis' # The main Character in the game
 
 Travis riley is a NASA astronaut that was sent out on a mission to find the rest of his team that went missing
 on a gone wrong mission to mars. His close bestfriend Roger is comming along for the ride but. You are a NASA
-commander pilot and your job as team leader of NASA BRAVO B is to find and recover your team.
+commander pilot and your job as team leader of TEAM NASA BRAVO B is to find and recover your team.
 
 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂
 
 """
 
-#----------------------------------- 𝐒𝐓𝐎𝐑𝐘 𝐂𝐇𝐀𝐑𝐀𝐂𝐓𝐄𝐑𝐒
+#----------------------------------- 𝐒𝐓𝐎𝐑𝐘 𝐂𝐇𝐀𝐑𝐀𝐂𝐓𝐄𝐑𝐒 ---------------------------------------------------------------------------------
 
 # story characters
 monica='Monica (Story NPC)'# One of Travis's old military ex girlfriends
@@ -41,8 +41,48 @@ roger='Roger (Story NPC)' # Travis's old cambodia war comradre
 dennis='Dennis (Story NPC)' # One of the explorers sent out to discover the missing staff
 nasa_commander=' Stephan NASA Commander (Story NPC)'# The commander of the entire NASA mission
 taylor='Taylor the photograpgher (Story NPC)' # Sent by NASA to document the mission
+channel_news_reporter='Sandra (CHANNEL 24 NEWS)'
+belle='Belle Riley (Wife)'
 
-#----------------------------------- 𝐈𝐍𝐅𝐄𝐂𝐓𝐄𝐃 
+#----------------------------------- 𝐇𝐄𝐀𝐋𝐓𝐇 𝐒𝐘𝐒 ----------------------------------------------------------------------------------------
+
+#H Health System
+health_amount = 100
+
+"""
+
+🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂
+
+
+
+▀█▀ █▀█ ▄▀█ █▀▀ █▄▀   █░█ █▀ █▀▀ █▀█ █▀   █░█ █▀▀ ▄▀█ █░░ ▀█▀ █░█
+░█░ █▀▄ █▀█ █▄▄ █░█   █▄█ ▄█ ██▄ █▀▄ ▄█   █▀█ ██▄ █▀█ █▄▄ ░█░ █▀█
+
+We can track the users health with a system that allows us to put theier health inside of a variable and
+throughout the program use addition and subtraction to remove or add the health back into the correndsponding 
+variable whatever that variable may be. in this instance Im using the 'health_amount = 100' to set the health
+and later on in the program we can do something like health-amount = health_amount (-/+) (integer) to add or subtract
+the health keeping a trackin record on users health and making the game more diverse! Theres other ways to do this but
+this is a more simplistic approach
+                                                                                          
+                                                                        ___________
+                                                                       [___________]
+                                                                        {=========}
+                                                                      .-'         '-.
+                                                                     /               \
+                                                                    /_________________\
+                                                                    |   _  _   _      |
+                                                                    ||\(_ |_)||_)||\ ||
+                                                   ,.--.   ,.--.    ||~\_)|  || \|| \||
+                                                  // \  \ // \  \   |_________________|
+                                             jgs  \\  \ / \\  \ /   |   Track health  |
+                                                   `'--'   `'--'    '-----------------'
+                                                   
+                                                   
+🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂
+                                                   
+"""
+#----------------------------------- 𝐈𝐍𝐅𝐄𝐂𝐓𝐄𝐃 ------------------------------------------------------------------------------------------
 
 # Infected
 mutant_infected_type_b='Infected NASA Explorer (Type B)' # One of the explorers from the last mission sent to discover gone bad
@@ -59,7 +99,7 @@ mutant_infected_type_x_killcount = 0
 mutant_infected_type_k_killcount = 0
 
 
-#----------------------------------- 𝐈𝐓𝐄𝐌𝐒
+#----------------------------------- 𝐈𝐓𝐄𝐌𝐒 ---------------------------------------------------------------------------------------------
 
 # Items
 flashlight='Modern Flashlight (Item)'
@@ -75,9 +115,9 @@ bic_lighter_amount = 1
 nasa_watch_amount = 1
 jar_amount = 0
 cloth_amount = 0
-walkie_amount = 0
+walkie_amount = 1
 
-#----------------------------------- 𝐑𝐄𝐒𝐎𝐔𝐑𝐂𝐄𝐒
+#----------------------------------- 𝐑𝐄𝐒𝐎𝐔𝐑𝐂𝐄𝐒 -----------------------------------------------------------------------------------------
  
 # Resources
 oxygen_tank='Oxygen Tank (Resource)' # used to fill up air supplies to a users NASA spacesuit
@@ -94,7 +134,7 @@ shotgun_shell_box_amount = 0
 bat_amount = 0
 bile_amount = 0
 
-#----------------------------------- 𝐂𝐋𝐎𝐓𝐇𝐈𝐍𝐆
+#----------------------------------- 𝐂𝐋𝐎𝐓𝐇𝐈𝐍𝐆 ------------------------------------------------------------------------------------------
 
 # Clothing
 nasa_suit='NASA Spacesuit (Clothing)' # Keeps the user alive on the atmosphere of mars
@@ -109,7 +149,7 @@ sub_zero_suit_amount = 0
 fire_hazzard_amount = 0 
 
 
-#----------------------------------- 𝐖𝐄𝐀𝐏𝐎𝐍𝐒
+#----------------------------------- 𝐖𝐄𝐀𝐏𝐎𝐍𝐒 ------------------------------------------------------------------------------------------
 
 # Weapons
 shotgun='12 gauge shotgun (Weapon)' # powerful modern shotgun used for extermination 
@@ -119,7 +159,7 @@ nasa_plasma_pistol='NASA Plasma Pistol (Weapon)' # A Plasma pistol issued by NAS
 chainsaw='Rusty Chainsaw (Weapon)' # used to tear open enemies to shreds or doors
 
 """
-🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂 
+🅶🅴🅽🅴🆂🅸🆂 
 
 ▀█▀ █░█ █▀▀   █▀▀ █░█ ▄▀█ █ █▄░█ █▀ ▄▀█ █░█░█
 ░█░ █▀█ ██▄   █▄▄ █▀█ █▀█ █ █░▀█ ▄█ █▀█ ▀▄▀▄▀ 
@@ -128,7 +168,7 @@ to break into martian rock and caves but in this survival situation using it aga
 
 𝐓𝐢𝐩: 𝐊𝐢𝐥𝐥 𝐢𝐧𝐟𝐞𝐜𝐭𝐞𝐝 𝐚𝐧𝐝 𝐰𝐚𝐭𝐜𝐡 𝐨𝐫𝐠𝐚𝐧𝐬 𝐟𝐥𝐲
 
-🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂
+🅶🅴🅽🅴🆂🅸🆂 
 """
 sawed_off='Sawed off Shotgun (Weapon)' # pump the enemies one time in the face or body with this deadly makeshift gun
 
@@ -140,14 +180,15 @@ nasa_plasma_pistol_amount = 0
 chainsaw_amount = 0
 sawed_off_amount = 0
 
-#----------------------------------- 𝐓𝐑𝐀𝐏𝐒
+#----------------------------------- 𝐓𝐑𝐀𝐏𝐒 ------------------------------------------------------------------------------------------
 
 # Traps
 bear_trap='Deadly makeshift bear Trap (Trap)' # A trap that takes the infected and severes their ankle to the bone
 
+#Trap Amounts
+bear_trap_amount = 0
 
-
-#----------------------------------- 𝐓𝐇𝐑𝐎𝐖𝐀𝐁𝐋𝐄𝐒
+#----------------------------------- 𝐓𝐇𝐑𝐎𝐖𝐀𝐁𝐋𝐄𝐒 -------------------------------------------------------------------------------------
 
 # Throwables
 pipe_bomb='Ticking Pipe Bomb (Throwables)'
@@ -157,17 +198,27 @@ molotov='Molotov Bottle (Throwables)'
 pipe_bomb_amount = 0
 molotov_amount = 0
 
-#----------------------------------- 𝐇𝐄𝐀𝐋𝐈𝐍𝐆
+#----------------------------------- 𝐇𝐄𝐀𝐋𝐈𝐍𝐆 ------------------------------------------------------------------------------------------
 
 # Healing
-small_medi_kit=' Samll Medkit (Healing)'# used to heal when user is weak
-full_medikit='Large medkit (Healing)'
-syringe='Antiseptic Syringe (Healing)' # used if user is infected with the viral infection B-10
-band='Bandage aids (Healing)'
-pills='Antibiotic Pills Mozenatrazine (Healing)'
+small_medikit='Small Medkit (Healing)'# used to heal when user is weak
+medium_medkit='Medium Medit (healing) '
+large_medikit='Large medkit (Healing)'
+syringe='Antimicrobial Syringe (Healing)' # used if user is infected with the viral infection B-10
+bandkit='Bandage aid kit (Healing)' # A simple method to healing yourself
+pills='Antibiotic Pills Mozenatrazine (Healing)' # Pills that can be used to heal the user
+morphine_injection='Morphine Syringe (healing)'
 
+#h Healing Amounts
+small_medikit_amount = 0
+medium_medkit_amount = 0
+large_medikit_amount = 0
+syringe_amount = 0
+bandkit_amount = 0
+pills_amount = 0
+morphine_injection_amount = 0
 
-#----------------------------------- 𝐂𝐎𝐍𝐒𝐔𝐌𝐀𝐁𝐋𝐄𝐒
+#----------------------------------- 𝐂𝐎𝐍𝐒𝐔𝐌𝐀𝐁𝐋𝐄𝐒 --------------------------------------------------------------------------------------
 
 # Consumables
 snack='Bag of Chips (Consumable)' # a snack used to heal 
@@ -175,65 +226,219 @@ soda='Soda can (Consumable)' # Can be found scattered in the facilities
 canned_meat='Canned Lunch Tin (Consumable)' # used to gain a fair amount of health
 energy_bar='Crunchy Energy bar (Consumable)' # A crunchy energy bar that heals user
 
+# Consumable Amounts
+snack_amount = 0 
+soda_amount = 0 
+canned_meat_amount = 0
+energy_bar_amount = 0
 
-#----------------------------------- 𝐈𝐍𝐅𝐄𝐂𝐓𝐈𝐎𝐍 𝐓𝐘𝐏𝐄𝐒 ☣
 
-#Infection Types
+#----------------------------------- 𝐈𝐍𝐅𝐄𝐂𝐓𝐈𝐎𝐍 𝐓𝐘𝐏𝐄𝐒 ☣ -------------------------------------------------------------------------------
+
+#Infection Type constants
 infection_type_B_10='B-10 (VIRUS)' # one of the many virus types user or anyone can get infected by
 infection_type_B_11='B-11 (VIRUS - imminent death)' # The worst type of infection you can receive and tehre is no cure you will DIE.
 
 
-#----------------------------------- 𝐕𝐄𝐇𝐈𝐂𝐋𝐄𝐒
+#----------------------------------- 𝐕𝐄𝐇𝐈𝐂𝐋𝐄𝐒 -------------------------------------------------------------------------------
 
-# Vehicles
+# Vehicles Constants
 moonwalker='NASA B-1080 Moon convoy (Vehicle)' # Slow but contains a healing station for inections onboard
 tracer='Tracer Mark II (Vehicle)' # A very fast tracer vehicle to drive around the mars surfcae
 rounder='Rounder sphere (vehicle)'# A round vehicle that rolls // can be equipped with death spikes
 
+#Vehicle Health amounts
+moonwalker_health_amount = 100
+tracer_health_amount = 100
+rounder_health_amount = 100
 
 #----------------------------------- 𝐂𝐑𝐀𝐅𝐓𝐀𝐁𝐋𝐄
 
-# Craftable
+# Craftable 
 pipebomb='Ticking Pipebomb (Craftable)' # 
 makeshift_bear_trap='Make Shift Bear Trap (Craftable) '# break some ankles!
 molotov='Leaking Molotov (Craftable)' # Create a fiery throwable to ignite infected!
-bile='Bile Jar (Cratable)' # Create a jar that makes the infected kill one another!
-
+bile='Bile Jar (Craftable)' # Create a jar that makes the infected kill one another!
 
 #----------------------------------- 
 
 
 
+print()#(ELOC)
+print()#(ELOC)
+print()#(ELOC)
+print()#(ELOC)                            
+print('                  ██████╗░░█████╗░  ██████╗░░█████╗░██╗░░░██╗░██████╗  ░█████╗░███╗░░██╗  ███╗░░░███╗░█████╗░██████╗░░██████╗         ')
+print('                  ╚════██╗██╔══██╗  ██╔══██╗██╔══██╗╚██╗░██╔╝██╔════╝  ██╔══██╗████╗░██║  ████╗░████║██╔══██╗██╔══██╗██╔════╝         ')
+print('                  ░█████╔╝██║░░██║  ██║░░██║███████║░╚████╔╝░╚█████╗░  ██║░░██║██╔██╗██║  ██╔████╔██║███████║██████╔╝╚█████╗░         ')
+print('                  ░╚═══██╗██║░░██║  ██║░░██║██╔══██║░░╚██╔╝░░░╚═══██╗  ██║░░██║██║╚████║  ██║╚██╔╝██║██╔══██║██╔══██╗░╚═══██╗         ')
+print('                  ██████╔╝╚█████╔╝  ██████╔╝██║░░██║░░░██║░░░██████╔╝  ╚█████╔╝██║░╚███║  ██║░╚═╝░██║██║░░██║██║░░██║██████╔╝         ')
+print('                  ╚═════╝░░╚════╝░  ╚═════╝░╚═╝░░╚═╝░░░╚═╝░░░╚═════╝░  ░╚════╝░╚═╝░░╚══╝  ╚═╝░░░░░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝╚═════╝░         ')
+print('                                  .                                            .                                                      ')
+print('                       *   .                  .              .        .   *          .                            ,                   ')
+print('                    .         .                     .       .           .      .        .                                             ')
+print('                          o                             .                   .                           .                             ')
+print('                           .              .                  .           .                                                            ')
+print('                            0     .                                                                         ,                         ')
+print('                                   .          .                 ,                ,    ,                            .                  ')
+print('                   .          \          .                         .                                *                                 ')
+print('                        .      \   ,                                                                           .                      ')
+print('                     .          o     .                 .                   .                  .          ,                           ')
+print('                       .         \                 ,             .                .                                                   ')
+print('                                 #\##\#      .                              .        .                                                ')
+print('                               #  #O##\###                .                        .               .                                  ')
+print('                     .        #*#  #\##\###                       .                     ,                          .                  ')
+print('                          .   ##*#  #\##\##               .                     .                         .                           ')
+print('                        .      ##*#  #o##\#         .                             ,                                                   ') 
+print('                            .     *#  #\#     .                    .             .                                   .                ')   
+print('                                        \          .                         .                                 .                      ')
+print('                  ____^/\___^--____/\____O______________/\/\---/\___________---________________________/\____________________         ')
+print('                     /\^   ^  ^    ^                  ^^ ^  \ ^          ^       ---                         .         .              ')
+print('                           --           -            --  -      -         ---  __       ^         --     .          .                 ')
+print('                     --  __                      ___--  ^  ^                         --                       --_                     ')
+print()#(ELOC)     
+print()#(ELOC)     
+print()#(ELOC)     
+print('                                                                                                                                     ') 
+print('                                                                                                                                     ')
+print('                                             ▄▀█   █▀▀ █▀▀ █▄░█ █▀▀ █▀ █ █▀   █▀▀ ▄▀█ █▀▄▀█ █▀▀                                      ')
+print('                                             █▀█   █▄█ ██▄ █░▀█ ██▄ ▄█ █ ▄█   █▄█ █▀█ █░▀░█ ██▄                                      ')
+print('                                                                                                                                     ')
+print('                                                                                                                                     ')
+print('                                                    ｃｒｅａｔｅｄ ｂｙ ｇｅｎｅｓｉｓ ｇｉｒ                                             ')                                    
+print('                                                                                                                                     ')
+print('                                                          (𝙉𝙀𝙒 𝙂𝘼𝙈𝙀 𝙋𝙍𝙀𝙎𝙎 𝙀𝙉𝙏𝙀𝙍)                                                     ')
+input()
+print(channel_news_reporter+':The NASA team that went up to go to mars have vanished and the NASA special operators and command team have lost')#speech dialog from (Sandra channel 24 NEWS) uses print function
+print('contact with them , what ever is going on up there its concerning due to high volumes of tempature drops this is the first time ever')#speech continues from line '312' w/print
+print('in the history of mankind that the temp has dropped so low below sub zero tempatures. without a doubt this means NASA has to give an')#speech continues from line '313' w/print
+print('explanation to the phenomenon , if all goes well they will send another team out to discover whats been going on')#speech continues from line '314' w/print
+print('(press enter to turn off tv)')# prompts user to press enter to turn off tv w/print function
+input()#T/I 'takes input from user and waits for enter key press'
+print(travis+': That means me.')#speech dialog from (Travis Riley) uses print function
+print('(press enter)')# prompts user to press enter w/print function
+input()#T/I
+print(belle+':They dont want you to actually to go up there do they?')#speech dialog from (Belle Riley) uses print function
+print('(press enter to look back at her)')#prompts user to press enter to look back at her w/print
+input()#T/I
+print(travis+':Im going to have to Im the NASA pilot leader of their team BRAVo..so the answer is yes.')#speech dialog from (Travis Riley) uses print function
+print('(press enter)')# prompts user to press enter w/print function
+input()#T/I
+print(belle+':This is why your going to end up dead one day. . They ask to much from you and I refuse to let you go up there')#speech dialog from (Belle Riley) uses print functionV
+print('doesnt the wife anything to have a say in any of this?')#speech continues from line '327' w/print
+print('(press enter to comfort her)')
+input()#T/I
+print(travis+'Hey listen I know this can be very scary but trust me on this one its a go to and come back trip nothing else.')#speech dialog from (Travis Riley) uses print function
+print('(press enter to reassure)')# prompts user to press enter to reassure w/print function
+input()#T/I
+print(belle+':. .')
 print()
+print(travis+':Come on do you trust me honey?')#speech dialog from (Travis Riley) uses print function
+print()#(ELOC)
+print('-You look at her with compassionate eyes and you feel her soul feel doubt but she agrees with you anyway-')#(SOA) Sense of action (Travis Riley) uses w/print
+print('press enter')# prompts user to press enter w/print function
 print()
+print('                                                                             █▄▄ █▀▀ █░░ █░░ █▀▀                                                                        ')
+print('                                                                             █▄█ ██▄ █▄▄ █▄▄ ██▄                                                                        ')
 print()
+print('                                         `hh..yNyMMMMMMNNNMNMMNyNNNm.-.mM+mMNN:ohMMMMMMMMMNNNNNs.:hMNNMMMMMN++NMMMMMMMMMMMMMMMMNMo--d                                   ')
+print('                                        `dh``.mhNMMMMMMNMNNNMMNsNMNh---dN+dMNm/syMMMMMMMMMMMNMMd..omMyMMMMMMN:smMMMMMMMNMMMMMMMmMy--y                                   ')
+print('                                        yd. .:NdMMMMMMMMMMNmMMNoNMMh---yN+hMNm/osMMMMMMMMMMMdmMN-./yMdhMNMMMMh-smmMMMMMMNMMMMMMdMm--o                                   ')
+print('                                        N:  .omNMMMMMMMMNMhNMMmoNMNh---om/sMMm/++NMMMMMMMMMMNhMM:-:+MN/NyMMMMN//hyMMMMMMNMMMMMMdMd/:+                                   ')
+print('                                      `ms`  .ydNMMMMMMMMNNyNMMyyMNmh---+N++MMm+//mMMMMMMMMMMMsNM+-:omMsdydMMMMh-odhMMMMMmMMMMMMdMh+:/                                   ')
+print('                                       N-   -yhhMMMMMMNMNdsmMMoyMNdd: +oNs/dNN+/:dMNNMMMMMMMM+dN+--/dNy/doMMMMN:+doMMMMMmNMMMMMdMyo/o                                   ')
+print('                                      yy.   -/sdMNNNNNNMNsyNMN+dMhyh----d+.+yN+:/hNhyNNNmmmNm:sm/..:yMy.s.NMMMM+/osdMMMMMdMMMMMdNss+o                                   ')
+print('                                      N+.  `--oNMNNNNNNMN+yNMd:NMo+y:.-.++--/y/--:/::::::::::.-:-..-:oo.:.hNMMMy:/dsMMMMMhMMMMMNyydsy                                   ')
+print('                                     .M-`  .-.dNMMNNNNNNM/sNNs+Nm-- :.-.----::--...................---..../++ymh-:m/MdMMMhMMMMMMddNoh                                   ')
+print('                                     .M.`  .-+NNNNNNNNNNN/oNN:y++...-------..--:-................---..........-+--m:NsMMMyMMMMMMmNdyh                                   ')
+print('                                     .N.. `-.dNNNNNNNNNNN++ho--........--........-..............................-.y:hoMMMyNMMMMMmNodd                                   ')
+print('                                      N-. .- NmMNNNNNNNNN+--............-..........................................- +NMMymMMMMMNmohM                                   ')
+print('                                      h+. --yhhNNNNNNNNNN-..........-.---.-..........................................-oNMsdMMMMMMymyM                                   ')
+print('                                      /d..:-m+dNNNNNNNNNN:..-::::::::::/:::::-...................-::::--------..----...oNyhMMMMMMmsmN                                   ')
+print('                                       h:/-+h/NNNNNNNNNNm/./yNNNmdyyoossyhdddh:...................-omddhyyo++++oyhhdho:+NyyMMMMhymsMN                                   ')
+print('                                       .h+.y/oNNNNNNNNNMdo-:++/++oys+oossso+/--...................-://+ossoo++oooo+/o+.+NhsMMMMy/mNMm                                   ')
+print('                                        `/.d.smNNNNNNNNNN-.......-....................................--.....-.........oMdoNNNMh-NmMd                                   ')
+print('                                        `-:d+shMNMMNNNMNM:........-..................................-.---.-.-.-...-...ymdodNMMo:mmMd                                   ')
+print('                                        -.o://mNNMMMMMMMNh......................................-...--------.--.--.....dohodMMM+-hdMd                                   ')
+print('                                        -`h`:-hNNMNMMMMMdd/.....---...-.............................--------.-......../osy/mMMM--mdMd                                   ')
+print('                                        -.y :.smmNNMMMMMsyh.......--..............................-.------------.-....:-mo/NMMN-hMdMh                                   ')
+print('                                       `-++ :-+ddNMMMMMMo+h+....----............................---.--------------.-.-.so+/MMMNmMMNdd                                   ')
+print('                                       ..h: :-+mMMMMMMMM++/d-.------.-...................+.......--.--------------.-..:d+/+MMMMMMMmms                                   ')
+print('                                       --N``::yNMMMMMMMNo+.+h-.-----...................../........-.--------------.-.-d//:sMMMMMMMmMo                                   ')
+print('                                       -/N `::dMMMMMMMMm///+my-...--.....................-........-------------------hMmm:hMMMMMMdMMo                                   ')
+print('                                       -+d  :-mMMMMMMMMh:` `+ys-..................................------------------yMMMN+dMMMMMNhMMy                                   ')
+print()#(ELOC)
+print()#(ELOC)
+print(belle+':I Love you. .')#speech dialog from (Belle) uses print function
+print('(press enter to hug her)')# prompts user to hug wife w/print function
+input()#T/I
+print(travis+':I promise Im not going to let anything happen to me while Im up there besides alot of the saftey')#speech dialog from (Travis Riley) uses print function
+print('precautions are that our saftey is the first thing in protocol and I doubt that our own team...NASA the biggest space agency will')#speech continues from line '375' w/print
+print('send us to our own doom.')#speech continues from line '376 w/print
+print('(press enter to talk)')# prompts user to talk w/print function
+input()#T/I
+print(belle+':yeah but you heard they cant find the team that they put up there in the first place!')#speech dialog from (Belle Riley) uses print function
+print('(press enter)')# prompts user to press enter w/print function
+input()#T/I
+print(travis+'::And thats were we come in to come help them find them Belle. I Love you but they most likely just lost a signal or something')#speech dialog from (Travis Riley) uses print function
+print('again why would they send us somehwhere that they have no clue about Belle? Trust me')#speech continues from line '383' w/print
+print('(get up from the bed press enter)')#prompts user to exit bed uses w/print
+input()#T/I 'takes input from user and waits for enter key press'
+print('-5 DAYS IN THE FUTURE-')#(SOD) sense of direction () w/print
+print('(press enter)')# prompts user to press enter w/print function
+input()#T/I
+print(channel_news_reporter+':Today is the day! NASA launch TEAM BRAVO into space. We are awaiting confirmation but as it seems')#speech dialog from (Sandra channel 24 NEWS) uses print function
+print('NASA has declared for TEAM BRAVO to go up into the spaces atmosphere and document as well discover what has happened to TEAM ALPHA!')#speech continues from line '389' w/print
+print('its getting hetic over here john! we could be seeing a new age historical event unfolding here at NASA!')#speech continues from line '390' w/print
+print('(press enter to walk with your team to the Spaceship)')#prompts user to press enter w/print
+input()#T/I
+print(channel_news_reporter+':Sir ,Sir! commander Travis Riley! what did they tell you about the mission thus far?! Sir!!')#speech dialog from (Sandra channel 24 NEWS) uses print function
+print('(input text than press enter)')# prompts user to imput text than press enter w/print function
+print()#(ELOC)
+response = input() # user creates response expression than stores it inside variable
+print(travis+':'+response) # combines the travis constant with users previous response constant!
+print('(press enter to keep walking foward)')# prompts user to press enter to keep walking foward w/print function
+input()#T/I
+print(channel_news_reporter+':This is phenomenal! They are walking into the spaceship and its tuesday 2th , april 5066')#speech dialog from (Sandra channel 24 NEWS) uses print function
+print('and Travis Riley and his team are entering the spaceship to head to mars this is truly amazing! John , John!')#speech continues from line '402' w/print
+print()#(ELOC)
+print(channel_news_reporter+':Are you getting this? this is out of this world!')#speech dialog from (Sandra channel 24 NEWS) uses print function
+print('(press enter)')# prompts user to press enter w/print function
+input()#T/I
+print('-As you walk towards the spaceship shuttle the sun goes down slightly as night nears the sounds of the roaring engines')#(SOD) sense of direction () w/print
+print('can be heard and the millions of people watching the channel 24 NEWS stand waiting , their loved ones , families watching as')#(SOD) continues sense of direction from line '407' w/print
+print('you and TEAM BRAVO B walk inside the mechanical shuttle..The '+nasa_suit+' you have on')#(SOD) continues sense of direction from line '408' w/print
+print('is lightweight but very efficient and has a logo TRAVIS RILEY NASA PILOT printed onto it in threaded patch.')#(SOD) continues sense of direction from line '409' w/print
+print('the suspense from the on lookers is dramatic with people crying from the missing explorer families watching')#(SOD) continues sense of direction from line '410' w/print
+print('in fear and joy , the joy that one day that their loved ones will be found and will be sent back to home.')#(SOD) continues sense of direction from line '411' w/print
+print()#(ELOC)
+print('-watching in bliss , tears , estatic emotions as TEAM BRAVO B enters the shuttle-')#(SOD) sense of direction () w/print
+print('(press enter)')# prompts user to press enter w/print function
+input()
+print(roger+':You going to start this mother fucker?. . ')#speech dialog from (Roger) uses print function
+print('(press enter)')# prompts user to press enter w/print function
+input()
+print(travis+':You were always the impatient fucker out of all of us.')
 print()
-print('██████╗░░█████╗░  ██████╗░░█████╗░██╗░░░██╗░██████╗  ░█████╗░███╗░░██╗  ███╗░░░███╗░█████╗░██████╗░░██████╗')
-print('╚════██╗██╔══██╗  ██╔══██╗██╔══██╗╚██╗░██╔╝██╔════╝  ██╔══██╗████╗░██║  ████╗░████║██╔══██╗██╔══██╗██╔════╝')
-print('░█████╔╝██║░░██║  ██║░░██║███████║░╚████╔╝░╚█████╗░  ██║░░██║██╔██╗██║  ██╔████╔██║███████║██████╔╝╚█████╗░')
-print('░╚═══██╗██║░░██║  ██║░░██║██╔══██║░░╚██╔╝░░░╚═══██╗  ██║░░██║██║╚████║  ██║╚██╔╝██║██╔══██║██╔══██╗░╚═══██╗')
-print('██████╔╝╚█████╔╝  ██████╔╝██║░░██║░░░██║░░░██████╔╝  ╚█████╔╝██║░╚███║  ██║░╚═╝░██║██║░░██║██║░░██║██████╔╝')
-print('╚═════╝░░╚════╝░  ╚═════╝░╚═╝░░╚═╝░░░╚═╝░░░╚═════╝░  ░╚════╝░╚═╝░░╚══╝  ╚═╝░░░░░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝╚═════╝░')
-print('                .                                            .                                             ')
-print('     *   .                  .              .        .   *          .                            ,          ')
-print('  .         .                     .       .           .      .        .                                    ')
-print('        o                             .                   .                           .                    ')
-print('         .              .                  .           .                                                   ')
-print('          0     .                                                                         ,                ')
-print('                 .          .                 ,                ,    ,                            .         ')
-print(' .          \          .                         .                                *                        ')
-print('      .      \   ,                                                                           .             ')
-print('   .          o     .                 .                   .                  .          ,                  ')
-print('     .         \                 ,             .                .                                          ')
-print('               #\##\#      .                              .        .                                       ')
-print('             #  #O##\###                .                        .               .                         ')
-print('   .        #*#  #\##\###                       .                     ,                          .         ')
-print('        .   ##*#  #\##\##               .                     .                         .                  ')
-print('      .      ##*#  #o##\#         .                             ,                                          ') 
-print('          .     *#  #\#     .                    .             .                                   .       ')   
-print('                      \          .                         .                                 .             ')
-print('____^/\___^--____/\____O______________/\/\---/\___________---________________________/\____________________')
-print('   /\^   ^  ^    ^                  ^^ ^  \ ^          ^       ---                         .         .     ')
-print('         --           -            --  -      -         ---  __       ^         --     .          .        ')
-print('   --  __                      ___--  ^  ^                         --                       --_            ')
+print('-inspiring cinematic music plays as swells of violins and suspense tenses up-')
+print('(press enter)')# prompts user to press enter w/print function
+input()
+print('-The sound of the engine roaring burning into a inferno causeing the ground beneath to melt and seep as the shuttle slowly begins to-')
+print('rise above the ground. its set in stone that the mission to mars will be executed-')
+print('(press enter to go full throttle)')
+input()
+print(roger+':Give this badboy more juice Travis what the hell are you doing!?')#speech dialog from (Roger) uses print function
+print('(press enter)')# prompts user to press enter w/print function
+input()
+print(travis+':IM GIVING IT ALL IVE GOT!')#speech dialog from (Travis Riley) uses print function
 print()
+print('-Travis pulls the throttle all the way back and the shuttle starts to line up with the right directions')#(SOA) Sense of action (Travis Riley) uses w/print
+print('and a huge cloud of smoke is seen under the shuttle miles wide , this is the start of the mission. A gigantic streak of flames from the ')
+print('exhaust , the heat is molten lava hot and the ground under where the ship flew off is molten and rendered into lava from the takeoff')
+print('')
+
+
+
+
+
+
