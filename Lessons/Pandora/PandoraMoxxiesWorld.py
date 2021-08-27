@@ -78,7 +78,7 @@ later on!
 
 
          █▄██▄█
-█▄█▄█▄█▄█▐█┼██▌█▄█▄█▄█▄█ ~ The Queen wishes for your help madem!
+█▄█▄█▄█▄█▐█┼██▌█▄█▄█▄█▄█ ~ The Queen wishes for your assistance madem!
 ███┼█████▐████▌█████┼███
 █████████▐████▌█████████ 
 
