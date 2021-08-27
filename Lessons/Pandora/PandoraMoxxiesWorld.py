@@ -74,11 +74,11 @@ Sure we are limited by only using the enter key. . for now. Because chapter one 
 methods, drive your story and put your love and energy into it like its a movie set! You can really pull in
 a users attention wanting more Throw them some scenarios that will blow them away have them wanting more
 if you can do this only with limited amount of functions and enter youll do that much more with more functions 
-later on. 
+later on! 
 
 
          █▄██▄█
-█▄█▄█▄█▄█▐█┼██▌█▄█▄█▄█▄█ ~ The Queen wishes for your assistance madem!
+█▄█▄█▄█▄█▐█┼██▌█▄█▄█▄█▄█ ~ The Queen wishes for your help madem!
 ███┼█████▐████▌█████┼███
 █████████▐████▌█████████ 
 
