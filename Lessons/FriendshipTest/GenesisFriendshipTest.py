@@ -51,7 +51,7 @@ print('A(Blueberry Muffins)')#choices uses print w/print function
 print('B(Raspberry Muffins)')#choices uses print w/print function
 print('C(Chocolate Muffins)')#choices uses print w/print function
 print('D(Toxic Muffins)')#choices uses print w/print function
-print('Select from A , B , C , D than press enter')#prompts user to selct from choices uses w/print
+print('Select from A , B , C , D than press enter')#prompts user to select from choices uses w/print
 answer=input()#creates answer variable w/input()
 print()#(ELOC)
 print('Fun Fact:Genesis Gir loves Blueberry muffins he grew up as a kid eating them in pre school')#gives fun facts about me to the user w/print
