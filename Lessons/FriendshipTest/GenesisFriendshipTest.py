@@ -71,7 +71,7 @@ print('Select from A , B , C , D than press enter')#prompts user to select a cho
 answer=input()#creates answer variable w/input()
 print()#(ELOC)
 print('Fun fact:Genesis Girs profile is a character from a TV show called Invader Zim known as')#gives fun facts about me to the user w/print
-print('Gaz and its fan art from the interent he found and she stuck out to him.')#continues fun facts about me to the user w/print from line '51'
+print('Gaz and its fan art from the internet he found and she stuck out to him.')#continues fun facts about me to the user w/print from line '51'
 print()#(ELOC)
 print('Answer:(Pink)')#the answer to the question uses print functions
 print('press enter to continue')#prompts user to press enter w/print and gathers data collection
@@ -181,8 +181,8 @@ print()#(ELOC)
 █ █░▀█ ░█░ ██▄ █▄█ ██▄ █▀▄ ▄█   ▀▄▀▄▀ █▀█ █▀█ ░█░   █▀█ █▀▄ ██▄   ░█░ █▀█ ██▄ ░█░ ░▄
 
 Integers are values and whole numbers that can be used to make expressions! They are important when
-it comes down to using them in your code! Integers are different than floats because they dont contain
-a decimal or decials within them integers are a data type as well!
+it comes down to using them in your code! Integers are different than floats because they don't contain
+a decimal or decimals within them integers are a data type as well!
 
 ex. -3 , -2 , -1 , 0 , 1 , 2 , 3 , 4 , 5  are said to be integer numbers and values
   
@@ -197,7 +197,7 @@ print('D(All of the Above)')#choices uses print w/print function
 print('Select from A , B , C , D than press enter')#prompts user to select a choice than press enter w/print and gathers data collection
 answer=input()#creates answer variable w/input()
 print()#(ELOC)
-print('Fun fact: Genesis once ate 3 Jalopenos and a Habenero pepper with a dish plain and didnt')#gives fun facts about me to the user w/print
+print('Fun fact: Genesis once ate 3 Jalapenos and a Habanera pepper with a dish plain and didn\'t')#gives fun facts about me to the user w/print
 print('tear up. The man loves his spicy food')#continues fun facts about me to the user w/print from line '114'
 print('Answer:(All of the above)')#the answer to the question uses print functions
 print('press enter to continue')#prompts user to press enter w/print and gathers data collection
