@@ -194,7 +194,7 @@ discovered= 0
 #Characters
 erok='The Cannibal leader'#implemented!
 stan='Stan The cannibal'#implemented!
-hostess='Mrs. Melaine The hostess'#implemented!
+hostess='Mrs. Melanie The hostess'#implemented!
 you='Mr.Keith'#implemented!
 wife='Mrs. Everest'#implemented!
 son='Nathan'#Someone Special to Mr.Keith
