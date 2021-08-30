@@ -92,7 +92,7 @@ input()# Takes input w/input()
 print(bot+': Whats your mood like right now?')# asking a question
 mood = input()# user creates variable using the input functionalities!
 print()#(ELOC)
-print(bot+': Sometimes feeling '+mood+' is okay but when i find myself feeling unhappy') # speech dialog from (Gen Chit-Chat Bot)
+print(bot+': Sometimes feeling '+mood+' is okay! But when i find myself feeling unhappy') # speech dialog from (Gen Chit-Chat Bot)
 print('I just talk with someone about it and I feel a lot better in the end!') #speech dialog continues from line '57'
 print('(press enter)') # prompts user to press enter
 input()# Takes input w/input()
