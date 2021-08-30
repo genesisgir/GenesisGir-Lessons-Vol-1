@@ -9,6 +9,8 @@ but this will be fun to make and learn from in the long run with functionalities
 using multiline strings and much more! Thanks for downloading! 山尺讠〸〸🝗𝓝 & ⼕ㄖᗪ🝗ᗪ ⻏丫 Ꮆ🝗𝓝🝗丂讠丂 Ꮆ讠尺
 """
 # Loading screen
+print()
+print()
 print('initializing bot! ')
 print('(loading. . .)')
 print('(press enter)')
@@ -40,7 +42,7 @@ print('(press enter)')
 input()
 
 #Bot variable
-bot = '(Chit-Chat Bot)'
+bot = '[𝗖𝗵𝗶𝘁-𝗖𝗵𝗮𝘁 𝗕𝗼𝘁]'
 
 # prompt variable shortcuts
 prompt = '(press enter)'
@@ -68,13 +70,12 @@ so what are you waiting for it uses simple functions like input() to gather user
 various questions that you will have to answer to gather data! Goodluck on your journey with your questions
 
 lets get started!
-(press enter to begin chatting!)
                                                                                                        """)
-input()# waits for user to type than press enter and function call evaluates to standard input()
+input('press enter to begin chatting!)')# waits for user to type than press enter and function call evaluates to standard input()
 
 # Question 1
-print(bot+':Hello whats your name? ')# asking a question
-name = input() # user creates variable using the input functionalities!
+print(bot+': Hello whats your name? ')# asking a question
+name = input('(enter your name) ') # user creates variable using the input functionalities!
 print()#(ELOC)
 print(bot+':Nice to meet you '+name+' im glad to have you here today to have a fun chat with me!') # speech dialog from (Gen Chit-Chat Bot)
 print(prompt) # prompts user to press enter
@@ -82,7 +83,7 @@ input() # Takes input w/input()
 
 # Question 2
 print(bot+': So whats your favorite thing to do '+name+'?')# asking a question
-hobby = input()# user creates variable using the input functionalities!
+hobby = input('(enter Hobby) ') # user creates variable using the input functionalities!
 print()#(ELOC)
 print(bot+':Nice that sounds interesting mine is to talk with people like you and gather data!') # speech dialog from (Gen Chit-Chat Bot)
 print(prompt) # prompts user to press enter
@@ -90,7 +91,7 @@ input()# Takes input w/input()
 
 # Question 3
 print(bot+': Whats your mood like right now?')# asking a question
-mood = input()# user creates variable using the input functionalities!
+mood = input('(enter your mood) ')# user creates variable using the input functionalities!
 print()#(ELOC)
 print(bot+': Sometimes feeling '+mood+' is okay! But when i find myself feeling unhappy') # speech dialog from (Gen Chit-Chat Bot)
 print('I just talk with someone about it and I feel a lot better in the end!') #speech dialog continues from line '57'
@@ -99,18 +100,17 @@ input()# Takes input w/input()
 
 # Question 4
 print(bot+': Whats your favorite game to play?')# asking a question
-game = input()# user creates variable using the input functionalities!
+game = input('(enter your favorite game) ')# user creates variable using the input functionalities!
 print()#(ELOC)
 print(bot+': '+game+'? I never heard of it than again Im a bot!') # speech dialog from (Gen Chit-Chat Bot)
-print('(press enter)') # prompts user to press enter
-input()# Takes input w/input()
+input(prompt)
 
 #Bot Color variable
 bot_color = 'purple'
 
 # Question 5 
 print(bot+': Whats your favorite color?')# asking a question
-color = input()# user creates variable using the input functionalities!
+color = input('(enter your favorite color) ')# user creates variable using the input functionalities!
 print()#(ELOC)
 print(bot+':'+color+'? My favorite color is '+bot_color+'!') # speech dialog from (Gen Chit-Chat Bot)
 print(prompt) # prompts user to press enter
@@ -131,69 +131,66 @@ stream(screen) just make sure its a correct data type: interger , float or a str
 """ 
 
 # Question 6
-print(bot+': Where are you from im curious! we are friends so why not tell me!')# asking a question
-location = input()# user creates variable using the input functionalities!
+print(bot+': Where are you from im curious!')# asking a question
+location = input('(enter your location) ')# user creates variable using the input functionalities!
 print()
-print(bot+': I never been to '+location+' but it sounds pretty and nice!') # speech dialog from (Gen Chit-Chat Bot)
-print('(press enter to talk some more)')# prompts user to talk some more than press enter
-input()# Takes input w/input()
+print(bot+': I never been to '+location+' but it sounds pretty nice!') # speech dialog from (Gen Chit-Chat Bot)
+input('(press enter)') # prompts user to talk some more than press enter
 
 #statement 1
-print(bot+': Im having so much fun talking with you and if I remember correctly your favorite game is ')# speech dialog from (Gen Chit-Chat Bot)
-print(game+' and your favorite color is '+color+'!') #speech dialog continues from line '84'
+print(bot+': Im having so much fun talking with you '+name+'! If I remember correctly your favorite game is')# speech dialog from (Gen Chit-Chat Bot)
+print(game+' and your favorite color is '+color+'?') #speech dialog continues from line '84'
 print()# (ELOC)
-print(bot+':lets keep chit chatting!')# speech dialog from (Gen Chit-Chat Bot)
-print('(press enter to keep chatting with your friend)')# prompts user to keep chatting than press enter
-input()# Takes input w/input()
+print(bot+':lets keep chatting!')# speech dialog from (Gen Chit-Chat Bot)
+input('(press enter to keep chatting)')# prompts user to keep chatting than press enter
 
 # Question 7
 print(bot+': What type of food do you like? i like seafoods and things that are very spicy at times')# asking a question
 print('fun fact spicy foods are good for your heart and it tastes good as well!')# line continues from '92' w/print
-food = input() # user creates variable using the input functionalities!
+food = input('(enter your favorite food) ') # user creates variable using the input functionalities!
 print()
 print(bot+': Oh! '+food+' sounds really good!')
 print()# (ELOC)
 print(bot+': maybe one day ill have to try it out so what was it again? '+food+' food wow!')
-print('(press enter)') # prompts user to press enter
-input()# Takes input w/input()
+input('(press enter)')# prompts user to press enter
 
 # Question 8
 print(bot+': I have a question what time is it for you right now?')
-print('(enter your time)')
-time = input() # user creates variable using the input functionalities!
+time = input('(Enter your time) ') # user creates variable using the input functionalities!
 print() # (ELOC)
 print(bot+': Woah! for me the time is 10:44pm! Thats when this program got created around.')
-print(prompt)# prompts user to press enter
-input()# Takes input w/input()
+input(prompt)# prompts user to press enter
 
 # Question 9
 print(bot+': Whats your favorite type of music? im curious like a cat!')
-tunes = input() # user creates variable using the input functionalities!
+tunes = input('(enter your favorite artist) ') # user creates variable using the input functionalities!
 print() # (ELOC)
 print(bot+':Nice!')
-print(prompt)# prompts user to press enter
-input()# Takes input w/input()
+input(prompt)# prompts user to press enter
 
 # Question 10
 print(bot+': Did you enjoy this program? Hopefully yes!')
-overrall = input() # user creates variable using the input functionalities!
+overrall = input('(Enter your thoughts) ') # user creates variable using the input functionalities!
 print() # (ELOC)
-print('(press enter to see results!)')
-input()# Takes input w/input()
-print()
+input('(press enter to see results!)')# prompts user to press enter
+print()#(ELOC)
+print()#(ELOC)
 print('█▀█ █▀▀ █▀ █░█ █░░ ▀█▀ █▀')
 print('█▀▄ ██▄ ▄█ █▄█ █▄▄ ░█░ ▄█')
 print()#(ELOC)
 print()#(ELOC)
 # Name results!
 print(bot+' gathered that your name was '+ name+'!')# Results to program by user uses w/print function
-print('(Okay! [enter])')# prompts user to press enter
+print(prompt)
+input()
+print('You name '+name+' has '+str(len(name))+' characters in it by the way!')
+print(prompt)# prompts user to press enter
 input()# Takes input w/input()
 # Hobby results
 print(bot+' gathered that your hobbies are '+hobby+'!')# Results to program by user uses w/print function
 print()
 print('NOTIFICATION!: Make sure to keep up with that hobby you never know what could happen!')# Results to program by user uses w/print function
-print('(Okay! [enter])')# prompts user to press enter
+print(prompt)# prompts user to press enter
 input()# Takes input w/input()
 # Mood results
 print(bot+' discovered that your mood was '+mood+' during the session!')# Results to program by user uses w/print function
