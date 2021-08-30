@@ -29,3 +29,11 @@ things , I'm learning quite quickly and figured to release my programs so others
 or remix them completely and study them and use them as a place to refer to. I didnt have this especially that most sites want you to 
 pay for their studying! ugh! Times are rough and I want to help out others who want to learn coding as much as I do.
 # screenshots
+![chit chat bot 1](https://user-images.githubusercontent.com/87259615/131296148-88743bcf-68dc-481e-9ac1-1cda8f52ee46.PNG)
+
+
+![chit chat bot 2](https://user-images.githubusercontent.com/87259615/131295674-dace7a55-c8ca-4af5-8694-f785590fcb2a.PNG)
+
+![chit chat bot 3](https://user-images.githubusercontent.com/87259615/131295686-c2ed9e93-f1c8-4ac4-b2e2-439b932b65b8.PNG)
+
+
