@@ -70,7 +70,7 @@ print('(press ENTER to read)')#prompt user to press enter with with print functi
                                                                 
         𝙏𝙞𝙥: 𝙥𝙧𝙖𝙘𝙩𝙞𝙘𝙚 𝙘𝙤𝙙𝙞𝙣𝙜 𝙖𝙨 𝙢𝙪𝙘𝙝 𝙖𝙨 𝙮𝙤𝙪 𝙘𝙖𝙣 𝙩𝙤 𝙛𝙡𝙚𝙭 𝙮𝙤𝙪𝙧 𝙗𝙧𝙖𝙞𝙣
  
-         𝙏𝙞𝙥: 𝙔𝙤𝙪 𝙖𝙧𝙚 𝙘𝙖𝙥𝙖𝙗𝙡𝙚 𝙟𝙪𝙨𝙩 𝙙𝙤𝙣𝙩 𝙜𝙚𝙩 𝙡𝙖𝙯𝙮
+         𝙏𝙞𝙥: 𝙔𝙤𝙪 𝙖𝙧𝙚 𝙘𝙖𝙥𝙖𝙗𝙡𝙚 𝙟𝙪𝙨𝙩 𝙙𝙤𝙣𝙩 𝙜𝙚𝙩 𝙡𝙖𝙯𝙮 
  ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄ ▄ ▄ ▄  ▄  ▄  ▄
  """
 input()#input() being used here to take the input of user to continue to next line
@@ -98,7 +98,7 @@ print('Kim the Robot™️:You know I always wanted to go on a date with a human
 print('Kim the Robot™️: and you are kinda . .  cute looking.')#kim tells the user they are cute using the print function
 print('(Press ENTER to read)')#prompting user to press enter on line '47'
 input()#input() function being used to take input to progress into line '48'
-print('(you notice her getting attracted to your presence')#sense of direction with Kim using print functionality 
+print('-you notice her getting attracted to your presence-')#sense of direction with Kim using print functionality 
 print('(Press ENTER. .)')#asks user to press enter and line '50' takes that input 
 input()#takes input from user with input()        
 print('(Kim the Robot™️:*Blinks softly*)')#Kim expressions and string printed to stream(screen) using print function
@@ -172,7 +172,7 @@ print()#epmty line using the prin( function)
 print('Kim the Robot™️: This city has been here for years if not decades and is historical')#creating dialog uses print
 print('i dont know what you did but i was in a different place. .  but now im here with you')#continuing the dialog with print function
 print('(Press ENTER to read)')#prompt the user to press the neter key using the print function
-input()#takes input form user to progress
+input()#takes input from user to progress
 print('Kim the Robot™️:We should go check out the rock villager mayor he will be waiting for us.')#direct the user about the mayor in storyline! uses print
 print('(Walk to the Rock Villagers home Press ENTER..)')#shows the user they are walking and tells them to press enter
 input()#input() being used to take input from users keyboard press
