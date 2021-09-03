@@ -12,7 +12,7 @@ using ghoulish and deadly attacks from limb to limb even using a katana blade so
 """
 
 #Weapons
-katana = 'katana Blade (Weapon'
+katana = 'katana Blade (Weapon)'
 
 #Items
 book = 'Book Of Souls (Story Item)'
