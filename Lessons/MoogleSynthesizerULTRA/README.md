@@ -1,12 +1,12 @@
 # READ.md
 ⼕ㄖᗪ🝗ᗪ & 山尺讠セセ🝗𝓝 ⻏丫 Ꮆ🝗𝓝🝗丂讠丂 Ꮆ讠尺
 # Moogle Synthesizer ULTRA
-Pandora. A Planet with no rules!
-You the Vault Hunter must help the sadistic , lustful, Moxxxie collect her beverages, 
-guns , loot and bring them back to her. She will be very interactive with you
-just make sure to do as she says or game over! Moxxie is a Famous barkeeper in Pandora
-and the word around is that she has the hots for anyone that helps her out! If not for her
-Do it for the loot please. . . and make it back in one peace goodluck Vault Hunter!
+Kupo! Moogle Synthesizer Shop takes the user
+to different worlds to collect attributes to create the Elixir Shard Potion with the help of
+a cute Moogle named Jixo as they set out on fun interactive tasks to finally put together the 
+concatanation of componets! A magical experience super fun to learn variables as well. use your
+Keyblade to fight for the light and save the world from the lost!
+Thanks for downloading!
 # Synthesize , Craft , Explore!
 
 ![mooogleee](https://user-images.githubusercontent.com/87259615/127359844-d123266f-d1af-4761-8ca9-9ff91869d7a4.png)
