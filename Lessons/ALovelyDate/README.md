@@ -18,7 +18,7 @@ start in the world of coding!
 I also stream my progress on Twitch and store the broadcasts so subscribers can rewatch and see how i made them from scratch! I stream for hours
 at a time and make sure to stop by and ask me any questions or , Chat , watch my progress!
 
-link: https://www.twitch.tv/genesisgir 
+link: https://www.twitch.tv/genesisgirr 
 # learning curve
 every programmer has to understand the functions and tools they have and learn at their own pace and as a novice myself i noticed these
 things , I'm learning quite quickly and figured to release my programs so others can dig in and see how they work and reverse engineer
