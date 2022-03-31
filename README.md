@@ -22,6 +22,6 @@ dived right into it and never looked back ever since.
 it contains various programs that self explain what each of line of code does so a novice like me can come along and learn from them essentially
 and can be very useful to someone starting out. Exciting adventures , Beautiful story plots , Mysterious characters , and even Moogle appears in
 Volume 1 also I highly recommend to read and visit https://automatetheboringstuff.com/2e/chapter1/ to learn about the basics like I have because
-that website is where I learned the basic and it is very valuable to get started! So hopefully you gain some knowledge in these lessons and start making
+that website is where I learned the basics and it is very valuable to get started! So hopefully you gain some knowledge in these lessons and start making
 your own unique programs and such. Since these aren't .exe they will be in source code format you can open them in your file editors and discover
 new ways to write code I go into detail about workflows and give out helpful tips to inspire you to start writing more code! Again Thanks for considering downloading!
