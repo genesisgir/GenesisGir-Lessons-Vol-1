@@ -1,4 +1,8 @@
+<<<<<<< HEAD
  """ 
+=======
+""" 
+>>>>>>> 1837ec3396e67c73d74494a3ac1f250e987122b5
 █▀▀ █▀▀ █▄░█ █▀▀ █▀ █ █▀   █░░ █▀▀ █▀ █▀ █▀█ █▄░█ █▀   █░█ █▀█ █░░ ░ ▄█
 █▄█ ██▄ █░▀█ ██▄ ▄█ █ ▄█   █▄▄ ██▄ ▄█ ▄█ █▄█ █░▀█ ▄█   ▀▄▀ █▄█ █▄▄ ▄ ░█ 
 Welcome to the genesis gir lesson tutorials Volume 1! Do you know me as much as you think you do?

@@ -39,7 +39,11 @@ What are inputs? And why do we use them? Its important to note that inputs() are
 that wait for the users input or intake on their keyboard to gather their keyboard presses
 and calls them to the function input(). They are pretty cool! Combine them with variables to
 let the user essentially set the variable for us and than later use their answers in our programs
+<<<<<<< HEAD
 line of code! variables can be found throughout this .py and seen in concatanation with inputs
+=======
+line of code! variables can be foud threwout this .py and seen in concatanation with inputs
+>>>>>>> 1837ec3396e67c73d74494a3ac1f250e987122b5
 see the text below to refer to what I'm talking about.
 
 ex.'Line 1' print('press ENTER and flowers will bloom!') > this line is telling user to press ENTER
@@ -196,7 +200,11 @@ contain spaces or any special characters '!@#$%^&*()+' like these! variables can
 '_' in them which make them that much cooler? i dont know anyways make sure try out variables
 in your file editors and try different types of directions in their uses.
 
+<<<<<<< HEAD
 ex. spam = 'cat'
+=======
+ex. spam='cat'
+>>>>>>> 1837ec3396e67c73d74494a3ac1f250e987122b5
 The variable is now 'spam' and the string 'cat' is now stored within it! Now everytime you
 type spam into your file editor or an interactive shell spam will evaluate to the following.
 
