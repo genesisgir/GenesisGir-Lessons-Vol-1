@@ -18,15 +18,15 @@ print('                      ██████╗░░█████╗░█
 print('                      ██╔══██╗██╔══██╗████╗░██║██╔══██╗██╔══██╗██╔══██╗██╔══██╗   ')
 print('                      ██████╔╝███████║██╔██╗██║██║░░██║██║░░██║██████╔╝███████║   ')
 print('                      ██╔═══╝░██╔══██║██║╚████║██║░░██║██║░░██║██╔══██╗██╔══██║   ')
-print('                      ██║░░░░░██║░░██║██║░╚███║██████╔╝╚█████╔╝██║░░██║██║░░██║   ')                   
-print('                      ╚═╝░░░░░╚═╝░░╚═╝╚═╝░░╚══╝╚═════╝░░╚════╝░╚═╝░░╚═╝╚═╝░░╚═╝   ')                              
-print('    ]  |.-._                                                                      ')                            
-print('     \|"(0)"| _]                                                                  ')                           
-print('     `|=\#/=|\/                                                                   ')                            
-print('      :  _  :                                                                     ')                           
-print('       \/_\/                                                                      ')                          
-print('        |=|                                                                       ')                          
-print('        `-                                                                       ')                    
+print('                      ██║░░░░░██║░░██║██║░╚███║██████╔╝╚█████╔╝██║░░██║██║░░██║   ')
+print('                      ╚═╝░░░░░╚═╝░░╚═╝╚═╝░░╚══╝╚═════╝░░╚════╝░╚═╝░░╚═╝╚═╝░░╚═╝   ')
+print('    ]  |.-._                                                                      ')
+print('     \|"(0)"| _]                                                                  ')
+print('     `|=\#/=|\/                                                                   ')
+print('      :  _  :                                                                     ')
+print('       \/_\/                                                                      ')
+print('        |=|                                                                       ')
+print('        `-                                                                       ')
 print('РⷬAͣNDͩOͦRͬAͣ  РⷬAͣNDͩOͦRͬAͣ  РⷬAͣNDͩOͦRͬAͣ  РⷬAͣNDͩOͦRͬAͣ  РⷬAͣNDͩOͦRͬAͣ  РⷬAͣNDͩOͦRͬAͣ  РⷬAͣNDͩOͦRͬAͣ  РⷬAͣNDͩOͦRͬAͣ    ')
 print('🅶🅴🅽🅴🆂🅸🆂🅶🅸🆁  🅶🅴🅽🅴🆂🅸🆂🅶🅸🆁  🅶🅴🅽🅴🆂🅸🆂🅶🅸🆁  🅶🅴🅽🅴🆂🅸🆂🅶🅸🆁         ')
 print()
@@ -34,7 +34,7 @@ print('                    | |                 | |         | |               | |
 print('                    | |__   ___  _ __ __| | ___ _ __| | __ _ _ __   __| |___      ')
 print('                    |  _ \ / _ \|  __/ _  |/ _ \  __| |/ _  |  _ \ / _  / __|     ')
 print('                    | |_) | (_) | | | (_| |  __/ |  | | (_| | | | | (_| \__ \     ')
-print('                    |_.__/ \___/|_|  \__,_|\___|_|  |_|\__,_|_| |_|\__,_|___/     ') 
+print('                    |_.__/ \___/|_|  \__,_|\___|_|  |_|\__,_|_| |_|\__,_|___/     ')
 print('                                           _----------_,                          ')
 print('                                         ,"__         _-:,                        ')
 print('                                        /    ""--_--""...:\                       ')
@@ -47,7 +47,7 @@ print('                                      \   \ 尸闩𝓝ᗪㄖ尺闩/;;;;  
 print('                                       \   \           /;;;;                      ')
 print('                                         .  \         /;;;                        ')
 print('                                          "-_\_______/;;                          ')
-print('🅶🅴🅽🅴🆂🅸🆂🅶🅸🆁  🅶🅴🅽🅴🆂🅸🆂🅶🅸🆁  🅶🅴🅽🅴🆂🅸🆂🅶🅸🆁  🅶🅴🅽🅴🆂🅸🆂🅶🅸🆁         ')                                                
+print('🅶🅴🅽🅴🆂🅸🆂🅶🅸🆁  🅶🅴🅽🅴🆂🅸🆂🅶🅸🆁  🅶🅴🅽🅴🆂🅸🆂🅶🅸🆁  🅶🅴🅽🅴🆂🅸🆂🅶🅸🆁         ')
 """ 
 █▀▀ █▀▀ █▄░█ █▀▀ █▀ █ █▀   █░░ █▀▀ █▀ █▀ █▀█ █▄░█ █▀   █░█ █▀█ █░░ ░ ▄█
 █▄█ ██▄ █░▀█ ██▄ ▄█ █ ▄█   █▄▄ ██▄ ▄█ ▄█ █▄█ █░▀█ ▄█   ▀▄▀ █▄█ █▄▄ ▄ ░█ 
@@ -60,7 +60,7 @@ Do it for the loot please. . . and make it back in one peace goodluck Vault Hunt
 . Thanks for downloading!
 ⼕ㄖᗪ🝗ᗪ & 山尺讠セセ🝗𝓝 ⻏丫 Ꮆ🝗𝓝🝗丂讠丂 Ꮆ讠尺
 """
-#This Program take the User into Pandora to help the lustful NPC known as Moxxie!
+# This Program take the User into Pandora to help the lustful NPC known as Moxxie!
 """
 
 █▀ ▀█▀ █▀█ █▀█ █▄█   █▀▄ █▀█ █ █░█ █▀▀ █▄░█
@@ -90,56 +90,78 @@ later on!
                                               
 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂                                                   
 """
-print('Old Man:A Wise man once told me to never ever step into Pandora. . ')#using the print function to create a setting
-print('(press enter)')#prompts user to press enter using the print functionality
-input()#takes input from user uses the input() function
-print('Old Man:They told me of the unforseen riches. . ')#narrarator sets the scene using print
-print('(press enter)')#prompts user to progress by pressing enter
-input()#the input() function waits for the user to key press and press enter!
-print('Old Man:They spoke about legends. .')#speech dialog from the old man character uses print function
-print('(press enter)')#prompts user to press enter key!
-input()#takes input w/input()
-print('Old Man:They say many who go into Pandora never make it back alive with their flesh')#uses the print function to print values to stream(screen)
-print('intact , They say the Vault Hunters who make their way inside never see the light of')#using the print function to print
-print('day ever again.')#continues from line '76' uses print function to print values onto stream(screen)
-print('(press enter)')#this line instructs the user to press enter key to continue
-input()#taking input w/input()
-print('Old Man:But you. . ')#speech dialog from old man character using the print functionality
-print('(press enter)')#prompts user to press enter with 'print'
-input()#gathers data from users key presses uses the input() function
-print('Old Man:Your no average Vault Hunter')#prologue continues uses the print function
-print('(press enter)')#prompts user to press enter to progress to next line of code
-print('Old Man:You .. You are very different. . very capable. .Very gifted.')#dialog using print functionalities
-print('(press enter)')#prompts to press enter key to progress
-input()#gathers input from users keyboard uses the input() function
-print('Old Man:Even tho you look funny looking.')#using the print function to print values to stream(screen)
-print('(press enter)')#prompts user to press a key
-input()#takes input using the input() feature!
-print('Old Man:Its that trigger finger that counts!')#final dialog from character (Old Man) uses 'print'
-print('(press enter to start a new game)')#prompts user to press enter using the print feature
-input()#takes input from user input()
-print('-Your eyes open slowly and blink-')#Sets setting with user using the print function
-print('(press enter)')#prompts user to press enter
-input()#takes input w/input()
-print('-Your eyes get distracted by a woman with a voluptuous figure walking into a bar')#(SOD) using the print functionality
-print('(press enter)')#prompts to ask user to press enter key to progress
-input()#takes and gathers the input from user to make a choice! input() demostrated here
-print('-The bar sign reads M O X X X I E S and the sign flickers-')#using print to print values w/print
-print('(press enter)')#prmopts user to use enter key to continue 
-input()#collects user key press w/input()
-print('-Before she walks in her eyes pierce yours and finger signals you in-')#(SOD) using 'print'
-print('(press enter)')#prompts w/print
-input()#gathers input from users enter key press and directs them to line '109'
-print('-You walk in and the door opens and the sound of men ravaging and yelling is heard-')#(SOD) w/print
-print('(press enter)')#prompts user to press enter key 
-input()#data collection using the input() functionality
-print('-As you walk in the smoke from cigars and the smell and stench of liquor hits your nose-')#(SOD) w/print
-print('(press enter)')#prompts user to press enter key 
-input()#takes the input from user and progresses them to line '115'
-print('Moxxi: I love being surrounded by men and violence')#introduces Moxxie to setting! w/print
-print('-as she walks her hip move back and fourth in a clock like motion-')#(SOA) using print to print values to stream(screen)
-print('(press enter)')#prompts user to press enter key 
-input()#takes input w/input() function
+print('Old Man:A Wise man once told me to never ever step into Pandora. . ')  # using the print function to create a setting
+# prompts user to press enter using the print functionality
+print('(press enter)')
+input()  # takes input from user uses the input() function
+# narrarator sets the scene using print
+print('Old Man:They told me of the unforseen riches. . ')
+print('(press enter)')  # prompts user to progress by pressing enter
+input()  # the input() function waits for the user to key press and press enter!
+# speech dialog from the old man character uses print function
+print('Old Man:They spoke about legends. .')
+print('(press enter)')  # prompts user to press enter key!
+input()  # takes input w/input()
+# uses the print function to print values to stream(screen)
+print('Old Man:They say many who go into Pandora never make it back alive with their flesh')
+# using the print function to print
+print('intact , They say the Vault Hunters who make their way inside never see the light of')
+# continues from line '76' uses print function to print values onto stream(screen)
+print('day ever again.')
+# this line instructs the user to press enter key to continue
+print('(press enter)')
+input()  # taking input w/input()
+# speech dialog from old man character using the print functionality
+print('Old Man:But you. . ')
+print('(press enter)')  # prompts user to press enter with 'print'
+input()  # gathers data from users key presses uses the input() function
+# prologue continues uses the print function
+print('Old Man:Your no average Vault Hunter')
+# prompts user to press enter to progress to next line of code
+print('(press enter)')
+# dialog using print functionalities
+print('Old Man:You .. You are very different. . very capable. .Very gifted.')
+print('(press enter)')  # prompts to press enter key to progress
+input()  # gathers input from users keyboard uses the input() function
+# using the print function to print values to stream(screen)
+print('Old Man:Even tho you look funny looking.')
+print('(press enter)')  # prompts user to press a key
+input()  # takes input using the input() feature!
+# final dialog from character (Old Man) uses 'print'
+print('Old Man:Its that trigger finger that counts!')
+# prompts user to press enter using the print feature
+print('(press enter to start a new game)')
+input()  # takes input from user input()
+# Sets setting with user using the print function
+print('-Your eyes open slowly and blink-')
+print('(press enter)')  # prompts user to press enter
+input()  # takes input w/input()
+# (SOD) using the print functionality
+print('-Your eyes get distracted by a woman with a voluptuous figure walking into a bar')
+print('(press enter)')  # prompts to ask user to press enter key to progress
+input()  # takes and gathers the input from user to make a choice! input() demostrated here
+# using print to print values w/print
+print('-The bar sign reads M O X X X I E S and the sign flickers-')
+print('(press enter)')  # prmopts user to use enter key to continue
+input()  # collects user key press w/input()
+# (SOD) using 'print'
+print('-Before she walks in her eyes pierce yours and finger signals you in-')
+print('(press enter)')  # prompts w/print
+input()  # gathers input from users enter key press and directs them to line '109'
+# (SOD) w/print
+print('-You walk in and the door opens and the sound of men ravaging and yelling is heard-')
+print('(press enter)')  # prompts user to press enter key
+input()  # data collection using the input() functionality
+# (SOD) w/print
+print('-As you walk in the smoke from cigars and the smell and stench of liquor hits your nose-')
+print('(press enter)')  # prompts user to press enter key
+input()  # takes the input from user and progresses them to line '115'
+# introduces Moxxie to setting! w/print
+print('Moxxi: I love being surrounded by men and violence')
+# (SOA) using print to print values to stream(screen)
+print('-as she walks her hip move back and fourth in a clock like motion-')
+print('(press enter)')  # prompts user to press enter key
+input()  # takes input w/input() function
 """
 ▀█▀ ▒█▄░▒█ ▒█▀▀█ ▒█░▒█ ▀▀█▀▀  ▄▀ ▀▄ 　 ▒█▀▀▀ ▒█░▒█ ▒█▄░▒█ ▒█▀▀█ ▀▀█▀▀ ▀█▀ ▒█▀▀▀█ ▒█▄░▒█ 
 ▒█░ ▒█▒█▒█ ▒█▄▄█ ▒█░▒█ ░▒█░░  █░ ░█ 　 ▒█▀▀▀ ▒█░▒█ ▒█▒█▒█ ▒█░░░ ░▒█░░ ▒█░ ▒█░░▒█ ▒█▒█▒█ 
@@ -158,74 +180,106 @@ ex.'Line 3' (  After the ENTER press as seen in Line 2 the user is now in this l
 
 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂
 """
-print('-You trail right behind her and make it to the counter and she vaults over the counter')#sense of action uses the print functionality
-print('very slowly in a flirtatious manner while looking into your eyes the whole time-')#sense of actio(SOA) uses the print function
-print('(press enter)')#prompts user to press enter key 
-input()#data collection of user key press w/input()
-print('Moxxie: So your a Vault Hunter right?')#Moxxie dialog with the print function 
-print('- her finger glides down your vest and hit the top of your belt buckle-')#sense of action(SOA) w/print
-print('(respond to her)')#prompting user to reply back to Moxxie with the print functionality
-response=input()#users reply will become the 'response' variable
-print('You reply back to her '+response)#combines print+variable to share users reply to stream(screen)
-print('(press enter)')#prompts user to press enter key 
-print('Moxxie:Well im in need of one. . and what is a little ol thing like me to do?')#Moxxie speech dialog with the print func
-print()#empty line uses the print() function
-print('Moxxie:Maybe you could put that muscle of yours to work?')#Moxxie entices user to help her dirty work w/print
-print('(press enter to nod)')#prompts user to press enter to nod his/her head w/print
-input()#taking inputs from user w/input()
-print('Moxxie:Thats what i like to hear you big lug!')#Moxxie dialog speech using the print functionalities
-print('(press enter)')#prompts user to press enter key 
-input()#input waits for the user to enter his/her enter key press w/input()
-print('Moxxie:I need guns that go BOOM! BAM! and make people go SPLAT! and theres these bandits')#speech dialog for moxxie w/print
-print('that have my inventory and drinks and guns stashed in some hideout and I could use it right')#more speech dialog for Moxxie uses print functions
-print('right about now so.. if you could do me the favor?')#Moxxie asks for a favor /wprint
-print('(press enter to nod)')#directs user to press enter to nod his/her head w/print
-input()#takes and gathers data input from user keyboard w/input()
-print('Moxxie:GREAT! Darling your just what i needed! go show me how much of a man you really are')#speech dialog with Moxxie uses the print functionality
-print('there might be something in it for you..')#continues from line '141'
-print('(press enter to accept Moxxies Quest!)')#prompts user to press enter to accept the quest w/print
-input()#takes input w/input() functionality
-print('accepted!')#the quest has been accepted! w/print
-print('(OK! press enter)')#prompts user to press enter key 
-input()#input gathers the dta from users keyboard presses w/input() function
-print('-The bar gets quieter as the enterance to the door slowly opens and a man walks in slowly-')#(SOD) using print function
-print('JACK:. . .')#Jack is introduced to the setting/scene w/print function
-print('(press enter to hide within crowd!')#prompts user to press enter to hide w/print)
-input()#gathers input from user using the input() feature
-print('JACK: LISTEN UP YOU IMBREDS!')#speech dialog from handsome jack uses print function
-print('(press enter to keep your eyes on him but stay low!)')#prompts user to press enter key 
-input()#takes input from user w/input()
-print('JACK:THERES A VAULT HUNTER IN PANDORA! ALSO IM SICK OF CLEANING UP MY WEAPONS FROM THEIR BLOOD!')#Handsome jack dialo uses the print function
-print('JACK:*Ahem* So whoever finds the little rat will get a big cash reward.')#dialog from the character handsome Jack w/print
-print('(press enter but stay low)')#prompts user to press enter key and to stay Low w/print
-input()#data collects key presses from user w/input()
-print('-Jack grabs the face of a nearby customer and holds it gently within his warm hands-')#speech dialog for handsome Jack uses print function
-print()#an empty line of code 
-print('JACK:Im not a bad guy. . . right?')#Handsome jack dialog w/print()
-print('(press enter)')#prompts user to press enter key 
-input()#data collection with the input() functionality
-print('-The customer shakes his head yes slowly. . -')#(SOA) shows the action of the NPC w/print
-print('(press enter)')#prompts user to press enter key to progress to line '165'
-input()#takes input from user w/input()
-print('JACK:*Makes a dissapointed expression on his face*')#(SOA) uses the print function
-print('(press enter)')#prompts user to press enter key 
-input()#sweeps in info from the user data input from keyboard w/input()
-print('JACK:You dont really think that do you?')#dialog of the character Handsome jack
-print('(press enter)')#prompts user to press enter key 
-input()#takes input from user key press w/input
-print('Customer:No sir. . Your handsome Jack the best of all the *EKKKKGhhHhuhu*')#(SOD) NPC Dies due to jacks actions uses print function
-print('(press enter)')#prompts user to press enter w/print
-input()#gathers input from user using the input() function
-print('-Handsome Jack Stabs the mans throat with a curved blade rendering his vocal')#sense of action(SOA)
-print('chords useless and wipes the blade on his hand and shows it the entire bar and spots Moxxie-')#(SOA) of the character handsome jack uses 'print' functions to display print values onto stream(screen)
-print('(press enter)')#prompts user to press enter key 
-input()#takes input w/input()
-print('JACK:You gained some pounds around the stomach area mox what hell happened to you?')#dialog w/print
-print('(press enter)')#prompts user to press enter key 
-input()#gathers keyboard presses from user using the input() function
-print('JACK:For Goodness sakes baby girl. run a lap or something at least!')#(C2CI) uses the print function
-print('(press enter)')#prompts user to press enter key w/prpint
-input()#gathers and collects key press from user w/input()
+print('-You trail right behind her and make it to the counter and she vaults over the counter')  # sense of action uses the print functionality
+# sense of actio(SOA) uses the print function
+print('very slowly in a flirtatious manner while looking into your eyes the whole time-')
+print('(press enter)')  # prompts user to press enter key
+input()  # data collection of user key press w/input()
+# Moxxie dialog with the print function
+print('Moxxie: So your a Vault Hunter right?')
+# sense of action(SOA) w/print
+print('- her finger glides down your vest and hit the top of your belt buckle-')
+# prompting user to reply back to Moxxie with the print functionality
+print('(respond to her)')
+response = input()  # users reply will become the 'response' variable
+# combines print+variable to share users reply to stream(screen)
+print('You reply back to her '+response)
+print('(press enter)')  # prompts user to press enter key
+# Moxxie speech dialog with the print func
+print('Moxxie:Well im in need of one. . and what is a little ol thing like me to do?')
+print()  # empty line uses the print() function
+# Moxxie entices user to help her dirty work w/print
+print('Moxxie:Maybe you could put that muscle of yours to work?')
+# prompts user to press enter to nod his/her head w/print
+print('(press enter to nod)')
+input()  # taking inputs from user w/input()
+# Moxxie dialog speech using the print functionalities
+print('Moxxie:Thats what i like to hear you big lug!')
+print('(press enter)')  # prompts user to press enter key
+input()  # input waits for the user to enter his/her enter key press w/input()
+# speech dialog for moxxie w/print
+print('Moxxie:I need guns that go BOOM! BAM! and make people go SPLAT! and theres these bandits')
+# more speech dialog for Moxxie uses print functions
+print('that have my inventory and drinks and guns stashed in some hideout and I could use it right')
+# Moxxie asks for a favor /wprint
+print('right about now so.. if you could do me the favor?')
+# directs user to press enter to nod his/her head w/print
+print('(press enter to nod)')
+input()  # takes and gathers data input from user keyboard w/input()
+# speech dialog with Moxxie uses the print functionality
+print('Moxxie:GREAT! Darling your just what i needed! go show me how much of a man you really are')
+print('there might be something in it for you..')  # continues from line '141'
+# prompts user to press enter to accept the quest w/print
+print('(press enter to accept Moxxies Quest!)')
+input()  # takes input w/input() functionality
+print('accepted!')  # the quest has been accepted! w/print
+print('(OK! press enter)')  # prompts user to press enter key
+input()  # input gathers the dta from users keyboard presses w/input() function
+# (SOD) using print function
+print('-The bar gets quieter as the enterance to the door slowly opens and a man walks in slowly-')
+print('JACK:. . .')  # Jack is introduced to the setting/scene w/print function
+# prompts user to press enter to hide w/print)
+print('(press enter to hide within crowd!')
+input()  # gathers input from user using the input() feature
+# speech dialog from handsome jack uses print function
+print('JACK: LISTEN UP YOU IMBREDS!')
+# prompts user to press enter key
+print('(press enter to keep your eyes on him but stay low!)')
+input()  # takes input from user w/input()
+# Handsome jack dialo uses the print function
+print('JACK:THERES A VAULT HUNTER IN PANDORA! ALSO IM SICK OF CLEANING UP MY WEAPONS FROM THEIR BLOOD!')
+# dialog from the character handsome Jack w/print
+print('JACK:*Ahem* So whoever finds the little rat will get a big cash reward.')
+# prompts user to press enter key and to stay Low w/print
+print('(press enter but stay low)')
+input()  # data collects key presses from user w/input()
+# speech dialog for handsome Jack uses print function
+print('-Jack grabs the face of a nearby customer and holds it gently within his warm hands-')
+print()  # an empty line of code
+print('JACK:Im not a bad guy. . . right?')  # Handsome jack dialog w/print()
+print('(press enter)')  # prompts user to press enter key
+input()  # data collection with the input() functionality
+# (SOA) shows the action of the NPC w/print
+print('-The customer shakes his head yes slowly. . -')
+# prompts user to press enter key to progress to line '165'
+print('(press enter)')
+input()  # takes input from user w/input()
+# (SOA) uses the print function
+print('JACK:*Makes a dissapointed expression on his face*')
+print('(press enter)')  # prompts user to press enter key
+input()  # sweeps in info from the user data input from keyboard w/input()
+# dialog of the character Handsome jack
+print('JACK:You dont really think that do you?')
+print('(press enter)')  # prompts user to press enter key
+input()  # takes input from user key press w/input
+# (SOD) NPC Dies due to jacks actions uses print function
+print('Customer:No sir. . Your handsome Jack the best of all the *EKKKKGhhHhuhu*')
+print('(press enter)')  # prompts user to press enter w/print
+input()  # gathers input from user using the input() function
+# sense of action(SOA)
+print('-Handsome Jack Stabs the mans throat with a curved blade rendering his vocal')
+# (SOA) of the character handsome jack uses 'print' functions to display print values onto stream(screen)
+print('chords useless and wipes the blade on his hand and shows it the entire bar and spots Moxxie-')
+print('(press enter)')  # prompts user to press enter key
+input()  # takes input w/input()
+# dialog w/print
+print('JACK:You gained some pounds around the stomach area mox what hell happened to you?')
+print('(press enter)')  # prompts user to press enter key
+input()  # gathers keyboard presses from user using the input() function
+# (C2CI) uses the print function
+print('JACK:For Goodness sakes baby girl. run a lap or something at least!')
+print('(press enter)')  # prompts user to press enter key w/prpint
+input()  # gathers and collects key press from user w/input()
 """
 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂
  
@@ -239,25 +293,33 @@ stream(screen) just make sure its a correct data type: interger , float or a str
 
 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂
 """
-print('Moxxie: Well I dont complain about the stench of your dead colleges on your clothes')#using print function 'print'
-print('so theres that hun.')#continues from line '184' uses the print function!
-print('(press enter to hold in laughter)')#prompts user to press enter key to hold in laugh uses the print function 
-input()#collects data input w/print
-print('JACK:Really funny sweetheart. Really Funny.')#Handsome Jack speech w/print function
-print('-he glares at her with a serious tone-')#(SOA) sense of action of expression
-print('(press enter)')#prompts user to press enter key 
-input()#input() waits for user to do a key press than press enter w/input
-print('JACK:Wouldnt be that funny if that tattoo on your breast was eaten off by dogs.')#speech dialog from the character Handsome jack uses the print functions to print values to stream(screen)
-print('Jack:Would be a real shame.')#speech dialog from handsome jack intergrates the print functionality 'print'
-print('(press enter)')#prompts user to press enter key 
-input()#takes input w/input() functions
-print('Moxxie:. .')#uses 'print' function and contains a string(stir) data type
-print('(press enter)')#prompts user to press enter key w/print 
-input()#collects data from users key presses w/input()
-print('Handsome Jack:and clean this shit up. This place is a mess.')#speech dialog from Handsome jack uses the print function 
-print('-He walks out the door with a confident manner and the whole bar gets loud again-')#(SOD) sense of direction uses w/print functions
-print('(press enter to get out of hiding)')#prompts user to press enter key 
-input()#waits for user to press enter to progress
+print('Moxxie: Well I dont complain about the stench of your dead colleges on your clothes')  # using print function 'print'
+# continues from line '184' uses the print function!
+print('so theres that hun.')
+# prompts user to press enter key to hold in laugh uses the print function
+print('(press enter to hold in laughter)')
+input()  # collects data input w/print
+# Handsome Jack speech w/print function
+print('JACK:Really funny sweetheart. Really Funny.')
+# (SOA) sense of action of expression
+print('-he glares at her with a serious tone-')
+print('(press enter)')  # prompts user to press enter key
+input()  # input() waits for user to do a key press than press enter w/input
+# speech dialog from the character Handsome jack uses the print functions to print values to stream(screen)
+print('JACK:Wouldnt be that funny if that tattoo on your breast was eaten off by dogs.')
+# speech dialog from handsome jack intergrates the print functionality 'print'
+print('Jack:Would be a real shame.')
+print('(press enter)')  # prompts user to press enter key
+input()  # takes input w/input() functions
+print('Moxxie:. .')  # uses 'print' function and contains a string(stir) data type
+print('(press enter)')  # prompts user to press enter key w/print
+input()  # collects data from users key presses w/input()
+# speech dialog from Handsome jack uses the print function
+print('Handsome Jack:and clean this shit up. This place is a mess.')
+# (SOD) sense of direction uses w/print functions
+print('-He walks out the door with a confident manner and the whole bar gets loud again-')
+print('(press enter to get out of hiding)')  # prompts user to press enter key
+input()  # waits for user to press enter to progress
 """
 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂
 
@@ -270,34 +332,43 @@ very useful to those starting out. Subscribe and stay in the loop!
 
 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂
 """
-print('-You walk up to Moxxie at the counter and place your hand on top of hers and play')#(SOA) sense of action w/print
-print('with her wrist comforting her-')#sense of action continues w/print
-print('Moxxie:Its. . . the reason why I need your help.')#Moxxie speech dialog intergrates with the print function
-print('(press enter)')#prompts user to press enter key 
-input()#gathers user key presses w/input() 
-print('Moxxie:Pandora has been controlled by Handsome Jack for too long! I wanna stop him.')#dialog from Moxxie character w/print
-print()#an empty line of code to create a spacial line
-print('Moxxie:But we are going to need some fire power.')#using print function to print values onto stream(screen)
-print('(press enter)')#prompting user to press enter using the print function
-input()#data collecting user key presses such as enter to progress
-print('Moxxie:Remember those Bandits I told you about?!')#speech dialog from Moxxie w/print
-print('(press enter to nod)')#prompts user to press enter w/print
-input()#T/I 'takes input from user and waits for enter key press'
-print('Moxxie:Your going to have to Um Wipe them out.')#directs user to challenge w/print
-print('(press enter)')#prompts user to press enter w/print
-input()#T/I
+print('-You walk up to Moxxie at the counter and place your hand on top of hers and play')  # (SOA) sense of action w/print
+print('with her wrist comforting her-')  # sense of action continues w/print
+# Moxxie speech dialog intergrates with the print function
+print('Moxxie:Its. . . the reason why I need your help.')
+print('(press enter)')  # prompts user to press enter key
+input()  # gathers user key presses w/input()
+# dialog from Moxxie character w/print
+print('Moxxie:Pandora has been controlled by Handsome Jack for too long! I wanna stop him.')
+print()  # an empty line of code to create a spacial line
+# using print function to print values onto stream(screen)
+print('Moxxie:But we are going to need some fire power.')
+print('(press enter)')  # prompting user to press enter using the print function
+input()  # data collecting user key presses such as enter to progress
+# speech dialog from Moxxie w/print
+print('Moxxie:Remember those Bandits I told you about?!')
+print('(press enter to nod)')  # prompts user to press enter w/print
+input()  # T/I 'takes input from user and waits for enter key press'
+# directs user to challenge w/print
+print('Moxxie:Your going to have to Um Wipe them out.')
+print('(press enter)')  # prompts user to press enter w/print
+input()  # T/I
 print('Moxxie:Meet me outside in the Convoy Jeep and we will drive there this shit is gunna get messy.')
-print('(press enter to exit  M O X X X I E S!)')#prompts user to exit bar and press enter w/print
-input()#T/I
+# prompts user to exit bar and press enter w/print
+print('(press enter to exit  M O X X X I E S!)')
+input()  # T/I
 print('-You walk up to the mechanical vehicle and slide into the drivers seat with Moxxie riding shotgun-')
-print('(Start the ignition press enter)')#prompts user to start engine and press enter w/print
-input()#T/I
-print('-The engine roars and purs-')#sense of direction with the print function (SOD)
-print('(press enter)')#prompts user to press enter w/print
-input()#T/I (takes input with the input function)
-print('Moxxie:Damn tiger. . thats kinda hot you know your stuff.')#speech dialog with Moxxie uses the print function
-print('(press enter)')#prompts user to press enter w/print
-input()#T/I
+# prompts user to start engine and press enter w/print
+print('(Start the ignition press enter)')
+input()  # T/I
+# sense of direction with the print function (SOD)
+print('-The engine roars and purs-')
+print('(press enter)')  # prompts user to press enter w/print
+input()  # T/I (takes input with the input function)
+# speech dialog with Moxxie uses the print function
+print('Moxxie:Damn tiger. . thats kinda hot you know your stuff.')
+print('(press enter)')  # prompts user to press enter w/print
+input()  # T/I
 """
 ▀█░█▀ █▀▀█ █▀▀█  ▀░ █▀▀█ █▀▀▄ █░░ █▀▀ █▀▀ 
 ░█▄█░ █▄▄█ █▄▄▀ ▀█▀ █▄▄█ █▀▀▄ █░░ █▀▀ ▀▀█ 
@@ -327,37 +398,46 @@ ex.( vehicle='B250 Destroyer' ) we stored "B250 Destroyer" inside the box making
           
 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂          
 """
-vehicle='B250 Destroyer'#name of the convoy vehicle uses variables+strings
-print('-You start Driving the Vehicle -B250 Destroyer-')#prints values to stream(screen) w/print functionality
-print('(press enter)')#prompts user to press enter w/print
-input()#T/I
-print('QUEST: Make your way to the Bandits hideout and retrieve the weapons!')#direction w/print
-print('(Okay! Press enter)')#prompts user w/print
-input()#takes and data collects the users key press w/input()
+vehicle = 'B250 Destroyer'  # name of the convoy vehicle uses variables+strings
+# prints values to stream(screen) w/print functionality
+print('-You start Driving the Vehicle -B250 Destroyer-')
+print('(press enter)')  # prompts user to press enter w/print
+input()  # T/I
+# direction w/print
+print('QUEST: Make your way to the Bandits hideout and retrieve the weapons!')
+print('(Okay! Press enter)')  # prompts user w/print
+input()  # takes and data collects the users key press w/input()
 print('Old Man:So The Vault Hunter and Moxxie made their way to the hideout not knowing of the dangers that lie ahead.')
-print('(press enter to read)')#prompts w/print
-input()#T/I
-print('Old Man:By the way whats your name anyway Vault Hunter?. . .')#leads up the prompt in line '279' 
-print('enter your name')#prompts user to enter their name w/print
-name=input()#creating the variable name for the user in question w/variables+input functions
-print()#creates a spacial line between lines of code w/print()
-print('Old Man:'+name+'?'+' my cousins name is '+name)#merging strings+variables w/print function
-print('(press enter to read)')#prompts w/print
-input()#T/I
-print('Old Man:Anyways thats besides the point *Ahem* and so '+name+' and Moxxie made their way to')#print funcionalities being used w/variables
-print('their death or victory its up to them to decide. . . Vault Hunters and Bar women whats up with that.')#using the print function here as well
-print('(press enter to continue)')#prompts w/print
-input()#taking input from user or for short #T/I
-print('Moxxie:Stop here! Thats the Hideout!')#Moxxie dialog speech using the print functionalities
-print('-She points at a building surrounded by grunts and pycho enemies-')#(SOD) 'sense of direction'
-print('(press enter to prepare yourself)')#prompts w/print
-input()#T/I
-print('Moxxie:Lets go kill some Badasses!')#speech dialog from the character Moxxie uses print
-print('(press enter)')#prompts w/print
-input()#T/I
-print('Moxxie:Here take this.')#speech dialog from Moxxie w/print
-print('(Take the gun[press enter])')#prompts w/print
-input()#T/I
+print('(press enter to read)')  # prompts w/print
+input()  # T/I
+# leads up the prompt in line '279'
+print('Old Man:By the way whats your name anyway Vault Hunter?. . .')
+print('enter your name')  # prompts user to enter their name w/print
+name = input()  # creating the variable name for the user in question w/variables+input functions
+print()  # creates a spacial line between lines of code w/print()
+# merging strings+variables w/print function
+print('Old Man:'+name+'?'+' my cousins name is '+name)
+print('(press enter to read)')  # prompts w/print
+input()  # T/I
+print('Old Man:Anyways thats besides the point *Ahem* and so '+name +
+      ' and Moxxie made their way to')  # print funcionalities being used w/variables
+# using the print function here as well
+print('their death or victory its up to them to decide. . . Vault Hunters and Bar women whats up with that.')
+print('(press enter to continue)')  # prompts w/print
+input()  # taking input from user or for short #T/I
+# Moxxie dialog speech using the print functionalities
+print('Moxxie:Stop here! Thats the Hideout!')
+# (SOD) 'sense of direction'
+print('-She points at a building surrounded by grunts and pycho enemies-')
+print('(press enter to prepare yourself)')  # prompts w/print
+input()  # T/I
+# speech dialog from the character Moxxie uses print
+print('Moxxie:Lets go kill some Badasses!')
+print('(press enter)')  # prompts w/print
+input()  # T/I
+print('Moxxie:Here take this.')  # speech dialog from Moxxie w/print
+print('(Take the gun[press enter])')  # prompts w/print
+input()  # T/I
 """
 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂
 
@@ -376,42 +456,60 @@ the number of items in the container! really can be used in a situations that ne
 use it whatever floats ya boat! Check out line '334' to see this in action
 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂
 """
-print('(Obtained:Deadmans Revolver! Level '+str(5)+')')#lets user know what gun they have obtained
-print('(Lock and reload[press enter])')#(SOA)
-input()#T/I
-print('(Gun is Loaded)')#(SOA) 'sense of direction' w/print
-print('(press enter to go to the hideout)')#prompts user to press enter to go to hideout w/print
-input()#T/I
-print('-Moxxie & '+name+' enter the hideout and begin to decimate the population of the grimey')#some narration and story plotting w/print
-print('location. Moxxie gets on top of a pycho and bashes his brains out with a single bullet')#plotting w/print
-print('from her revolver and the crowd gets rowdy as more enemies approach in vehicles-')#plotting w/print
-print('(press enter)')#prompts w/print waits for user to press enter!
-input()#T/I
-print('-Pycho enemies flock from left and right and one approaches you-')#(SOA) from enemies flocking
-print('(Press enter to aim your Deadmans Revolver at his head!)')#(SOD) directs user to use weapon
-input()#T/I 'takes input from user and waits for enter key press'
-print('(Pull the trigger and end his life! [press enter])')#(SOD) directs user to pull trigger uses w/print
-input()#T/I
-print('-*BOOM* The brain matter flows everywhere and your revolver has smoke at the end-')#using creative ideas to make user feel the impact of his actions w/print
-print('-The bullet shell glides threw the air and hits the ground-')# using the print function
-print()#(ELOC)
-print('-*tink* The bullet shell bounces off the ground and you have killed a man-')#(SOA) w/print
-print()#(ELOC)
-print('(press enter)')#prompts user to press enter w/print
-input()#T/I
-print('Moxxie:Damn '+name+' nice shot! Your fist kill!')#using variables and print functions to create feeling of conversation
-print('(press enter to nod)')#prompts user to press enter w/print
-input()#T/I
-print('-Enemies scatter as '+name+' & Moxxie kill them in perfect synchronization with the blood')#SOD)+variables
-print('and souls being left from their bodies '+name+' is proving themselves to the beautiful')#SOD)+variables
-print('woman and they fight for hours as the magazines of their weapons run out.')#(sense of direction)
-print('(press enter)')#prompts user to press enter w/print
-input()#T/I
-print('Moxie:Thats all of them lets go into their loot Boxes and see what we find.')#speech dialog from (Moxxie) uses print function
-print('-You walk up to a Loot box-')#lets user know they are walking up to a loot box
-print('(press enter)')#prompts user to press enter w/print
-input()#T/I
-print()#(ELOC)
+print('(Obtained:Deadmans Revolver! Level '+str(5) +
+      ')')  # lets user know what gun they have obtained
+print('(Lock and reload[press enter])')  # (SOA)
+input()  # T/I
+print('(Gun is Loaded)')  # (SOA) 'sense of direction' w/print
+# prompts user to press enter to go to hideout w/print
+print('(press enter to go to the hideout)')
+input()  # T/I
+# some narration and story plotting w/print
+print('-Moxxie & ' + name +
+      ' enter the hideout and begin to decimate the population of the grimey')
+# plotting w/print
+print('location. Moxxie gets on top of a pycho and bashes his brains out with a single bullet')
+# plotting w/print
+print('from her revolver and the crowd gets rowdy as more enemies approach in vehicles-')
+print('(press enter)')  # prompts w/print waits for user to press enter!
+input()  # T/I
+# (SOA) from enemies flocking
+print('-Pycho enemies flock from left and right and one approaches you-')
+# (SOD) directs user to use weapon
+print('(Press enter to aim your Deadmans Revolver at his head!)')
+input()  # T/I 'takes input from user and waits for enter key press'
+# (SOD) directs user to pull trigger uses w/print
+print('(Pull the trigger and end his life! [press enter])')
+input()  # T/I
+# using creative ideas to make user feel the impact of his actions w/print
+print('-*BOOM* The brain matter flows everywhere and your revolver has smoke at the end-')
+# using the print function
+print('-The bullet shell glides threw the air and hits the ground-')
+print()  # (ELOC)
+# (SOA) w/print
+print('-*tink* The bullet shell bounces off the ground and you have killed a man-')
+print()  # (ELOC)
+print('(press enter)')  # prompts user to press enter w/print
+input()  # T/I
+# using variables and print functions to create feeling of conversation
+print('Moxxie:Damn ' + name + ' nice shot! Your fist kill!')
+print('(press enter to nod)')  # prompts user to press enter w/print
+input()  # T/I
+print('-Enemies scatter as ' + name +
+      ' & Moxxie kill them in perfect synchronization with the blood')  # SOD)+variables
+print('and souls being left from their bodies ' + name +
+      ' is proving themselves to the beautiful')  # SOD)+variables
+# (sense of direction)
+print('woman and they fight for hours as the magazines of their weapons run out.')
+print('(press enter)')  # prompts user to press enter w/print
+input()  # T/I
+# speech dialog from (Moxxie) uses print function
+print('Moxie:Thats all of them lets go into their loot Boxes and see what we find.')
+# lets user know they are walking up to a loot box
+print('-You walk up to a Loot box-')
+print('(press enter)')  # prompts user to press enter w/print
+input()  # T/I
+print()  # (ELOC)
 """
 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂
 
@@ -447,128 +545,178 @@ input() and user presses enter here! Viola!
                       
 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂                       
 """
-#collecting loot boxes to gather xp and weapons system
-#𝗗𝗲𝗺𝗼𝗻𝗶𝗰 𝗙𝗶𝗿𝗲 𝗟𝗮𝗰𝗲𝗱 𝗦𝗵𝗼𝘁𝗴𝘂𝗻 @Line '328'
-print('-You walk up to a Common Shotgun Loot box-')#user walks up to loot box w/print
-DFFLS='Demonic Fire Laced Shotgun (LEVEL 5!) '#sets variable name for weapon cache
-print('(Open [Common Shotgun Loot box]?)')#aks user to open the loot 
-print('(press enter to open!)')#prompts user to press enter!
-input()#waiting for user to press enter w/input() functionality
-print('Obtained:'+DFFLS+'+ '+str(int(50.1))+' xp'+'!')#tells user which weapons they have obtained
-print('(press enter to collect)')#prompts user to progress.
-input()#waiting for user to press enter w/input() functionality
-print('-Stashed '+DFFLS+' in your inventory!-')#shows user that they stashedaway weapon w/print
-print('(Next loot box Press enter)')#prompts user to check next case of loot w/print
-input()#T/I
-print()#(ELOC)
-#𝗝𝗶𝗿𝗼 𝗔𝘂𝘁𝗼 𝘀𝗽𝗮𝗺𝗮𝘁𝗶𝗰 𝗠𝗞𝟮 𝗽𝗶𝘀𝘁𝗼𝗹 @Line '329'
-print('-You walk up to a Rare Pistol Loot box-')#user walks up to loot box w/print
-Jiro='Jiro Auto Spamatic MK2 Pistol (LEVEL 5!) ' #sets variable name for weapon cache
-print('(Open [Rare Pistol Loot box]?)')#asks user to open the loot 
-print('(press enter to open!)')#prompts user to press enter
-input()#waiting for user to press enter w/input() functionality
-print('Obtained:'+Jiro+'+ '+str(int(100.20))+' xp'+'!')#tells user which weapons they have obtained
-print('(press enter to collect)')#prompts user to progress.
-input()#prompts user to progress.
-print('-Stashed '+Jiro+' in your inventory!-')#shows user that they stashedaway weapon w/print
-print('(Next loot box Press enter)')#prompts user to check next case of loot w/print
-input()#T/I
-print()#(ELOC)
-#𝗖𝗵𝗿𝗼𝗺𝗲𝗺𝗮𝘁𝗶𝗰 𝗦𝗻𝗶𝗽𝗲𝗿 𝗠𝗞𝟮 𝗥𝗶𝗳𝗹𝗲 @Line '336'
-print('-You walk up to a Long Range Sniper Loot box-')#user walks up to loot box w/print
-ChrmeSniperMk2='Chromematic Sniper MK2 Rifle (LEVEL 5!) ' #sets variable name for weapon cache
-print('(Open [Rare Long Range Snipers Loot box]?)')#asks user to open the loot 
-print('(press enter to open!)')#prompts user to press enter
-input()#waiting for user to press enter w/input() functionality
-print('Obtained:'+ChrmeSniperMk2+'+ '+str(int(204.20))+' xp'+'!')#tells user which weapons they have obtained
-print('(press enter to collect)')#prompts user to progress.
-input()#prompts user to progress.
-print('-Stashed '+ChrmeSniperMk2+' in your inventory!   -')#shows user that they stashedaway weapon w/print
-print('(Next loot box Press enter)')#prompts user to check next case of loot w/print
-input()#T/I
-print()#(ELOC)
-#𝗕𝗼𝗼𝗺𝗯𝗼𝘅 𝗦𝗽𝗿𝗮𝘆𝗲𝗿 𝗜𝗜 𝗦𝘂𝗯 𝗺𝗮𝗰𝗵𝗶𝗻𝗲 𝗴𝘂𝗻 @Line '336'
-print('-You walk up to a Sub Machine Gun Loot box-')#user walks up to loot box w/print
-SprayAndPrayBoombox='Boombox Sprayer II Sub machine Gun (LEVEL 5!) ' #sets variable name for weapon cache
-print('(Open [Rare Sub Machine guns Loot box]?)')#asks user to open the loot 
-print('(press enter to open!)')#prompts user to press enter
-input()#waiting for user to press enter w/input() functionality
-print('Obtained:'+SprayAndPrayBoombox+'+ '+str(int(100.1))+' xp'+'!')#tells user which weapons they have obtained
-print('(press enter to collect)')#prompts user to progress.
-input()#prompts user to progress.
-print('-Stashed '+SprayAndPrayBoombox+' in your inventory!-')#shows user that they stashedaway weapon w/print
-print('(Next loot box Press enter)')#prompts user to try next loot box w/print function
-input()#T/I
-print()#(ELOC)
-#𝗣𝘆𝗲𝗶𝗰𝗼 𝗜𝗻𝘀𝘂𝗿𝗮𝗻𝗰𝗲 𝗦𝗵𝗶𝗲𝗹𝗱 @Line '350'
-print('-You walk up to a Shields Loot box-')#user walks up to loot box w/print
-geico='Pyeico Insurance Shield (LEVEL 5!) ' #sets variable name for weapon cache
-print('(Open [Lengendary Shield Loot box?)')#prompts user to open the loot 
-print('(press enter to open!)')#prompts user to press enter
-input()#waiting for user to press enter w/input() functionality
-print('Obtained:'+geico+str(int(1000.25))+'+ '+' xp'+'!')#tells user which shields they have obtained
-print('(press enter to collect)')#prompts user to progress.
-input()#prompts user to progress.
-print('-Stashed '+geico+' in your inventory!-')#shows user that they stashedaway weapon w/print
-print('(Next loot box Press enter)')#prompts user to try next loot box w/print function
-input()#T/I
-print()#(ELOC)
-#𝗚𝗲𝘁 𝗧𝗵𝗲 𝗽𝗮𝗿𝘁𝘆 𝗚𝗼𝗶𝗻𝗴:𝗗𝗿𝗶𝗻𝗸𝘀 @Line '357'
-print('-You walk up to a Quest Item Loot box-')#lets user know what they are approaching w/print
-bevarages='[Get The Party Going!: Drinks] ' #sets variable name for weapon cache
-print('(Open [Quest items Loot box?)')#prompts user to open the loot 
-print('(press enter to open!)')#prompts user to press enter
-input()#waiting for user to press enter w/input() functionality
-print('Obtained:'+bevarages+'+ '+str(int(1000.67))+' xp'+' 100 cases'+'!')#tells user which shields they have obtained
-print('(press enter to collect)')#prompts user to progress.
-input()#prompts user to progress.
-print('-Stashed '+bevarages+' in your inventory!')#shows user that they stashedaway weapon w/print
-print('(press enter to talk to Moxxie)')#prompts user to press enter to progress w/print
-input()#T/I 'takes input from user and waits for enter key press'
-print('Moxxie:Done playing with your toys yet?')#Moxxie speech dialog w/print function
-print()#empty line of code to create space w/print()
-print('Moxxie:I like a man who knows his tools')# uses print function
-print('(press enter)')#more prompts w/print
-input()#T/I
-print('-You look at her and threw her back the Deadmans Revolver she gave you-')#(SOA)'sense of action'
-print('(press enter)')#prompting user to press enter key! w/print functionalities
-input()#data collects user keyboard presses w/input()
-print('Moxxie:So you didnt want my gift? how rude! hopefully you wont do that to me.')#she shows emotions w/print
-print()#empty line of text that create spacial atmosphere within the code
-print('-You shake your head-')#(SOA) (User)
-print('(press enter)')#prompts user to press enter using the print functionality
-input()#T/I
-print('Moxxie:Your more useful than the people back at my place. .')#speech from the character Moxxie uses print
-print()#(ELOC) 'empty line of code) uses print() function
-print('Moxxie:When all this is over and we finally kill that prick Handsome Jack')#speech dialog from Moxxie w/print
-print('we should get to know eachother. . ')#coninues speech dialog from line '463'
-print('(press enter to agree)')#prompts user to press enter w/print
-input()#T/I 'takes input'
-print('Moxxie:*Smiles*')#uses pring to show sense of action from Moxxie
-print()#(ELOC)
-print('Moxxie:We got our weapons now we should head back now before Handsomes Jacks goons')#speech dialog from Moxxie uses print
-print('get here and try to kill us with our guards down..lets go')#progresses conversation from line '469'
-print('(press enter to nod)')#prompts user to nod their head with enter w/print function 
-input()#T/I
-print('(Enter the '+vehicle+' than press enter)')#prompts user to get inside vehicle+variable
-input()#gathers input from the user to enter the B250 Destroyer
-print('Moxxie: Okay start this puppy!')#Mxxie shows her excitment w/print
-print('(press enter to start the ignition to the '+vehicle+')')#creates a sense of direction w/print functions
-input()#T/I
-print('Old man:Vault Hunters , Blah Hunters , Small Hunters who cares? '+name+' has')#narration and speech dialog created with print function
-print('wiped out an entire hideout full of Pycho Bandits with 0 effort and by just pressing')#uses the print function to print values
-print('a fucking enter key?.')#uses print function and continues from lines '478,479'
-print('(press enter to read)')#prompts user to press enter to read w/print
-input()#T/I 'takes input from user and waits for enter key press'
-print('Old Man:Something tells me Handsome Jack is in some trouble.')#uses the print function to generate strings(stirs)
-print('(press enter to read)')#prompts user to press enter w/print
-input()#T/I
-print('Old man: Pandora is in need of a Hero badly and we might have found them. . .')#narrartion dialog w/print
-print('(press enter to read)')#prompts user to press enter w/print
-input()#T/I
-print('-A view of handsome Jacks office in the borderlands is seen-')#changing settings and scene w/print
-print('(press enter)')#prompts user to press enter w/print
-input()#T/I
+# collecting loot boxes to gather xp and weapons system
+# 𝗗𝗲𝗺𝗼𝗻𝗶𝗰 𝗙𝗶𝗿𝗲 𝗟𝗮𝗰𝗲𝗱 𝗦𝗵𝗼𝘁𝗴𝘂𝗻 @Line '328'
+# user walks up to loot box w/print
+print('-You walk up to a Common Shotgun Loot box-')
+# sets variable name for weapon cache
+DFFLS = 'Demonic Fire Laced Shotgun (LEVEL 5!) '
+print('(Open [Common Shotgun Loot box]?)')  # aks user to open the loot
+print('(press enter to open!)')  # prompts user to press enter!
+input()  # waiting for user to press enter w/input() functionality
+# tells user which weapons they have obtained
+print('Obtained:'+DFFLS+'+ '+str(int(50.1))+' xp'+'!')
+print('(press enter to collect)')  # prompts user to progress.
+input()  # waiting for user to press enter w/input() functionality
+# shows user that they stashedaway weapon w/print
+print('-Stashed '+DFFLS+' in your inventory!-')
+# prompts user to check next case of loot w/print
+print('(Next loot box Press enter)')
+input()  # T/I
+print()  # (ELOC)
+# 𝗝𝗶𝗿𝗼 𝗔𝘂𝘁𝗼 𝘀𝗽𝗮𝗺𝗮𝘁𝗶𝗰 𝗠𝗞𝟮 𝗽𝗶𝘀𝘁𝗼𝗹 @Line '329'
+# user walks up to loot box w/print
+print('-You walk up to a Rare Pistol Loot box-')
+# sets variable name for weapon cache
+Jiro = 'Jiro Auto Spamatic MK2 Pistol (LEVEL 5!) '
+print('(Open [Rare Pistol Loot box]?)')  # asks user to open the loot
+print('(press enter to open!)')  # prompts user to press enter
+input()  # waiting for user to press enter w/input() functionality
+# tells user which weapons they have obtained
+print('Obtained:'+Jiro+'+ '+str(int(100.20))+' xp'+'!')
+print('(press enter to collect)')  # prompts user to progress.
+input()  # prompts user to progress.
+# shows user that they stashedaway weapon w/print
+print('-Stashed '+Jiro+' in your inventory!-')
+# prompts user to check next case of loot w/print
+print('(Next loot box Press enter)')
+input()  # T/I
+print()  # (ELOC)
+# 𝗖𝗵𝗿𝗼𝗺𝗲𝗺𝗮𝘁𝗶𝗰 𝗦𝗻𝗶𝗽𝗲𝗿 𝗠𝗞𝟮 𝗥𝗶𝗳𝗹𝗲 @Line '336'
+# user walks up to loot box w/print
+print('-You walk up to a Long Range Sniper Loot box-')
+# sets variable name for weapon cache
+ChrmeSniperMk2 = 'Chromematic Sniper MK2 Rifle (LEVEL 5!) '
+# asks user to open the loot
+print('(Open [Rare Long Range Snipers Loot box]?)')
+print('(press enter to open!)')  # prompts user to press enter
+input()  # waiting for user to press enter w/input() functionality
+# tells user which weapons they have obtained
+print('Obtained:'+ChrmeSniperMk2+'+ '+str(int(204.20))+' xp'+'!')
+print('(press enter to collect)')  # prompts user to progress.
+input()  # prompts user to progress.
+# shows user that they stashedaway weapon w/print
+print('-Stashed '+ChrmeSniperMk2+' in your inventory!   -')
+# prompts user to check next case of loot w/print
+print('(Next loot box Press enter)')
+input()  # T/I
+print()  # (ELOC)
+# 𝗕𝗼𝗼𝗺𝗯𝗼𝘅 𝗦𝗽𝗿𝗮𝘆𝗲𝗿 𝗜𝗜 𝗦𝘂𝗯 𝗺𝗮𝗰𝗵𝗶𝗻𝗲 𝗴𝘂𝗻 @Line '336'
+# user walks up to loot box w/print
+print('-You walk up to a Sub Machine Gun Loot box-')
+# sets variable name for weapon cache
+SprayAndPrayBoombox = 'Boombox Sprayer II Sub machine Gun (LEVEL 5!) '
+print('(Open [Rare Sub Machine guns Loot box]?)')  # asks user to open the loot
+print('(press enter to open!)')  # prompts user to press enter
+input()  # waiting for user to press enter w/input() functionality
+print('Obtained:'+SprayAndPrayBoombox+'+ '+str(int(100.1)) +
+      ' xp'+'!')  # tells user which weapons they have obtained
+print('(press enter to collect)')  # prompts user to progress.
+input()  # prompts user to progress.
+# shows user that they stashedaway weapon w/print
+print('-Stashed '+SprayAndPrayBoombox+' in your inventory!-')
+# prompts user to try next loot box w/print function
+print('(Next loot box Press enter)')
+input()  # T/I
+print()  # (ELOC)
+# 𝗣𝘆𝗲𝗶𝗰𝗼 𝗜𝗻𝘀𝘂𝗿𝗮𝗻𝗰𝗲 𝗦𝗵𝗶𝗲𝗹𝗱 @Line '350'
+# user walks up to loot box w/print
+print('-You walk up to a Shields Loot box-')
+# sets variable name for weapon cache
+geico = 'Pyeico Insurance Shield (LEVEL 5!) '
+print('(Open [Lengendary Shield Loot box?)')  # prompts user to open the loot
+print('(press enter to open!)')  # prompts user to press enter
+input()  # waiting for user to press enter w/input() functionality
+# tells user which shields they have obtained
+print('Obtained:'+geico+str(int(1000.25))+'+ '+' xp'+'!')
+print('(press enter to collect)')  # prompts user to progress.
+input()  # prompts user to progress.
+# shows user that they stashedaway weapon w/print
+print('-Stashed '+geico+' in your inventory!-')
+# prompts user to try next loot box w/print function
+print('(Next loot box Press enter)')
+input()  # T/I
+print()  # (ELOC)
+# 𝗚𝗲𝘁 𝗧𝗵𝗲 𝗽𝗮𝗿𝘁𝘆 𝗚𝗼𝗶𝗻𝗴:𝗗𝗿𝗶𝗻𝗸𝘀 @Line '357'
+# lets user know what they are approaching w/print
+print('-You walk up to a Quest Item Loot box-')
+# sets variable name for weapon cache
+bevarages = '[Get The Party Going!: Drinks] '
+print('(Open [Quest items Loot box?)')  # prompts user to open the loot
+print('(press enter to open!)')  # prompts user to press enter
+input()  # waiting for user to press enter w/input() functionality
+# tells user which shields they have obtained
+print('Obtained:'+bevarages+'+ '+str(int(1000.67))+' xp'+' 100 cases'+'!')
+print('(press enter to collect)')  # prompts user to progress.
+input()  # prompts user to progress.
+# shows user that they stashedaway weapon w/print
+print('-Stashed '+bevarages+' in your inventory!')
+# prompts user to press enter to progress w/print
+print('(press enter to talk to Moxxie)')
+input()  # T/I 'takes input from user and waits for enter key press'
+# Moxxie speech dialog w/print function
+print('Moxxie:Done playing with your toys yet?')
+print()  # empty line of code to create space w/print()
+print('Moxxie:I like a man who knows his tools')  # uses print function
+print('(press enter)')  # more prompts w/print
+input()  # T/I
+# (SOA)'sense of action'
+print('-You look at her and threw her back the Deadmans Revolver she gave you-')
+# prompting user to press enter key! w/print functionalities
+print('(press enter)')
+input()  # data collects user keyboard presses w/input()
+# she shows emotions w/print
+print('Moxxie:So you didnt want my gift? how rude! hopefully you wont do that to me.')
+print()  # empty line of text that create spacial atmosphere within the code
+print('-You shake your head-')  # (SOA) (User)
+# prompts user to press enter using the print functionality
+print('(press enter)')
+input()  # T/I
+# speech from the character Moxxie uses print
+print('Moxxie:Your more useful than the people back at my place. .')
+print()  # (ELOC) 'empty line of code) uses print() function
+# speech dialog from Moxxie w/print
+print('Moxxie:When all this is over and we finally kill that prick Handsome Jack')
+# coninues speech dialog from line '463'
+print('we should get to know eachother. . ')
+print('(press enter to agree)')  # prompts user to press enter w/print
+input()  # T/I 'takes input'
+print('Moxxie:*Smiles*')  # uses pring to show sense of action from Moxxie
+print()  # (ELOC)
+# speech dialog from Moxxie uses print
+print('Moxxie:We got our weapons now we should head back now before Handsomes Jacks goons')
+# progresses conversation from line '469'
+print('get here and try to kill us with our guards down..lets go')
+# prompts user to nod their head with enter w/print function
+print('(press enter to nod)')
+input()  # T/I
+# prompts user to get inside vehicle+variable
+print('(Enter the '+vehicle+' than press enter)')
+input()  # gathers input from the user to enter the B250 Destroyer
+print('Moxxie: Okay start this puppy!')  # Mxxie shows her excitment w/print
+# creates a sense of direction w/print functions
+print('(press enter to start the ignition to the '+vehicle+')')
+input()  # T/I
+print('Old man:Vault Hunters , Blah Hunters , Small Hunters who cares? ' +
+      name+' has')  # narration and speech dialog created with print function
+# uses the print function to print values
+print('wiped out an entire hideout full of Pycho Bandits with 0 effort and by just pressing')
+# uses print function and continues from lines '478,479'
+print('a fucking enter key?.')
+print('(press enter to read)')  # prompts user to press enter to read w/print
+input()  # T/I 'takes input from user and waits for enter key press'
+# uses the print function to generate strings(stirs)
+print('Old Man:Something tells me Handsome Jack is in some trouble.')
+print('(press enter to read)')  # prompts user to press enter w/print
+input()  # T/I
+# narrartion dialog w/print
+print('Old man: Pandora is in need of a Hero badly and we might have found them. . .')
+print('(press enter to read)')  # prompts user to press enter w/print
+input()  # T/I
+# changing settings and scene w/print
+print('-A view of handsome Jacks office in the borderlands is seen-')
+print('(press enter)')  # prompts user to press enter w/print
+input()  # T/I
 """
 
 █▀ ▀█▀ █▀█ ▄▀ ▀▄       █ █▄ █ ▀█▀ ▄▀ ▀▄       █▀▀ █░░ █▀█ ▄▀█ ▀█▀ ▄▀ ▀▄   █▀▀ █░█ █▀▀ ▀█▀ █ █▀█ █▄░█ █▀
@@ -580,213 +728,306 @@ all you gotta do is convert it to string data type. How? str(50) and than the ou
 '50' again all this stuff is experimentation but in the long run they convert data types. A basic
 rule of thumb is to always refer to the chapter 1 page of automate the boring stuff's website!
 """
-print('-The camera slowly zooms inside the office window of Handsomes Jacks Office-')#(SOD) uses print functions
-print('(press enter)')#prompts user to press enter w/print
-input()#T/I
-print('-A loud BANG and the window gets covered in blood-')#(SOD) uses print functions
-print('(press enter)')#prompts user to press enter w/print
-input()#T/I
-print('-We hear Handsome Jack laughing then the camera fades threw the walls and closes up ')#(SOD) uses print functions
-print('to his face-')#(SOA continues) from line ''
-print('(press enter)')#prompts user to press enter w/print
-input()#T/I 'takes input from user and waits for enter key press'
-print('Handsome Jack: Is this why I pay you rats to fuck up when its unconventional?')#speech dialog from (Handsome Jack) uses print function
-print('(press enter)')#prompts user to press enter w/print
-input()#T/I
-print('Handsome Jack:Oh thats right. . . ')#speech dialog from (Handsome Jack) uses print function
-print('(press enter)')#prompts user to press enter w/print
-input()#T/I
-print('Handsome Jack:I dont even pay you meatbags but until Im alive. .Pandora belongs to me.')#speech dialog from (Handsome Jack) uses print function
-print('(press enter)')#prompts user to press enter w/print
-input()#input() waits for the user to enter his/her enter key press w/input()
-print('Hperion Robot:I want my Mommy.')#speech dialog from (Hyperion Robot) uses print function
-print('(press enter)')#prompts user to press enter w/print
-input()#T/I
-print('-Handsome Jack shocked by the statement looks back at the robot in disbelief-')#speech dialog from (Handsome Jack) uses print function
-print('(press enter)')#prompts user to press enter w/print
-input()#T/I 'takes input from user and waits for enter key press'
-print('Handsome Jack:You want your mommy?')#speech dialog from (Handsome Jack) uses print function
-print('(press enter')#prompts user to press enter w/print
-input()#T/I
-print('Hyperion Robot: Yes please!!')#speech dialog from (Hyperion Robot) uses print function
-print('(press enter)')#prompts user to press enter w/print
-input()#T/I
-print('-Handsome Jack shoots the robot and metal flies throughout the room as he laughs-')#speech dialog from (Handsome Jack) uses print function +(SOA)
-print('(press enter)')#prompts user to press enter w/print
-input()#data collects user keyboard presses w/input()
-print('Handsome Jack:NOW EVERYONE GET BACK TO WORK AND FIND THAT VAULT HUNTER!')#speech dialog from (Handsome Jack) uses print function
-print('(press enter)')#prompts user to press enter w/print
-input()#T/I
-print('-The henchmen and pychos run and bump into one another leaving the office in fear-')#(SOA) Sense of action (Enemies) uses w/print
-print()#(ELOC) ''empty line of code
-print('Handsome Jack:AND BRING HIM BACK TO ME ALIVE!')#speech dialog from (Handsome Jack) uses print function
-print()#(ELOC)
-print('Handsome Jack:A little torture wouldnt kill anyone. . .')#speech dialog from (Handsome Jack) uses print function
-print('(press enter)')#prompts user to press enter w/print
-input()#T/I
-print('-The scene changes and '+name+' and Moxxie are exiting the '+vehicle+' they look')#story driven scene with the use of variables and such
-print('at a huge hologram near a store on the news. Handsome Jack appears and everyone gathers')#more story driven settings w/print
-print('around to watch his new announcment as children and the people of sanctuary watch in fear-')#(SOA)
-print('(press enter)')#prompts user to press enter w/print
-input()#T/I
-print('*𝗦𝗞𝗿𝘇𝘇𝘁 , 𝗕𝗹𝗶𝗣 , 𝗛𝗼𝗹𝗼𝗴𝗿𝗮𝗺 𝗙𝗶𝘇𝘇*')#sound effect uses the print functionality!
-print('(press enter)')#prompts user to press enter w/print
-input()#T/I
-print('Hologram Message Handsome Jack: Dear People of Sanctuary.')#speech dialog from (Handsome Jack) uses print function
-print()#(ELOC)
-print('(press enter)')#prompts user to press enter w/print
-input()#T/I
-print('Hologram Message Handsome Jack:Theres a a Vault Hunter somewhere in Pandora and *Slight Pause*')#speech dialog from (Handsome Jack) uses print function
-print('(press enter)')#prompts user to press enter w/print
-input()#T/I
-print('Hologram Message Handsome Jack: As you can tell I Still havent found them yet Ummmm')#speech dialog from (Handsome Jack) uses print function
-print()#(ELOC)
-print('-The people of Sanctuary clench their children and Families upset-')#(SOA) Sense of action (NPCS) uses w/print
-print('(press enter)')#prompts user to press enter w/print
-input()#T/I 'takes input from user and waits for enter key press'
-print('Hologram Message Handsome Jack:If you dont give them up. .')#speech dialog from (Handsome Jack) uses print function
-print('(press enter)')#prompts user to press enter w/print
-input()#T/I
-print('-Everyone watches as the tension builds-')#(SOA) Sense of action (NPCS) uses w/print
-print('(press enter)')#prompts user to press enter w/print
-input()#T/I 'takes input from user and waits for enter key press'
-print('Hologram Message Handsome Jack:Lets just put it this way..Im sure you can all hold your breaths')#speech dialog from (Handsome Jack) uses print function
-print('under water for so long. So im thinking Big BOOM BOOM under city. Drown you pathetic heathans')#speech continues from line '562' w/print
-print('into the aybss where you came from and than we will build Pandora up again with my gene pool')#speech continues from line '563' w/print
-print('once again.')#speech continues from line '564' w/print
-print('(press enter and ball up your fists)')#prompts user to press enter w/print
-input()#T/I
-print('Moxxie: THAT MONSTER HES GOING TO FLOOD SANCTUARY '+name+' YOU HAVE TO STOP HIM!')#speech dialog from (Moxxie) uses print function
-print('press enter')#prompts user to press enter w/print
-input()#T/I
-print('-'+name+' and Moxxie run into M O X X X I E S-')#(SOA) Sense of action (User+Moxxie) uses w/print
-print('press enter to go inside')#prompts user to press enter w/print and tells them to go inside
-input()#T/I
-print('-As you both walk in she walks over to the counter and paces back and fourth worried')#(SOA) Sense of action (User+Moxxie) uses w/print
-print('press enter')#prompts user to press enter w/print and gathers data collection
-input()#T/I
-print('Moxxie:WE have to do something Hes never done something so major like this before. .')#speech dialog from (Moxxie) uses print function
-print('this is genecide if anything and those innocent people dont deserve to die like that.')#speech progresses from line '501'
-print()#(ELOC)
-print('Moxxie:That weapon stash you have could help us against Handsom jack!')#speech dialog from (Moxxie) uses print function
-print('(press enter to nod at her)')#prompts user to press enter w/print and to nod
-input()#T/I
-print('Moxxie: especially that '+ChrmeSniperMk2)#speech dialog from (Moxxie)+variable uses print function
-print('(press enter)')#prompts user to press enter w/print
-input()#T/I 'takes input from user and waits for enter key press'
-print('-you look at Moxxie pace back and fourth as the sweat drips down her skin-')#(SOA) Sense of action (User) uses w/print
-print('(press enter)')#prompts user to press enter w/print
-input()#T/I
-print('Moxxie:Nows not a time to look at my body! Maybe later we can play rough.')#speech dialog from (Moxxie) uses print function
-print('press enter to stop laughing')#prompts user to press enter w/print and stop laughing
-input()#input waits for the user to enter his/her enter key press w/input()
-print('(press enter)')#prompts user to press enter w/print 
-input()#T/I
-print('Moxxie:Pass me the drinks ffor my bar please will ya?')#speech dialog from (Moxxie) uses print function
-print('(press enter to pass the drinks to Moxxie)')#prompts user to press enter w/print and to deleiver Quest items
-input()#T/I
-print(name+' passes'+bevarages+' to Moxxie and gains '+str(int(1500.50))+' xp')#returning Quest item (SOA) w/print
-print('(press enter)')#prompts user to press enter w/print
-input()#T/I
-print('[QUEST COMPLETE!: Succesfully deleivered Moxxie her drinks!')#uses print+variables to let user know they have delievered Quest Items!
-print('(press enter to complete Quest)')#prompts user to press enter w/print
-input()#T/I
-print('-She vaults over the counter and hugs you tightly-')#(SOA) Sense of action () uses w/print
-print()#(ELOC) 'empty line of code' 
-print('Moxxie:This means so much to me. . Thank you')#speech dialog from (Moxxie) uses print function
-print('(press enter to comfort her)')#prompts user to press enter w/print
-input()#T/I
-print('Moxxie:We should get going and get rid of him once and for all!')#speech dialog from (Moxxie) uses print function
-print('(press enter to nod)')#prompts user to press enter w/print and nod
-input()#T/I
-print('Moxxie:okay so im thinking in like '+str(round(5.78))+' minutes we should head out.')#speech dialog from () uses print function
-print('(press enter to agree)')#prompts user to press enter w/print
-input()#T/I
-print('Moxxie:Time to pay Handsome Fuck Face a visit. .')#speech dialog from (Moxxie) uses print function
-print()#an empty line of code to create a spacial atmosphere between lines
-print('-as she reloads her gun her chest jiggles slightly and the camera zooms into her heart shaped')#(SOA) Sense of action (User+Moxxie) uses w/print
-print('tattoo and the heart becomes a scene of '+name+' and Moxxie driving the '+vehicle+' down')#(SOA continues) from line '630'
-print('deserted desert and sand storms blow behind the cars wheels and Moxxie in shotgun wearing')#(SOA continues) from line '631'
-print('a bra and cargo army shorts and sunglasses.')#(SOA continues) from line '632'
-print('(press enter)')#prompts user to press enter w/print
-input()#T/I
-print('-'+name+' & Moxxie enter Handsome Jacks Corperation tower-')#(SOD) sense of direction () w/print
-print('(press enter to walk threw his doors and finally defeat. . )')#prompts user to press enter w/print
-input()#T/I
+print('-The camera slowly zooms inside the office window of Handsomes Jacks Office-')  # (SOD) uses print functions
+print('(press enter)')  # prompts user to press enter w/print
+input()  # T/I
+# (SOD) uses print functions
+print('-A loud BANG and the window gets covered in blood-')
+print('(press enter)')  # prompts user to press enter w/print
+input()  # T/I
+# (SOD) uses print functions
+print('-We hear Handsome Jack laughing then the camera fades threw the walls and closes up ')
+print('to his face-')  # (SOA continues) from line ''
+print('(press enter)')  # prompts user to press enter w/print
+input()  # T/I 'takes input from user and waits for enter key press'
+# speech dialog from (Handsome Jack) uses print function
+print('Handsome Jack: Is this why I pay you rats to fuck up when its unconventional?')
+print('(press enter)')  # prompts user to press enter w/print
+input()  # T/I
+# speech dialog from (Handsome Jack) uses print function
+print('Handsome Jack:Oh thats right. . . ')
+print('(press enter)')  # prompts user to press enter w/print
+input()  # T/I
+# speech dialog from (Handsome Jack) uses print function
+print('Handsome Jack:I dont even pay you meatbags but until Im alive. .Pandora belongs to me.')
+print('(press enter)')  # prompts user to press enter w/print
+input()  # input() waits for the user to enter his/her enter key press w/input()
+# speech dialog from (Hyperion Robot) uses print function
+print('Hperion Robot:I want my Mommy.')
+print('(press enter)')  # prompts user to press enter w/print
+input()  # T/I
+# speech dialog from (Handsome Jack) uses print function
+print('-Handsome Jack shocked by the statement looks back at the robot in disbelief-')
+print('(press enter)')  # prompts user to press enter w/print
+input()  # T/I 'takes input from user and waits for enter key press'
+# speech dialog from (Handsome Jack) uses print function
+print('Handsome Jack:You want your mommy?')
+print('(press enter')  # prompts user to press enter w/print
+input()  # T/I
+# speech dialog from (Hyperion Robot) uses print function
+print('Hyperion Robot: Yes please!!')
+print('(press enter)')  # prompts user to press enter w/print
+input()  # T/I
+# speech dialog from (Handsome Jack) uses print function +(SOA)
+print('-Handsome Jack shoots the robot and metal flies throughout the room as he laughs-')
+print('(press enter)')  # prompts user to press enter w/print
+input()  # data collects user keyboard presses w/input()
+# speech dialog from (Handsome Jack) uses print function
+print('Handsome Jack:NOW EVERYONE GET BACK TO WORK AND FIND THAT VAULT HUNTER!')
+print('(press enter)')  # prompts user to press enter w/print
+input()  # T/I
+# (SOA) Sense of action (Enemies) uses w/print
+print('-The henchmen and pychos run and bump into one another leaving the office in fear-')
+print()  # (ELOC) ''empty line of code
+# speech dialog from (Handsome Jack) uses print function
+print('Handsome Jack:AND BRING HIM BACK TO ME ALIVE!')
+print()  # (ELOC)
+# speech dialog from (Handsome Jack) uses print function
+print('Handsome Jack:A little torture wouldnt kill anyone. . .')
+print('(press enter)')  # prompts user to press enter w/print
+input()  # T/I
+print('-The scene changes and '+name+' and Moxxie are exiting the '+vehicle +
+      ' they look')  # story driven scene with the use of variables and such
+# more story driven settings w/print
+print('at a huge hologram near a store on the news. Handsome Jack appears and everyone gathers')
+print('around to watch his new announcment as children and the people of sanctuary watch in fear-')  # (SOA)
+print('(press enter)')  # prompts user to press enter w/print
+input()  # T/I
+# sound effect uses the print functionality!
+print('*𝗦𝗞𝗿𝘇𝘇𝘁 , 𝗕𝗹𝗶𝗣 , 𝗛𝗼𝗹𝗼𝗴𝗿𝗮𝗺 𝗙𝗶𝘇𝘇*')
+print('(press enter)')  # prompts user to press enter w/print
+input()  # T/I
+# speech dialog from (Handsome Jack) uses print function
+print('Hologram Message Handsome Jack: Dear People of Sanctuary.')
+print()  # (ELOC)
+print('(press enter)')  # prompts user to press enter w/print
+input()  # T/I
+# speech dialog from (Handsome Jack) uses print function
+print('Hologram Message Handsome Jack:Theres a a Vault Hunter somewhere in Pandora and *Slight Pause*')
+print('(press enter)')  # prompts user to press enter w/print
+input()  # T/I
+# speech dialog from (Handsome Jack) uses print function
+print('Hologram Message Handsome Jack: As you can tell I Still havent found them yet Ummmm')
+print()  # (ELOC)
+# (SOA) Sense of action (NPCS) uses w/print
+print('-The people of Sanctuary clench their children and Families upset-')
+print('(press enter)')  # prompts user to press enter w/print
+input()  # T/I 'takes input from user and waits for enter key press'
+# speech dialog from (Handsome Jack) uses print function
+print('Hologram Message Handsome Jack:If you dont give them up. .')
+print('(press enter)')  # prompts user to press enter w/print
+input()  # T/I
+# (SOA) Sense of action (NPCS) uses w/print
+print('-Everyone watches as the tension builds-')
+print('(press enter)')  # prompts user to press enter w/print
+input()  # T/I 'takes input from user and waits for enter key press'
+# speech dialog from (Handsome Jack) uses print function
+print('Hologram Message Handsome Jack:Lets just put it this way..Im sure you can all hold your breaths')
+# speech continues from line '562' w/print
+print('under water for so long. So im thinking Big BOOM BOOM under city. Drown you pathetic heathans')
+# speech continues from line '563' w/print
+print('into the aybss where you came from and than we will build Pandora up again with my gene pool')
+print('once again.')  # speech continues from line '564' w/print
+# prompts user to press enter w/print
+print('(press enter and ball up your fists)')
+input()  # T/I
+print('Moxxie: THAT MONSTER HES GOING TO FLOOD SANCTUARY '+name +
+      ' YOU HAVE TO STOP HIM!')  # speech dialog from (Moxxie) uses print function
+print('press enter')  # prompts user to press enter w/print
+input()  # T/I
+# (SOA) Sense of action (User+Moxxie) uses w/print
+print('-'+name+' and Moxxie run into M O X X X I E S-')
+# prompts user to press enter w/print and tells them to go inside
+print('press enter to go inside')
+input()  # T/I
+# (SOA) Sense of action (User+Moxxie) uses w/print
+print('-As you both walk in she walks over to the counter and paces back and fourth worried')
+# prompts user to press enter w/print and gathers data collection
+print('press enter')
+input()  # T/I
+# speech dialog from (Moxxie) uses print function
+print('Moxxie:WE have to do something Hes never done something so major like this before. .')
+# speech progresses from line '501'
+print('this is genecide if anything and those innocent people dont deserve to die like that.')
+print()  # (ELOC)
+# speech dialog from (Moxxie) uses print function
+print('Moxxie:That weapon stash you have could help us against Handsom jack!')
+# prompts user to press enter w/print and to nod
+print('(press enter to nod at her)')
+input()  # T/I
+# speech dialog from (Moxxie)+variable uses print function
+print('Moxxie: especially that '+ChrmeSniperMk2)
+print('(press enter)')  # prompts user to press enter w/print
+input()  # T/I 'takes input from user and waits for enter key press'
+# (SOA) Sense of action (User) uses w/print
+print('-you look at Moxxie pace back and fourth as the sweat drips down her skin-')
+print('(press enter)')  # prompts user to press enter w/print
+input()  # T/I
+# speech dialog from (Moxxie) uses print function
+print('Moxxie:Nows not a time to look at my body! Maybe later we can play rough.')
+# prompts user to press enter w/print and stop laughing
+print('press enter to stop laughing')
+input()  # input waits for the user to enter his/her enter key press w/input()
+print('(press enter)')  # prompts user to press enter w/print
+input()  # T/I
+# speech dialog from (Moxxie) uses print function
+print('Moxxie:Pass me the drinks ffor my bar please will ya?')
+# prompts user to press enter w/print and to deleiver Quest items
+print('(press enter to pass the drinks to Moxxie)')
+input()  # T/I
+print(name+' passes'+bevarages+' to Moxxie and gains ' +
+      str(int(1500.50))+' xp')  # returning Quest item (SOA) w/print
+print('(press enter)')  # prompts user to press enter w/print
+input()  # T/I
+# uses print+variables to let user know they have delievered Quest Items!
+print('[QUEST COMPLETE!: Succesfully deleivered Moxxie her drinks!')
+print('(press enter to complete Quest)')  # prompts user to press enter w/print
+input()  # T/I
+# (SOA) Sense of action () uses w/print
+print('-She vaults over the counter and hugs you tightly-')
+print()  # (ELOC) 'empty line of code'
+# speech dialog from (Moxxie) uses print function
+print('Moxxie:This means so much to me. . Thank you')
+print('(press enter to comfort her)')  # prompts user to press enter w/print
+input()  # T/I
+# speech dialog from (Moxxie) uses print function
+print('Moxxie:We should get going and get rid of him once and for all!')
+print('(press enter to nod)')  # prompts user to press enter w/print and nod
+input()  # T/I
+print('Moxxie:okay so im thinking in like '+str(round(5.78)) +
+      ' minutes we should head out.')  # speech dialog from () uses print function
+print('(press enter to agree)')  # prompts user to press enter w/print
+input()  # T/I
+# speech dialog from (Moxxie) uses print function
+print('Moxxie:Time to pay Handsome Fuck Face a visit. .')
+print()  # an empty line of code to create a spacial atmosphere between lines
+# (SOA) Sense of action (User+Moxxie) uses w/print
+print('-as she reloads her gun her chest jiggles slightly and the camera zooms into her heart shaped')
+print('tattoo and the heart becomes a scene of '+name +
+      ' and Moxxie driving the '+vehicle+' down')  # (SOA continues) from line '630'
+# (SOA continues) from line '631'
+print('deserted desert and sand storms blow behind the cars wheels and Moxxie in shotgun wearing')
+# (SOA continues) from line '632'
+print('a bra and cargo army shorts and sunglasses.')
+print('(press enter)')  # prompts user to press enter w/print
+input()  # T/I
+# (SOD) sense of direction () w/print
+print('-'+name+' & Moxxie enter Handsome Jacks Corperation tower-')
+# prompts user to press enter w/print
+print('(press enter to walk threw his doors and finally defeat. . )')
+input()  # T/I
 print('██╗░░██╗░█████╗░███╗░░██╗██████╗░░██████╗░█████╗░███╗░░░███╗███████╗  ░░░░░██╗░█████╗░░█████╗░██╗░░██╗')
 print('██║░░██║██╔══██╗████╗░██║██╔══██╗██╔════╝██╔══██╗████╗░████║██╔════╝  ░░░░░██║██╔══██╗██╔══██╗██║░██╔╝')
 print('███████║███████║██╔██╗██║██║░░██║╚█████╗░██║░░██║██╔████╔██║█████╗░░  ░░░░░██║███████║██║░░╚═╝█████═╝░')
 print('██╔══██║██╔══██║██║╚████║██║░░██║░╚═══██╗██║░░██║██║╚██╔╝██║██╔══╝░░  ██╗░░██║██╔══██║██║░░██╗██╔═██╗░')
 print('██║░░██║██║░░██║██║░╚███║██████╔╝██████╔╝╚█████╔╝██║░╚═╝░██║███████╗  ╚█████╔╝██║░░██║╚█████╔╝██║░╚██╗')
 print('╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚══╝╚═════╝░╚═════╝░░╚════╝░╚═╝░░░░░╚═╝╚══════╝  ░╚════╝░╚═╝░░╚═╝░╚════╝░╚═╝░░╚═╝')
-print('(press enter to confront Handsome Jack)')#gets user ready to fight w/print
-input()#T/I
-print('-CUTSCENE- '+name+ ' & Moxxie walk into the room and its comepletly dark and the sound of')#(SOD) sense of direction () w/print
-print('synanical laughter is heard through the room and a hologram of Handsome Jack reveals itself')#continues (SOD) from line '647'
-print(' he walks out the shadows and points at the hologram and says in pure confidence')#continues (SOD) from line '648'
-print('press enter')#prompts user to press enter w/print 
-input()#T/I 'takes input' w/input()
-print('Handsome Jack:Im the future of this place. .I am the light and darkness of Pandora')#speech dialog from (Handsome Jack) uses print function
-print('without me there could not exist a single shed of life on this earth. I run this planet')#speech dialog from (Handsome Jack) uses print function
-print()#(ELOC) 'empty line of code' uses print()
-print('Handsome Jack:And for some low life Vault Hunter like you to come into MY office and try to')#speech dialog from (Handsome Jack) uses print function
-print('show me up on killing me . . well thats some balls kiddo.')#continues speech dialog from line '655' (Handsome Jack) uses print function
-print('(press enter)')#prompts user to press enter w/print and gathers data collection
-input()#T/I
-print('Moxxie:THIS IS WHERE IT ENDS JACK! YOU HAVE HURT ENOUGH PEOPLE ALREADY!')#speech dialog from (Moxxie) uses print function
-print()#(ELOC)
-print('-Moxxie passes '+name+' the '+DFFLS+'-')#(SOA) Sense of action (Moxxie) uses w/print+variable
-print('(press enter to catch)')#prompts user to press enter w/print and gathers data collection!
-input()#T/I
-print(name+' catches '+DFFLS+' and reloads it quickly!')#(SOA) Sense of action (User) uses w/print+variable
-print('(press enter to aim it at handsome Jack!)')#prompts user to press enter w/print 
-input()#T/I
-print('Handsome Jack:. .  a '+DFFLS+'?'+' That thing is accient!')#speech dialog from () uses print function+variables!
-print('(PRESS ENTER TO SHOOT HANDSOME JACK WITH'+DFFLS)#prompts user to press enter w/print to shoot Handsome Jack
-input()#T/I 'takes input'
-print(name+' Shoots the'+DFFLS+' BAM!!! '*50)#(SOA) Sense of action (User) uses w/print
-print('(press enter)')#prompts user to press enter w/print and gathers data collection
-input()#T/I
-print('Handsome Jack:That tickled.'+' *he wipes his vest and looks at '+name)#speech dialog from (Handsome Jack) (SOA) uses print function
-print('press enter to look at Moxxie')#prompts user to press enter w/printto look at Moxxie
-input()#T/I takes input from user and waits for enter key press uses input()
-print('Moxxie:What the FUCK!? that didnt work?')#speech dialog from (Moxxie) uses print function
-print()#(ELOC) 'empty line of code'
-print('Moxxie:'+name+' HERE CATCH!')#(SOA) Sense of action (Moxxie) uses w/print
-print('(press enter)')#prompts user to press enter w/print 
-input()#T/I
-print('-Moxxie throws '+name+' the '+Jiro)#(SOA) Sense of action (Moxxie) uses w/print
-print('(press enter to catch the '+Jiro+')')#prompts user to press enter w/print to collect Jiro
-input()#T/I
-print('Moxxie:That one should work!. . ') #speech dialog from (Moxxie) uses print function
-print('(press enter to fire the '+Jiro+' at Handsome Jack!')#prompts user to press enter to fire at Handsome Jack w/print
-input()#T/I gathers users keyboard press w/input()
-print(name+' fires at Handsome Jack with '+Jiro+' 𝔍ℑℜ𝔒 𝔅𝔄𝔐 '*100)#(SOA) Sense of action (User) uses w/print
-print('(press enter)')#prompts user to press enter w/print and gathers data collection
-input()#T/I 'takes input'
+# gets user ready to fight w/print
+print('(press enter to confront Handsome Jack)')
+input()  # T/I
+# (SOD) sense of direction () w/print
+print('-CUTSCENE- '+name +
+      ' & Moxxie walk into the room and its comepletly dark and the sound of')
+# continues (SOD) from line '647'
+print('synanical laughter is heard through the room and a hologram of Handsome Jack reveals itself')
+# continues (SOD) from line '648'
+print(' he walks out the shadows and points at the hologram and says in pure confidence')
+print('press enter')  # prompts user to press enter w/print
+input()  # T/I 'takes input' w/input()
+# speech dialog from (Handsome Jack) uses print function
+print('Handsome Jack:Im the future of this place. .I am the light and darkness of Pandora')
+# speech dialog from (Handsome Jack) uses print function
+print('without me there could not exist a single shed of life on this earth. I run this planet')
+print()  # (ELOC) 'empty line of code' uses print()
+# speech dialog from (Handsome Jack) uses print function
+print('Handsome Jack:And for some low life Vault Hunter like you to come into MY office and try to')
+# continues speech dialog from line '655' (Handsome Jack) uses print function
+print('show me up on killing me . . well thats some balls kiddo.')
+# prompts user to press enter w/print and gathers data collection
+print('(press enter)')
+input()  # T/I
+# speech dialog from (Moxxie) uses print function
+print('Moxxie:THIS IS WHERE IT ENDS JACK! YOU HAVE HURT ENOUGH PEOPLE ALREADY!')
+print()  # (ELOC)
+# (SOA) Sense of action (Moxxie) uses w/print+variable
+print('-Moxxie passes '+name+' the '+DFFLS+'-')
+# prompts user to press enter w/print and gathers data collection!
+print('(press enter to catch)')
+input()  # T/I
+# (SOA) Sense of action (User) uses w/print+variable
+print(name+' catches '+DFFLS+' and reloads it quickly!')
+# prompts user to press enter w/print
+print('(press enter to aim it at handsome Jack!)')
+input()  # T/I
+# speech dialog from () uses print function+variables!
+print('Handsome Jack:. .  a '+DFFLS+'?'+' That thing is accient!')
+# prompts user to press enter w/print to shoot Handsome Jack
+print('(PRESS ENTER TO SHOOT HANDSOME JACK WITH'+DFFLS)
+input()  # T/I 'takes input'
+# (SOA) Sense of action (User) uses w/print
+print(name+' Shoots the'+DFFLS+' BAM!!! '*50)
+# prompts user to press enter w/print and gathers data collection
+print('(press enter)')
+input()  # T/I
+# speech dialog from (Handsome Jack) (SOA) uses print function
+print('Handsome Jack:That tickled.'+' *he wipes his vest and looks at '+name)
+# prompts user to press enter w/printto look at Moxxie
+print('press enter to look at Moxxie')
+input()  # T/I takes input from user and waits for enter key press uses input()
+# speech dialog from (Moxxie) uses print function
+print('Moxxie:What the FUCK!? that didnt work?')
+print()  # (ELOC) 'empty line of code'
+# (SOA) Sense of action (Moxxie) uses w/print
+print('Moxxie:'+name+' HERE CATCH!')
+print('(press enter)')  # prompts user to press enter w/print
+input()  # T/I
+# (SOA) Sense of action (Moxxie) uses w/print
+print('-Moxxie throws '+name+' the '+Jiro)
+# prompts user to press enter w/print to collect Jiro
+print('(press enter to catch the '+Jiro+')')
+input()  # T/I
+# speech dialog from (Moxxie) uses print function
+print('Moxxie:That one should work!. . ')
+# prompts user to press enter to fire at Handsome Jack w/print
+print('(press enter to fire the '+Jiro+' at Handsome Jack!')
+input()  # T/I gathers users keyboard press w/input()
+# (SOA) Sense of action (User) uses w/print
+print(name+' fires at Handsome Jack with '+Jiro+' 𝔍ℑℜ𝔒 𝔅𝔄𝔐 '*100)
+# prompts user to press enter w/print and gathers data collection
+print('(press enter)')
+input()  # T/I 'takes input'
 print('Handsome Jack:. . . Okay your fucking with me right?')
-print('(press enter to look at Moxxie)')#prompts user to press enter w/print to look at Moxxie
-input()#input waits for the user to enter his/her enter key press w/input()
-print('Moxxie: Theres no way he took a '+Jiro+'to the face and isnt hurt!')#speech dialog from (Moxxie) uses print function+variable
-print('(press enter to look back at him)')#prompts user to press enter w/print and gathers data collection
-input()#T/I
-print('Handsome Jack:Okay my turn.')#speech dialog from (Handsome Jack) uses print function
-print('(press enter to Equip '+geico+')')#prompts user to use shields
-input()#waits for user to do a key press than press enter w/input()
-print('Handsome Jack: That wont save you kid. . .')#speech dialog from (Handsome Jack) uses print function
-print('(press enter)')#prompts user to press enter w/print 
-input()#T/I
-print('-'+name+' quickly puts on the shield'+'-')#(SOA) Sense of action (User) uses w/print
-print('(press enter)')#prompts user to press enter w/print 
-input()#T/I
-print('-Handsome Jack Picks up a heavy machine Gun with high caliber rounds and begins to fire')#(SOA) Sense of action (Handsome Jack) uses w/print
-print('at '+name+' relentlessly without remorse and the bullets damage the shield as the barrage')#(SOA continues) from line '710'
-print('goes on for a good minute or so')#(SOA continues) from line '711'
-print('(press enter to stand back up)')#prompts user to press enter w/print 
-input()#T/I
-print('Moxxie:HES DAMAGING YOUR SHIELDS! HERE TRY THIS!')#speech dialog from (Moxxie) uses print function
-print('(press enter)')#prompts user to press enter w/print 
-input()#T/I
+# prompts user to press enter w/print to look at Moxxie
+print('(press enter to look at Moxxie)')
+input()  # input waits for the user to enter his/her enter key press w/input()
+# speech dialog from (Moxxie) uses print function+variable
+print('Moxxie: Theres no way he took a '+Jiro+'to the face and isnt hurt!')
+# prompts user to press enter w/print and gathers data collection
+print('(press enter to look back at him)')
+input()  # T/I
+# speech dialog from (Handsome Jack) uses print function
+print('Handsome Jack:Okay my turn.')
+print('(press enter to Equip '+geico+')')  # prompts user to use shields
+input()  # waits for user to do a key press than press enter w/input()
+# speech dialog from (Handsome Jack) uses print function
+print('Handsome Jack: That wont save you kid. . .')
+print('(press enter)')  # prompts user to press enter w/print
+input()  # T/I
+# (SOA) Sense of action (User) uses w/print
+print('-'+name+' quickly puts on the shield'+'-')
+print('(press enter)')  # prompts user to press enter w/print
+input()  # T/I
+# (SOA) Sense of action (Handsome Jack) uses w/print
+print('-Handsome Jack Picks up a heavy machine Gun with high caliber rounds and begins to fire')
+# (SOA continues) from line '710'
+print('at '+name+' relentlessly without remorse and the bullets damage the shield as the barrage')
+print('goes on for a good minute or so')  # (SOA continues) from line '711'
+print('(press enter to stand back up)')  # prompts user to press enter w/print
+input()  # T/I
+# speech dialog from (Moxxie) uses print function
+print('Moxxie:HES DAMAGING YOUR SHIELDS! HERE TRY THIS!')
+print('(press enter)')  # prompts user to press enter w/print
+input()  # T/I
 """
 
 █▀▀ █░█ █▀▀ █░░   █▄█ █▀█ █░█ █▀█ █▀ █▀▀ █░░ █▀▀
@@ -834,70 +1075,111 @@ _________▄██✿███▄
  ▓________██▀██▄
 
 """
-print('-Moxxie throws '+name+' a'+SprayAndPrayBoombox+'!-')#(SOA) Sense of action (Moxxie) uses w/print
-print('(press enter to catch it)')#prompts user to press enter to catch weapon w/print 
-input()#T/I
-print('-'+name+' catches the '+SprayAndPrayBoombox+'-')#(SOA) Sense of action (User) uses w/print
-print('(press enter)')#prompts user to press enter w/print 
-input()#T/I
-print('Handsome Jack:You little low life. . ') #speech dialog from (Handsome Jack) uses print function
-print('(press enter to aim it at Handsome Jack!)')#prompts user to press enter to aim w/print
-input()#T/I
-print('Moxxie:He knows that will break his Shields SHOOT HIM!')#speech dialog from (Moxxie) uses print function
-print('(press enter to fire the '+SprayAndPrayBoombox+' at Handsome Jack!)')#prompts user to press enter to fire Boombox Sprayer II Sub machine Gun (LEVEL 5!) at Handsome Jack w/print 
-input()#T/I
-print('PEW'*1000)#sound effect uses the print functionality+ string replication operator!
-print('(press enter)')#prompts user to press enter w/print and gathers data collection
-input()#T/I
+print('-Moxxie throws '+name+' a'+SprayAndPrayBoombox +
+      '!-')  # (SOA) Sense of action (Moxxie) uses w/print
+# prompts user to press enter to catch weapon w/print
+print('(press enter to catch it)')
+input()  # T/I
+# (SOA) Sense of action (User) uses w/print
+print('-'+name+' catches the '+SprayAndPrayBoombox+'-')
+print('(press enter)')  # prompts user to press enter w/print
+input()  # T/I
+# speech dialog from (Handsome Jack) uses print function
+print('Handsome Jack:You little low life. . ')
+# prompts user to press enter to aim w/print
+print('(press enter to aim it at Handsome Jack!)')
+input()  # T/I
+# speech dialog from (Moxxie) uses print function
+print('Moxxie:He knows that will break his Shields SHOOT HIM!')
+# prompts user to press enter to fire Boombox Sprayer II Sub machine Gun (LEVEL 5!) at Handsome Jack w/print
+print('(press enter to fire the '+SprayAndPrayBoombox+' at Handsome Jack!)')
+input()  # T/I
+# sound effect uses the print functionality+ string replication operator!
+print('PEW'*1000)
+# prompts user to press enter w/print and gathers data collection
+print('(press enter)')
+input()  # T/I
 print('-Handsome Jacks shields break completely and leaves him exposed as he clenches his chest-')
-print('(press enter to look at Moxxie)')#prompts user to press enter to look at Moxxie w/print 
-input()#T/I
-print('Moxxie:HES DYING FINISH HIM OFF '+name+'! TAKE THIS!')#speech dialog from (Moxxie) uses print function
-print('(press enter)')#prompts user to press enter w/print and gathers data collection
-input()#T/I
-print('-Moxxie throws '+name+' a'+ChrmeSniperMk2+'!-')#(SOA) Sense of action () uses w/print
-print('(press enter to catch it)')#prompts user to press enter to catch weapon w/print 
-input()#T/I
-print('-'+name+' catches the '+ChrmeSniperMk2+'-')#(SOA) Sense of action () uses w/print
-print('(press enter to finish Handsome Jack with the '+ChrmeSniperMk2+')')#prompts user to press enter to finish off character Handsome jack w/print a
-input()#T/I
-print(name+' fires the '+ChrmeSniperMk2+' at Handsome Jack and the bullet pierces his heart')#(SOA) Sense of action () uses w/print
-print('obliterating his organ system as he stumbles onto the ground and utters his final')#(SOA continues) from line '745'
-print('words. . .')#(SOA continues) from line '746'
-print('(press enter to walk up to Handsome Jack)')#prompts user to press enter to walk up to him w/print 
-input()#T/I
-print('Handsome Jack:*Coughs*. . . This shit aint over kiddo.')#(SOA) Sense of action () uses w/print
-print('(press enter)')#prompts user to press enter w/print and gathers data collection
-input()#T/I
-print('-You stare down at him and say in a confident manner-')#(SOA) Sense of action () uses w/print
-print('(press enter to talk)')#prompts user to press enter to finally talk w/print 
-input()#T/I
-print(name+':By the way. . Moxxies body is Slim and fuckable.')#speech dialog from (User) uses print function
-print('(press enter to shoot him in the head)')#prompts user to press enter w/print and gathers data collection
-input()#T/I
-print('-Moxxie grabs your gun before you shoot him and helps you pull the trigger-')#(SOA) Sense of action (User+Moxxie) uses w/print
-print('(press enter to squeeze the trigger with Moxxie)')#prompts user to press enter to squeeze trigger with (Moxxie) w/print 
-input()#T/I
-print('Moxxie:Very Fuckable.')#speech dialog from (Moxxie) uses print function
-print('(press enter to shoot with her)')#prompts user to press enter to shoot w/print 
-input()#T/I
-print('-BAM!- His brain matter paints the floor and Handsome Jack is no more-')#uses sense of action and print functionality
-print('(press enter to face Moxxie)')#prompts user to press enter to face her w/print 
-input()#T/I
-print('Moxxie:You are fucking amazing. . . Lets get out of here.')#speech dialog from (Moxxie) uses print function
-print('(press enter to walk away with her)')#prompts user to press enter w/print and gathers data collection
-input()#T/I
-print('Old Man: And so '+name+' and Moxxie killed Handsome Jack and saved Sanctuary from the wretched')#speech dialog from (Old Man) uses print function
-print('hyperion scum and Jacks empire. . ')#speech continues from line '771' w/print
-print('(press enter)')#prompts user to press enter w/print 
-input()#T/I
-print('Old Man:Nobody knows what ever happened to '+name+' and Moxxie since that day but legends say')#speech dialog from (Old Man) uses print function
-print('that a little one has been created. . and will continue '+name+'s legacy.')#speech continues from line '775' w/print
-print('(press enter)')#prompts user to press enter w/print 
-input()#T/I
-print('-screen fades to black-')#(SOD) sense of direction w/print
-print('(press enter to exit program and see credits)')#prompts user to press enter to exit program and view credits w/print 
-input()#T/I
+# prompts user to press enter to look at Moxxie w/print
+print('(press enter to look at Moxxie)')
+input()  # T/I
+# speech dialog from (Moxxie) uses print function
+print('Moxxie:HES DYING FINISH HIM OFF '+name+'! TAKE THIS!')
+# prompts user to press enter w/print and gathers data collection
+print('(press enter)')
+input()  # T/I
+# (SOA) Sense of action () uses w/print
+print('-Moxxie throws '+name+' a'+ChrmeSniperMk2+'!-')
+# prompts user to press enter to catch weapon w/print
+print('(press enter to catch it)')
+input()  # T/I
+# (SOA) Sense of action () uses w/print
+print('-'+name+' catches the '+ChrmeSniperMk2+'-')
+# prompts user to press enter to finish off character Handsome jack w/print a
+print('(press enter to finish Handsome Jack with the '+ChrmeSniperMk2+')')
+input()  # T/I
+# (SOA) Sense of action () uses w/print
+print(name+' fires the '+ChrmeSniperMk2 +
+      ' at Handsome Jack and the bullet pierces his heart')
+# (SOA continues) from line '745'
+print('obliterating his organ system as he stumbles onto the ground and utters his final')
+print('words. . .')  # (SOA continues) from line '746'
+# prompts user to press enter to walk up to him w/print
+print('(press enter to walk up to Handsome Jack)')
+input()  # T/I
+# (SOA) Sense of action () uses w/print
+print('Handsome Jack:*Coughs*. . . This shit aint over kiddo.')
+# prompts user to press enter w/print and gathers data collection
+print('(press enter)')
+input()  # T/I
+# (SOA) Sense of action () uses w/print
+print('-You stare down at him and say in a confident manner-')
+# prompts user to press enter to finally talk w/print
+print('(press enter to talk)')
+input()  # T/I
+# speech dialog from (User) uses print function
+print(name+':By the way. . Moxxies body is Slim and fuckable.')
+# prompts user to press enter w/print and gathers data collection
+print('(press enter to shoot him in the head)')
+input()  # T/I
+# (SOA) Sense of action (User+Moxxie) uses w/print
+print('-Moxxie grabs your gun before you shoot him and helps you pull the trigger-')
+# prompts user to press enter to squeeze trigger with (Moxxie) w/print
+print('(press enter to squeeze the trigger with Moxxie)')
+input()  # T/I
+# speech dialog from (Moxxie) uses print function
+print('Moxxie:Very Fuckable.')
+# prompts user to press enter to shoot w/print
+print('(press enter to shoot with her)')
+input()  # T/I
+# uses sense of action and print functionality
+print('-BAM!- His brain matter paints the floor and Handsome Jack is no more-')
+# prompts user to press enter to face her w/print
+print('(press enter to face Moxxie)')
+input()  # T/I
+# speech dialog from (Moxxie) uses print function
+print('Moxxie:You are fucking amazing. . . Lets get out of here.')
+# prompts user to press enter w/print and gathers data collection
+print('(press enter to walk away with her)')
+input()  # T/I
+# speech dialog from (Old Man) uses print function
+print('Old Man: And so '+name +
+      ' and Moxxie killed Handsome Jack and saved Sanctuary from the wretched')
+# speech continues from line '771' w/print
+print('hyperion scum and Jacks empire. . ')
+print('(press enter)')  # prompts user to press enter w/print
+input()  # T/I
+# speech dialog from (Old Man) uses print function
+print('Old Man:Nobody knows what ever happened to ' +
+      name+' and Moxxie since that day but legends say')
+print('that a little one has been created. . and will continue ' +
+      name+'s legacy.')  # speech continues from line '775' w/print
+print('(press enter)')  # prompts user to press enter w/print
+input()  # T/I
+print('-screen fades to black-')  # (SOD) sense of direction w/print
+# prompts user to press enter to exit program and view credits w/print
+print('(press enter to exit program and see credits)')
+input()  # T/I
 """
 ▄▀█ █░█ ▀█▀ █▀█ █▀▄▀█ ▄▀█ ▀█▀ █▀▀ ▀█▀ █░█ █▀▀ █▄▄ █▀█ █▀█ █ █▄░█ █▀▀ █▀ ▀█▀ █░█ █▀▀ █▀▀
 █▀█ █▄█ ░█░ █▄█ █░▀░█ █▀█ ░█░ ██▄ ░█░ █▀█ ██▄ █▄█ █▄█ █▀▄ █ █░▀█ █▄█ ▄█ ░█░ █▄█ █▀░ █▀░
@@ -914,19 +1196,25 @@ your studies and refresh your brain and gather as much information you can on th
 """
 print('█▀▀ █▀█ █▀▀ █▀▄ █ ▀█▀ █▀')
 print('█▄▄ █▀▄ ██▄ █▄▀ █ ░█░ ▄█')
-print('Credits')#credits to yours truly
-print('programmer - genesis gir')#credit info generated by the print function
-print('Lead programmer - genesis gir')#credit info generated by the print function
-print('Program directer- genesis gir')#credit info generated by the print function
-print('Character development - genesis gir')#credit info generated by the print function
-print('Storyline - genesis gir')#credit info generated by the print function
-print('Special thanks to everyone one at my twitch and follows me!')#special thanks info generated by the print function
-print('(Press ENTER to exit program)')#credit info generated by the print function
-input()#prompts user to press enter to exit program
+print('Credits')  # credits to yours truly
+# credit info generated by the print function
+print('programmer - genesis gir')
+# credit info generated by the print function
+print('Lead programmer - genesis gir')
+# credit info generated by the print function
+print('Program directer- genesis gir')
+# credit info generated by the print function
+print('Character development - genesis gir')
+print('Storyline - genesis gir')  # credit info generated by the print function
+# special thanks info generated by the print function
+print('Special thanks to everyone one at my twitch and follows me!')
+# credit info generated by the print function
+print('(Press ENTER to exit program)')
+input()  # prompts user to press enter to exit program
 """
 █▀█ █▀▀ █▀ █▀█ █░█ █▀█ █▀▀ █▀▀ █▀
 █▀▄ ██▄ ▄█ █▄█ █▄█ █▀▄ █▄▄ ██▄ ▄█
 
 link: >>> https://www.twitch.tv/genesisgir  <<< Find Livestreams and more!
 link: >>> https://automatetheboringstuff.com <<< Discover and learn how i did!
-""" 
+"""
