@@ -2,7 +2,7 @@
 █▀▀ █▀▀ █▄░█ █▀▀ █▀ █ █▀   █░░ █▀▀ █▀ █▀ █▀█ █▄░█ █▀   █░█ █▀█ █░░ ░ ▄█
 █▄█ ██▄ █░▀█ ██▄ ▄█ █ ▄█   █▄▄ ██▄ ▄█ ▄█ █▄█ █░▀█ ▄█   ▀▄▀ █▄█ █▄▄ ▄ ░█ 
 Welcome to the genesis gir lesson tutorials Volume 1! Mr.interviewer is a program
-based on asking you basic questions and gets errie as it goes on building up the tension 
+based on asking you basic questions and gets eerie as it goes on building up the tension 
 between you and the character! He even gathers your information you feed him putting you 
 in a real interrogation in real-time. Chat , Interact , and experience Mr.interviewer!
 . Thanks for downloading!
@@ -13,7 +13,7 @@ in a real interrogation in real-time. Chat , Interact , and experience Mr.interv
 █▀▀█ █░░█ █▄█▄█ 　 ░░█░░ █░░█ 　 █░░ █░░█ █░▀░█ █░▀░█ █▀▀ █░░█ ░░█░░ ✎
 ▀░░▀ ▀▀▀▀ ░▀░▀░ 　 ░░▀░░ ▀▀▀▀ 　 ▀▀▀ ▀▀▀▀ ▀░░░▀ ▀░░░▀ ▀▀▀ ▀░░▀ ░░▀░░
 First things first you need to learn how to make single line comments and multi line comments 
-so you can add little reminders or give insight on what that line of code does! Comments are
+so you can add little reminders or give insight on what that line of code does! comments are
 fun great ways to just add notes to a line so you can reflect on them later. They wont show
 up in the program its specifically for the developer(you) to look at! So single line comments
 start with a hashtag (#) and anything after that will be comments in a greyish tone. Great! Now
@@ -45,10 +45,10 @@ The print function always comes with two parentheses and any function in that ma
 enter what data types we want inside of them and everything inside of it is called an
 argument and the print is called a function and in this case im using a (stir) or better known
 as a string to make a storyline! so print(    ) and anything inside it will be printed onto 
-stream(screen) just make sure its a correct data type: interger , float or a string value.
+stream(screen) just make sure its a correct data type: integer , float or a string value.
 """ 
 print('He sits down at your table as you both are surrounded by white walls') # Using print 
-print('In a errie bright white room.')# Letting the user know what setting they are in!
+print('In a eerie bright white room.')# Letting the user know what setting they are in!
 print('The room gets colder and colder and he begins to stare at you and utters the words.')
 # By saying the room gets colder we let the user know its horror themed.
 print() # An empty line of text using the print() function!
@@ -82,11 +82,11 @@ print('Mr.interviewer: These goals must be important to you '+name+'.')
 
 █▀▀ █ █░█ █ █▄░█ █▀▀   █▀▀ █░█ ▄▀█ █▀█ ▄▀█ █▀▀ ▀█▀ █▀▀ █▀█
 █▄█ █ ▀▄▀ █ █░▀█ █▄█   █▄▄ █▀█ █▀█ █▀▄ █▀█ █▄▄ ░█░ ██▄ █▀▄
-Notice on how we are bringing life to the character by making him ask redimentary questions
+Notice on how we are bringing life to the character by making him ask rudimentary questions
 giving the feel that you are connected with mr.interviewer and giving a sense of personality is
 very important to be creative during the writing process. Choose a personality for your character!
 Which is the fun part you can create all type of personalities using your brain meat. Is the
-character a mean or fancy type? or maybe they are cute and friendly? Roleplay and imagination
+character a mean or fancy type? or maybe they are cute and friendly? Role play and imagination
 is really important as well but its all entirely up to you.
                      
 ░░░░░░░▄█▄▄▄█▄
@@ -98,29 +98,29 @@ is really important as well but its all entirely up to you.
 """
 # The program continues here
 print() # Empty line using the print() function to create space for other lines to breathe
-print('Mr.inteviewer: Are you scared to be poor?. . .') # Asking the user a question
+print('Mr.interviewer: Are you scared to be poor?. . .') # Asking the user a question
 fearofpoverty=input() # fearofpoverty is the variable and the input from the user makes it
 print() # Yay another empty line
 print("Mr.interviewer: That's understandable. . .") # Talking to the user even more using print
 print() # More empty space
 print('Mr.interviewer: I believe you know more than your telling me.') # We make the character agitated
 print('(Respond to Mr.interviewer than press [ENTER])') # Here we are letting user know to reply to the character
-reply=input() # Reply is the variable thati used to later on use to my benefit
+reply=input() # Reply is the variable that I used to later on use to my benefit
 print('-You lean in onto the table and say to Mr.interviewer '+reply+'-') # Using the print + variable to make sentences
 print() # Empty line using the print() function , type print() to use this feature
 print("Mr.interviewer: I know so many things about you I've been watching you for the past") # Character small talk using print function
 print('3 days and I know where you sleep, eat, and spend time with family.') # More small talk
 print('(Tell him how you feel about invading your privacy)')
-reply=input() # Creating the avriable with the user input using the input() function!
+reply=input() # Creating the variable with the user input using the input() function!
 print('-Your face shocked and angry at the same time you say '+reply+'-') # Roleplaying with variables + print
 print() # Using print() to create space
-print('Mr.interviewer: Dont waste my time '+name+' Im accociated with a organization to study') # Driving storyline and adding a variable of the users name 
+print('Mr.interviewer: Dont waste my time '+name+' Im associated with a organization to study') # Driving storyline and adding a variable of the users name 
 print('You and gather information about you and this bullshitting is getting us nowhere.') # More story line speech with the print function
 print('(Respond to Mr.interviewer than press [ENTER])') # Asking the user to respond to mr.interviewer
 reply=input() # The input function takes input from user and overwrites the old variable
 print() # Empty line of text! using the print() function
 print('You look around the white room and cross your arms and say '+reply+'-')
-print() # Oh look another empty line using the print() fucntion
+print() # Oh look another empty line using the print() function
 print('Mr.interviewer walks out the room and gathers his paper work') # I used the print function to print values to stream(screen)
 print('He closes the door behind him and the room goes dark.') # I used print function to print stir values to stream.
 print('((Press [ENTER] to continue)') # Letting the user know to progress
@@ -129,7 +129,7 @@ print('((Press [ENTER] to continue)') # Letting the user know to progress
 ░█▄█░ █▄▄█ █▄▄▀ ▀█▀ █▄▄█ █▀▀▄ █░░ █▀▀ ▀▀█ 
 ░░▀░░ ▀░░▀ ▀░▀▀ ▀▀▀ ▀░░▀ ▀▀▀░ ▀▀▀ ▀▀▀ ▀▀▀
 Variables are like little tiny safes or cardboard boxes that you can label! In them you can
-insert data types from intergers, strings(stirs), floating-points and values to later use
+insert data types from integers, strings(stirs), floating-points and values to later use
 them in your file editor and is a great way to store data.
 ex.( box='a cat inside of it' ) we stored "a cat inside of it" inside box making box a variable!
 
@@ -175,7 +175,7 @@ print('The Organization was fed that your hobbies are '+hobby) # Combining the p
 print('((Press [ENTER] to continue)') # Lets the user know to progress using print
 input() # We used the input() function here to let the user know its okay to continue
 print('The Organization now know that one day you want to '+goals+' at some point in your life.')
-print('((Press [ENTER] to continue])') # Telling user to opress any key to progress
+print('((Press [ENTER] to continue])') # Telling user to oppress any key to progress
 input() # Using the input() function as a menu to continue to next line
 print() # Empty line to create space between lines 
 print('Thank you for Playing! Created by Genesis Gir') # Thanking the user
@@ -186,6 +186,5 @@ input() # Once user presses key program will close.
 █▀█ █▀▀ █▀ █▀█ █░█ █▀█ █▀▀ █▀▀ █▀
 █▀▄ ██▄ ▄█ █▄█ █▄█ █▀▄ █▄▄ ██▄ ▄█
 
-link: >>> https://www.twitch.tv/genesisgir  <<< Find Livestreams and more!
 link: >>> https://automatetheboringstuff.com <<< Discover and learn how i did!
 """

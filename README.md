@@ -1,6 +1,6 @@
 # Ꮆ∈ﬡ∈⟆⫯⟆ し∈⟆⟆ᗝﬡ⟆ ⋎〇し.1
 # Welcome
-Welcome rookies and veterans! I'm Genesis Gir and I have been documenting my progress in code and programming and in that addition I've been releasing my work and progress for all of you lovely developers to take a sneak peek of what my workflow looks like and maybe you can learn from these lessons or projects and gain some knowledge or give me insight to become better! I have a passion for writing code and if you find yourself stuck or inspired take a look inside my source code files and see how I made them and why I made the choices I did and I explain in full detail what I did and what the functions and lines mean with comments and such! Enjoy and oh Cotal says hiiiiii!
+Welcome rookies and veterans! I'm Genesis Gir and I have been documeanting my progress in code and programming and in that addition I've been releasing my work and progress for all of you lovely developers to take a sneak peek of what my workflow looks like and maybe you can learn from these lessons or projects and gain some knowledge or give me insight to become better! I have a passion for writing code and if you find yourself stuck or inspired take a look inside my source code files and see how I made them and why I made the choices I did and I explain in full detail what I did and what the functions and lines mean with comments and such! Enjoy and oh Cotal says hiiiiii!
 # The programmer behind screen
 ![Capture](https://user-images.githubusercontent.com/87259615/127349469-8c6c506e-0659-4de6-81f6-e36f604e188e.PNG)
 
@@ -8,7 +8,7 @@ Welcome rookies and veterans! I'm Genesis Gir and I have been documenting my pro
 # Who is Genesis Gir?
 I'm a novice with -100 IQ that started programming 11 days ago sharing my experiences with programming and delving into the world of code
 learn with me as I create various programs to try out and explore! Have a question? Drop by in  my livestreams and ask me anything or teach
-me something you know that I dont but please just dont push your methods against me! I like to experiment and try things out on my own first
+me something you know that I dont but please just dont push your methods against me! I like to experimeant and try things out on my own first
 I've made these programs to self-teach myself in a innovative way pushing myself to learn and also releasing my work for others to see how I 
 made them.
 

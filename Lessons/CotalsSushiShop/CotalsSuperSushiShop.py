@@ -1,7 +1,7 @@
 """ 
 █▀▀ █▀▀ █▄░█ █▀▀ █▀ █ █▀   █░░ █▀▀ █▀ █▀ █▀█ █▄░█ █▀   █░█ █▀█ █░░ ░ ▄█
 █▄█ ██▄ █░▀█ ██▄ ▄█ █ ▄█   █▄▄ ██▄ ▄█ ▄█ █▄█ █░▀█ ▄█   ▀▄▀ █▄█ █▄▄ ▄ ░█ 
-Welcome to the genesis gir lesson tutorials Volume 1! Cotal's Sushi Shop brings you into an enviroment
+Welcome to the genesis gir lesson tutorials Volume 1! Cotal's Sushi Shop brings you into an environmeant
 where you enter a restaurant and my cat Cotal is the owner that teaches you about str() , int() ,
 float() and round() functions while you purchase delicious sushi and meals! What are you waiting for go grab some
 grub and chow down some knowledge and seafood!
@@ -11,10 +11,10 @@ grub and chow down some knowledge and seafood!
 #this program takes the user through a food shop and teaches functions in python language!
 print()#(ELOC)
 print('Meow.')#speech dialog from (cotal)
-print('(press enter. .)')#promps user to press enter using the print functionlity
+print('(press enter. .)')#prompts user to press enter using the print functionality
 input()#T/I
 print('MeoWwWw')#speech dialog from (cotal)
-print('(press enter. .)')#promps user to press enter using the print functionlity
+print('(press enter. .)')#prompts user to press enter using the print functionality
 input()#T/I
 print()#(ELOC)
 print('█▀▀ █▀█ ▀█▀ ▄▀█ █░░ █▀   █▀ █░█ █▀ █░█ █   █▀ █░█ █▀█ █▀█')
@@ -25,7 +25,7 @@ print()#(ELOC)
 print('Written & Coded by Genesis Gir')#shows user creator of source code!
 print('(Press enter to enter the store!)')#prompts user to press enter w/print
 input()#T/I
-print('-You walk into the restuarant and smell the scent of yummy foods and get greeted by a cat!-')#(SOD) sense of direction (Cotal) w/print
+print('-You walk into the restaurant and smell the scent of yummy foods and get greeted by a cat!-')#(SOD) sense of direction (Cotal) w/print
 print('(Press enter to talk to her!)')#prompts user to press enter to walk in and talk with (cotal)
 input()#T/I
 cat='Cotal'
@@ -33,7 +33,7 @@ print(cat+':Why hello Meow! Welcome to my store! Whats your name? Meow.')#speech
 name=input()#user creates name variable
 print()#(ELOC)
 print(cat+':Oh nice to meet you '+name)#speech dialog from (cotal) uses variables+print function
-print('(press enter. . )')#promps user to press enter using the print functionlity
+print('(press enter. . )')#prompts user to press enter using the print functionality
 input()#T/I
 print(cat+':So do you like sushi? Meow?')#speech dialog from (cotal)
 print('(reply to the cute cat than press enter!)')#prompts user to reply to (cotal) than press enter w/print function
@@ -42,7 +42,7 @@ print()#(ELOC)
 print(name+':'+response)#users reply using a response variable+print+string
 print()#(ELOC)
 print(cat+':Well I make some really good Sushi you might like! Meow and while we are at it.')#speech dialog from (cotal)
-print('(press enter)')#promps user to press enter using the print function
+print('(press enter)')#prompts user to press enter using the print function
 input()#T/I
 print(cat+':Why dont we learn about various functions too?')#speech dialog from (cotal)
 print('(Press enter to smile and agree!)')#prompts user to press enter to agree w/print function
@@ -148,7 +148,7 @@ print(name+' makes an order and buys '+'('+str(round(3.97))+')'+Cakey)#shows the
 print()#(ELOC)
 print('(press enter to checkout!)')#prompts user to press enter to checkout to (Cotal)
 input()#T/I
-print(cat+':Nice choices let me get those for you! comming right up!')#speech dialog from (cotal)
+print(cat+':Nice choices let me get those for you! coming right up!')#speech dialog from (cotal)
 print('(press enter to wait)')#prompts user to press enter to wait w/print
 input()#T/I
 print('-CHOP , SIZZLE , CHOP , SLUSH!-')
@@ -172,7 +172,7 @@ input()#T/I
 print(cat+':Well str() is a converter function! it converts other data types into a string data type!')#speech dialog from (cotal)
 print('(press enter to nod yes!)')#prompts user to press enter to nod yes w/print
 input()#T/I
-print(cat+':str() function can convert intergers and floats into strings or (stirs)! cool right?')#speech dialog from (cotal)
+print(cat+':str() function can convert integers and floats into strings or (stirs)! cool right?')#speech dialog from (cotal)
 print('(press enter to agree)')#prompts user to press enter to agree w/print
 input()
 """
@@ -182,7 +182,7 @@ input()
 ░█░ █▀█ ██▄   ▄█ ░█░ █▀▄ ▀▄ ▄▀   █▀░ █▄█ █░▀█ █▄▄ ░█░ █ █▄█ █░▀█
 
 Ah yes! str(). . . This is a data type converter it converts other data types into string formats
-this can be very useful to use if your trying to make floats or integers concatanate with print()!
+this can be very useful to use if your trying to make floats or integers concatenate with print()!
 why dont we try some examples and see what it does its simple dont over complicate things pal! Do you
 trust me? Do ya? DO YA?! okay than.
 
@@ -191,7 +191,7 @@ ex. here we have an integer that we want to convert to string data format > 50
 ex. str(50) > '50'
 
 You see that we put the 50 inside its container and converted it try this in your interactive shells
-to see what it does! Experiment and try using the str() functions within them to get a better understanding!
+to see what it does! Experimeant and try using the str() functions within them to get a better understanding!
 
   
                                ⣿⣯⣿⣟⣟⡼⣿⡼⡿⣷⣿⣿⣿⠽⡟⢋⣿⣿⠘⣼⣷⡟⠻⡿⣷⡼⣝⡿⡾⣿
@@ -263,7 +263,7 @@ input()#T/I
 ░█░ █▀█ ██▄   █▀▄ █▄█ █▄█ █░▀█ █▄▀ ▀▄ ▄▀   █▀░ █▄█ █░▀█ █▄▄ ░█░ █ █▄█ █░▀█
 
 The round() function has its place in source code , by using it you can round off numbers with
-its functionalities and make a float into an integer or round down or up but the funtion does this automatically!
+its functionalities and make a float into an integer or round down or up but the function does this automatically!
 Pretty amazing if i do say so myself!
 
 ex. 5.78 is a floating point data type but if we use round() look what happens
@@ -381,7 +381,7 @@ link: >>> https://automatetheboringstuff.com <<< Discover and learn how i did!
 ░█░ ▀▄▀▄▀ █ ░█░ █▄▄ █▀█   ▄█ ░█░ █▄█ █▀▄ ██▄ █▄▀   █▄█ █▀▄ █▄█ █▀█ █▄▀ █▄▄ █▀█ ▄█ ░█░ ▄█
 
 Fun Fact this .py was made on stream and can be found on my Twitch page @ GenesisGir! Subscribers can 
-go back a rewatch how .pf files are made in cohesion and learn step by step how projects like these are made 
+go back a re-watch how .pf files are made in cohesion and learn step by step how projects like these are made 
 very useful to those starting out. Subscribe and stay in the loop!
 
 link:https://www.twitch.tv/genesisgir Watch resourceful livestreams and chat , code!

@@ -25,7 +25,7 @@ ex. print('I am Genesis Gir') > 'I Am Genesis Gir'
 ex. print > print(select data types here) > print('hello') > 'hello'        
 
 The final outputs are what are shown to stream(screen) when debugging or when running program
-you will see the print function being used quite alot in this source code and many of my .py files.
+you will see the print function being used quite a lot in this source code and many of my .py files.
 
 ✿x✿x✿x✿x✿x✿x✿x✿x✿x✿x✿x✿x✿x✿x✿x✿x✿x✿x✿x✿x✿x✿x✿x✿x✿x✿
 """
@@ -39,7 +39,7 @@ What are inputs? And why do we use them? Its important to note that inputs() are
 that wait for the users input or intake on their keyboard to gather their keyboard presses
 and calls them to the function input(). They are pretty cool! Combine them with variables to
 let the user essentially set the variable for us and than later use their answers in our programs
-line of code! variables can be found throughout this .py and seen in concatanation with inputs
+line of code! variables can be found throughout this .py and seen in concatenation with inputs
 see the text below to refer to what I'm talking about.
 
 ex.'Line 1' print('press ENTER and flowers will bloom!') > this line is telling user to press ENTER
@@ -75,8 +75,8 @@ input()#input() being used here to take the input of user to continue to next li
 print('Kim the Robot™️: WOAH!')#more speech from kim using the print functionality 
 print('(press ENTER!)')#print and let the user know to press enter to progress to next line in code
 input()#input function being used here as a menu system to progress
-print('Kim the Robot™️: Who the hell are you?')#using print to give life to the cracter more and expressing her thoughts
-print()#print() being used to give a empty line of code to make room for otehr line in text!
+print('Kim the Robot™️: Who the hell are you?')#using print to give life to the character more and expressing her thoughts
+print()#print() being used to give a empty line of code to make room for other line in text!
 print('-She looks at you up and down with a confused look-')#giving a sense of spacial and personality to character with print
 print('(Enter your name)')#prompting user to enter their name to save it inside the variable 'name' for later use in program
 name=input()#input() function used to make the 'name' variable vey handy for making the user create variables with responses
@@ -109,9 +109,9 @@ input()#the input() takes the input from the user and waits for an input to be p
 print('(The mechanical door swooshes open!)')#creating a impact in story line with the door opening! use print function to generate data types in strings(stirs) 
 print('(Press ENTER..)')#telling the user to press enter with the print function
 input()#input function() being used to wait for users enter key press to continue
-print('Narrarator: And so began a great adventure and '+name+' and Kim™️ went on their way')
+print('Narrator: And so began a great adventure and '+name+' and Kim™️ went on their way')
 print('to their date in the cyber city with green mountains and metallic terrain and floating')
-print('vehicals swooshing by and a busy street of villagers all walking to their jobs.')
+print('vehicle swooshing by and a busy street of villagers all walking to their jobs.')
 print('(Press ENTER to continue!)')#print function being used here to add a narrator to the setting
 input()
 print('▄▀█   █░░ █▀█ █░█ █▀▀ █░░ █▄█   █▀▄ ▄▀█ ▀█▀ █▀▀')
@@ -169,33 +169,33 @@ print()
 print()#empty line using the print( function)
 print('Kim the Robot™️: This city has been here for years if not decades and is historical')#creating dialog uses print
 print('i dont know what you did but i was in a different place. .  but now im here with you')#continuing the dialog with print function
-print('(Press ENTER to read)')#prompt the user to press the neter key using the print function
+print('(Press ENTER to read)')#prompt the user to press the enter key using the print function
 input()#takes input from user to progress
 print('Kim the Robot™️:We should go check out the rock villager mayor he will be waiting for us.')#direct the user about the mayor in storyline! uses print
 print('(Walk to the Rock Villagers home Press ENTER..)')#shows the user they are walking and tells them to press enter
 input()#input() being used to take input from users keyboard press
-print('Game Sys Nofication: Go to the Mayors Sage home.')# more print string functionality
+print('Game Sys Notification: Go to the Mayors Sage home.')# more print string functionality
 print('(Press ENTER to accept the task)')#asks the user to press enter
 input()#takes input from the user to continue using the input function
-print('Kim the Robot™️:Well lets go what are you waiting for?! Humans ugh lazy')#the print fucntion being used
+print('Kim the Robot™️:Well lets go what are you waiting for?! Humans ugh lazy')#the print function being used
 print('(Press ENTER to start walking)')#tells the user to press enter and shows them their action! cool right? 
 input()#input function can be used to gather information on a user keyboard press! in this case to prompt next line in code!
-print('*You start running doing parkour over boxes and crates over the city and come to')#sense of direction with the print fucntion
-print('the ally way you must double jump off the walls to get on the cities rooftops!')#more sense in direction to let user know where they are spacially
-print('(Press Enter to Wall Jump! 6 times should do it.)')#this line prompts the user to press enter 6 times to walljump! uses print function to print string values onto stream(screen)
+print('*You start running doing parkour over boxes and crates over the city and come to')#sense of direction with the print function
+print('the ally way you must double jump off the walls to get on the cities rooftops!')#more sense in direction to let user know where they are spatially
+print('(Press Enter to Wall Jump! 6 times should do it.)')#this line prompts the user to press enter 6 times to wall jump! uses print function to print string values onto stream(screen)
 """
 
 █░█ ▄▀█ █▀█ █ ▄▀█ █▄▄ █░░ █▀▀ █▀
 ▀▄▀ █▀█ █▀▄ █ █▀█ █▄█ █▄▄ ██▄ ▄█ 
 
-Remember variables are just storage units for your data types like intergers , floating points
+Remember variables are just storage units for your data types like integers , floating points
 strings! You can name them whatever you want as long as they dont start with a number , dont 
 contain spaces or any special characters '!@#$%^&*()+' like these! variables can only have underscores
 '_' in them which make them that much cooler? i dont know anyways make sure try out variables
 in your file editors and try different types of directions in their uses.
 
 ex. spam = 'cat'
-The variable is now 'spam' and the string 'cat' is now stored within it! Now everytime you
+The variable is now 'spam' and the string 'cat' is now stored within it! Now every time you
 type spam into your file editor or an interactive shell spam will evaluate to the following.
 
 ex. spam  (what you texted)   
@@ -222,7 +222,7 @@ input()#input takes input from users enter key!
 print( name+' *𝙬𝙖𝙡𝙡 𝙟𝙪𝙢𝙥𝙨*')#prompt user to press enter 
 print('Press ENTER..')#prompts user to press enter
 input()#input takes input from users enter key!
-print('-'+name+' makes it ontop of the huge building having a vast view of the cyber city!-')#sense of direction
+print('-'+name+' makes it on top of the huge building having a vast view of the cyber city!-')#sense of direction
 print('(Press ENTER to continue)')#prompting user to press enter 
 input()#input function being used to progress to next line of code uses the enter key or any key to be activated!
 print('Kim the Robot™️: Finally. Ive been up here for like..')#using the print function to let Kim speak
@@ -234,7 +234,7 @@ print('Press ENTER to read..')#prompt enter to read down the line of code uses t
 input()#users input calls to the input function to progress to line '114'
 print('Kim the Robot™️: just cause.. you know how to wall..jump doesnt mean anything')#Kim doubts her affection for you uses the print function
 print('I know plenty who do the same in their sleep  so dont get to egotistical.')#more speech dialog from kim
-print('(Press ENTER to read)')#prompting user to press eneter to progress
+print('(Press ENTER to read)')#prompting user to press enter to progress
 input()#takes input from the user using the input() function
 print('Kim the Robot™️:So what about that date huh?')# using print to make kim bring up the date in question! uses print of course
 print('(Press ENTER to read)')#telling the user to press enter 
@@ -258,7 +258,7 @@ input()#since we asked user to press enter this is the line that they do so!
 Like these types of lessons? Make sure to follow me on Twitch and follow through and
 ask me any questions you may have or teach me something new Im always eager to learn!
 link: >>> https://www.twitch.tv/genesisgir <<<
-24/7 Livestreams where you can stop by anytime and see what i do and how im doing it
+24/7 Livestream's where you can stop by anytime and see what i do and how im doing it
 - Interact with me and surface any questions!
 - Chat with the community!
 - Make friends that are into the same thing you are duh!
@@ -278,7 +278,7 @@ A great resource for novices such as myself to learn the basics of programming
 if you feel that i didn't explain something quite right well head over to the sight i learned
 it from and how i started coding and where I began to delve into the world of code
 link: >>> https://automatetheboringstuff.com/ <<< 
-With tons of tutorials explaining the basis of coding I highly reccomend to go here and do 
+With tons of tutorials explaining the basis of coding I highly recommend to go here and do 
 your studies and refresh your brain and gather as much information you can on the matter.
 
 "You learn the things you do much more than the things you read" - By Al Sweigart
@@ -288,7 +288,7 @@ print('Credits')#credits to yours truly
 print('programmer - genesis gir')#credit info generated by the print function
 print('Lead programmer - genesis gir')#credit info generated by the print function
 print('Program directer- genesis gir')#credit info generated by the print function
-print('Character development - genesis gir')#credit info generated by the print function
+print('Character developmeant - genesis gir')#credit info generated by the print function
 print('Storyline - genesis gir')#credit info generated by the print function
 print('Special thanks to everyone one at my twitch and follows me!')#special thanks info generated by the print function
 print('(Press ENTER to exit program)')#credit info generated by the print function

@@ -7,15 +7,15 @@ that will leave you breathless and wanting to understand coding more, A Lovely D
 cool way to learn coding for novices and experts alike written and coded by me making it easy
 to understand my actions and choices.
 
-# Learn , Discover , Explore!
-In this .py you can learn alot from what I did and discover methods I use to make things work! This is very Novice level friendly
+# Learn , Discover , Explore
+In this .py you can learn a lot from what I did and discover methods I use to make things work! This is very Novice level friendly
 and if you find yourself lost just make sure to look at the comments next to the lines of code to see what each line does and why 
-I added those functions and how they are being implmented. again this is very user friendly and very easy to understand I made
+I added those functions and how they are being implemented. again this is very user friendly and very easy to understand I made
 these projects so someone new to coding can learn and develop skills like I have to make their own programs and have somewhere to
 start in the world of coding!
 
 # Twitch
-I also stream my progress on Twitch and store the broadcasts so subscribers can rewatch and see how i made them from scratch! I stream for hours
+I also stream my progress on Twitch and store the broadcasts so subscribers can re-watch and see how i made them from scratch! I stream for hours
 at a time and make sure to stop by and ask me any questions or , Chat , watch my progress!
 
 link: https://www.twitch.tv/genesisgirr 

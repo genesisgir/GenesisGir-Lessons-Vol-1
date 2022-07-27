@@ -4,7 +4,7 @@
 Welcome to the genesis gir lesson tutorials Volume 1! Kupo! Moogle Synthesizer Shop takes the user
 to different worlds to collect attributes to create the Elixir Shard Potion with the help of
 a cute Moogle named Jixo as they set out on fun interactive tasks to finally put together the 
-concatanation of componets! A magical experience super fun to learn variables as well. use your
+concatenation of component's! A magical experience super fun to learn variables as well. use your
 Keyblade to fight for the light and save the world from the lost!
 Thanks for downloading!
 ⼕ㄖᗪ🝗ᗪ & 山尺讠セセ🝗𝓝 ⻏丫 Ꮆ🝗𝓝🝗丂讠丂 Ꮆ讠尺
@@ -22,11 +22,11 @@ print('Welcome to the Moogle Synthesizer Shop !')#welcomes the user to the progr
 print()#(ELOC)
 print('(press enter to enter the shop)')#prompts user to press enter to enter shop w/print
 input()#T/I
-Moo = 'Jixo The Moggle'#creates the variable for the character (Jixo) uses variables+operators
+Moo = 'Jixo The Moogle'#creates the variable for the character (Jixo) uses variables+operators
 print(Moo + ':Kupo! Welcome to the shop lets build stuff! Kupo!')#speech dialog from (Jixo The Moogle) uses print function
 print('(press enter to talk to the furry workshop employee!)')#prompts user to press enter to talk to the moogle w/print
 input()#T/I
-print(Moo + ':We are going to use attributes and componets to build weapons and items! Kupo!')#speech dialog from (Jixo The Moogle) uses print function
+print(Moo + ':We are going to use attributes and components to build weapons and items! Kupo!')#speech dialog from (Jixo The Moogle) uses print function
 print('(press enter to nod)')#prompts user to press enter w/print 
 input()#T/I
 print(Moo + ': Kupo! Whats your name?')#speech dialog from (Jixo The Moogle) uses print function
@@ -51,7 +51,7 @@ The print function always comes with two parentheses and any function in that ma
 enter what data types we want inside of them and everything inside of it is called an
 argument and the print is called a function and in this case im using a (stir) or better known
 as a string to make a storyline! so print(    ) and anything inside it will be printed onto 
-stream(screen) just make sure its a correct data type: interger , float or a string value.
+stream(screen) just make sure its a correct data type: integer , float or a string value.
 
 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂
 """
@@ -75,7 +75,7 @@ print('(press enter to think with '+ Moo +')')#prompts user to press enter to th
 input()#T/I
 print(Moo + ':There is a world that has tons of ' + glowstar + ' and a bear that lives there can')#speech dialog from (Jixo The Moogle) uses print function
 print('help you out and he is super friendly! Hes the one with the red shirt you wont miss him. Kupo!')#speech continues from line '63' w/print
-GummyShip = 'The Kings Gummy Ship'#creates variable for the Gummy Ship user will be using throughtout program w/variables+operators
+GummyShip = 'The Kings Gummy Ship'#creates variable for the Gummy Ship user will be using throughout program w/variables+operators
 print('(press enter to enter to enter ' + GummyShip + ')')#prompts user to press enter to enter gummy ship w/print
 input()#T/I
 """
@@ -87,7 +87,7 @@ What are inputs? And why do we use them? Its important to note that inputs() are
 that wait for the users input or intake on their keyboard to gather their keyboard presses
 and calls them to the function input(). They are pretty cool! Combine them with variables to
 let the user essentially set the variable for us and than later use their answers in our programs
-line of code! variables can be foud threwout this .py and seen in concatanation with inputs
+line of code! variables can be found throughout this .py and seen in concatenation with inputs
 see the text below to refer to what I'm talking about.
 
 ex.'Line 1' print('press ENTER and heartless will spawn!') > this line is telling user to press ENTER
@@ -120,10 +120,10 @@ print('                                                 |||                     
 print('                                                 |||                                     ')
 print('                                          , -=-~  .-^- _                                 ')
 print()
-print('-' + name + ' looks around and hears bouncing comming towards them!-')#(SOA) Sense of action () uses w/print
+print('-' + name + ' looks around and hears bouncing coming towards them!-')#(SOA) Sense of action () uses w/print
 print('(press enter)')#prompts user to press enter w/print
 input()#T/I
-Tig = 'Tigger'#creates the variable for the character (Tigger) uses varibales=operators
+Tig = 'Tigger'#creates the variable for the character (Tigger) uses variables=operators
 print(Tig + ':Oh you must be new here! Do you like bouncing?!')#speech dialog from (Tigger) uses print function
 print()#(ELOC)
 print('-BoUnCe~ , Bounce~, Bounce~!')#(SOA) Sense of action (Tigger) uses w/print
@@ -150,7 +150,7 @@ print('(press enter)')#prompts user to press enter w/print
 print(winnie + ': Oh why hello!')#speech dialog from (Winnie The Pooh) uses print function
 print()#(ELOC)
 print('-The bear seems distracted by the pot of honey he is eating-')#(SOA) Sense of action (Winnie The Pooh) uses w/print
-print('(press enter to face ' + Tig)#prompts user to press enter to face the charcter (Tigger) w/print 
+print('(press enter to face ' + Tig)#prompts user to press enter to face the character (Tigger) w/print 
 input()#T/I
 print(Tig + ':Well he sure does love his honey! If you want his attention you might have to')#speech dialog from (Tigger) uses print function
 print('coax him with that there supply of honey! ')#speech continues from line '155' w/print
@@ -206,7 +206,7 @@ input()#T/I
 ░█░ ▀▄▀▄▀ █ ░█░ █▄▄ █▀█   ▄█ ░█░ █▄█ █▀▄ ██▄ █▄▀   █▄█ █▀▄ █▄█ █▀█ █▄▀ █▄▄ █▀█ ▄█ ░█░ ▄█
 
 Fun Fact this .py was made on stream and can be found on my Twitch page @ GenesisGir! Subscribers can 
-go back a rewatch how .pf files are made in cohesion and learn step by step how projects like these are made 
+go back a re-watch how .pf files are made in cohesion and learn step by step how projects like these are made 
 very useful to those starting out. Subscribe and stay in the loop!
 
 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂
@@ -236,7 +236,7 @@ input()#T/I
 print(Moo + ' :On my radar shows that theres a world that has one near a small home near a beach!')#speech dialog from (Jixo The Moogle) uses print function
 print('(press enter)')#prompts user to press enter w/print
 input()#T/I
-print(Moo + ':Ill send you the cordinates to it and set the ship on auto-pilot.')#speech dialog from (Jixo The Moogle) uses print function
+print(Moo + ':Ill send you the coordinates to it and set the ship on auto-pilot.')#speech dialog from (Jixo The Moogle) uses print function
 print('(press enter to enter ' + GummyShip + ')')#prompts user to press enter w/print
 input()#T/I
 print('-The ship flies away in the distance!-')#(SOD) sense of direction () w/print
@@ -250,7 +250,7 @@ input()#T/I
 ░█▄█░ █▄▄█ █▄▄▀ ▀█▀ █▄▄█ █▀▀▄ █░░ █▀▀ ▀▀█ 
 ░░▀░░ ▀░░▀ ▀░▀▀ ▀▀▀ ▀░░▀ ▀▀▀░ ▀▀▀ ▀▀▀ ▀▀▀
 Variables are like little tiny safes or cardboard boxes that you can label! In them you can
-insert data types from intergers, strings(stirs), floating-points and values to later use
+insert data types from integers, strings(stirs), floating-points and values to later use
 them in your file editor and is a great way to store data.
 
 ex.( Moo='Jixo The Moogle' ) we stored "Jixo The Moogle" inside 'Moo' making 'Moo' a variable!
@@ -286,17 +286,17 @@ input()#T/I
 print(name +':Zzzz~')#speech dialog from () uses print function
 print('(press enter to wake up!)')#prompts user to press enter w/print
 input()#T/I
-print('-Its no use youve been knocked out cold!-')#(SOA) Sense of action () uses w/print
+print('-Its no use you have been knocked out cold!-')#(SOA) Sense of action () uses w/print
 print('(press enter)')#prompts user to press enter w/print
 input()#T/I
-lilo ='Lilo'#creates the variable for the charcter (lilo) uses variables+operators
+lilo ='Lilo'#creates the variable for the character (lilo) uses variables+operators
 print()#(ELOC)
-experiment626 ='Stitch'#creates variable for the character (experiment 626) uses variables+operators
+experimeant626 ='Stitch'#creates variable for the character (experimeant 626) uses variables+operators
 nani = 'Mrs.Pelekai'#creates variable for the character (Nani) uses variables+operators
 cobra = 'Agent Bubbles'#creates variable for the character (Agent Bubbles) uses variables+operators
 jumba = 'Dr.Jumba'#creates variable for the character (Dr.Jumba) uses variables+operators
 gantu = 'Gantu'#creates variable for the character (Gantu) uses variables+operators
-sample = 'Experiment 258'#creates variable for the character (Experiment 258) uses variables+operators
+sample = 'Experimeant 258'#creates variable for the character (Experimeant 258) uses variables+operators
 peak = 'Agent Wendy Pleakley'#creates variable for the character (Agent Pleakley) uses variables+operators
 print(lilo +'. . . *Pokes your face with a stick.*')#speech dialog from (Lilo) uses print function
 print('(press enter)')#prompts user to press enter w/print
@@ -307,27 +307,27 @@ input()#T/I
 print(lilo +':Should we help them?')#speech dialog from (Lilo) uses print function
 print('(press enter. . )')#prompts user to press enter w/print
 input()#T/I
-print(experiment626 +':⟟ ⎅⍜⋏⏁ ☍⋏⍜⍙*speaks in a foreign alien dialect*')#speech dialog from (Experiment 626) uses print function
+print(experimeant626 +':⟟ ⎅⍜⋏⏁ ☍⋏⍜⍙*speaks in a foreign alien dialect*')#speech dialog from (Experimeant 626) uses print function
 print('(press enter)')#prompts user to press enter w/print
 input()#T/I
 print(lilo +':But we just cant leave them there!')#speech dialog from (Lilo) uses print function
 print('(press enter)')#prompts user to press enter w/print
 input()#T/I
-print(experiment626 +':⍙⟒ ⌇⊑⍜⎍⌰⎅ ⟒⏃⏁ ⟟⏁!*Speaks alien language*')#speech dialog from (Experiment 626) uses print function
+print(experimeant626 +':⍙⟒ ⌇⊑⍜⎍⌰⎅ ⟒⏃⏁ ⟟⏁!*Speaks alien language*')#speech dialog from (Experimeant 626) uses print function
 print('(press enter)')#prompts user to press enter w/print
 input()#T/I
-print(lilo +':EW! gross we arent going to eat them. .')#speech dialog from (Lilo) uses print function
+print(lilo +':EW! gross we are not going to eat them. .')#speech dialog from (Lilo) uses print function
 print('(press enter)')#prompts user to press enter w/print
 input()#T/I
 print(lilo +':Help me carry him stitch your stronger than I am!')#speech dialog from (Lilo) uses print function
 print('(press enter)')#prompts user to press enter w/print
 input()#T/I
-print('-'+experiment626 +' picks up '+ name +' and they head off to their home-')#(SOA) Sense of action (Experiment 626) uses w/print
+print('-'+experimeant626 +' picks up '+ name +' and they head off to their home-')#(SOA) Sense of action (Experimeant 626) uses w/print
 print()#(ELOC)
 print('-Screen fades to black-')#(SOD) sense of direction () w/print
 print('(press enter to continue)')#prompts user to press enter to continue w/print
 input()#T/I
-print('-They carry you into their home and plop you onto the floor-')#(SOA) Sense of action (Experiment 626 , Lilo) uses w/print
+print('-They carry you into their home and plop you onto the floor-')#(SOA) Sense of action (Experimeant 626 , Lilo) uses w/print
 print('(press enter )')#prompts user to press enter w/print
 input()#T/I
 print(nani +':Oh my goodness! Where did you find them Lilo?')#speech dialog from (Nani) uses print function
@@ -342,14 +342,14 @@ print(nani +':And what were you doing deep in the forests? What di i tell you Li
 print('(press enter)')#prompts user to press enter w/print
 input()#T/I
 print(nani +':People get lost in those forests.. We may be in Honolulu but its still possible')#speech dialog from (Nani) uses print function
-print('to get lost in there and your my responsiblity. If something happens to you I dont know what')#speech continues from line '344' w/print
+print('to get lost in there and your my responsibility. If something happens to you I dont know what')#speech continues from line '344' w/print
 print('Id do. . ')#speech continues from line '345' w/print
 print('(press enter)')#prompts user to press enter w/print
 input()#T/I
 print(lilo +':Sorry mom. .')#speech dialog from (Lilo) uses print function
 print('(press enter)')#prompts user to press enter w/print
 input()#T/I
-print(experiment626 +':SooooRyyyY MoM. . ')#speech dialog from (Experiment 626) uses print function
+print(experimeant626 +':SooooRyyyY MoM. . ')#speech dialog from (Experimeant 626) uses print function
 print('(press enter)')#prompts user to press enter w/print
 print(nani +':Its fine now the both of you pass me the box on the shelf over there please.')#speech dialog from (Nani) uses print function
 print('(press enter)')#prompts user to press enter w/print
@@ -378,7 +378,7 @@ input()#T/I
 print(name +':Yeah! In my Ship!')#speech dialog from (user) uses print function
 print('(press enter)')#prompts user to press enter w/print
 input()#T/I
-print(lilo +':Ship What ship? we found you in a bush sleeping..dang you mustve really hit your head')#speech dialog from (Lilo) uses print function
+print(lilo +':Ship What ship? we found you in a bush sleeping..dang you must have really hit your head')#speech dialog from (Lilo) uses print function
 print('badly cause when we found you there was no ship.')#speech continues from line '381' w/print
 print('(press enter to talk')#prompts user to press enter to talk w/print
 input()#T/I
@@ -402,7 +402,7 @@ input()#T/I
 print('-Nani laying in her bed gets woken up by the noise and wakes up-')#(SOA) Sense of action (Nani) uses w/print
 print('(press enter)')#prompts user to press enter w/print
 input()#T/I
-print(nani+':Whos knocking on our door like that?!')#speech dialog from (Nani) uses print function
+print(nani+':Who is knocking on our door like that?!')#speech dialog from (Nani) uses print function
 print()#(ELOC)
 print('-She walks over to the front door and a tall man standing in black shades is there-')#(SOA) Sense of action (Nani) uses w/print
 print('(press enter)')#prompts user to press enter w/print
@@ -425,7 +425,7 @@ input()#T/I
 print(cobra +':Im with the CSI and have you seen any weird shaped ships land nearby at all?')#speech dialog from (Agent Bubbles) uses print function
 print('(press enter)')#prompts user to press enter w/print
 input()#T/I
-print(nani +':No I havent seen anything weird Im just a mom that is super busy and Im sure you can understand')#speech dialog from (Nani) uses print function
+print(nani +':No I have not seen anything weird Im just a mom that is super busy and Im sure you can understand')#speech dialog from (Nani) uses print function
 print('(press enter)')#prompts user to press enter w/print
 print(cobra +':Im sure. . Well there has been sighting of a U.F.O of some kind crashing in this general')#speech dialog from (Agent Bubbles) uses print function
 print('location and we are going around asking the locals if they have seen anything out of the ordinary.')#speech continues from line '430' w/print
@@ -486,16 +486,16 @@ input()#T/I
 print(lilo +':Looks good to me! Come on Stitch its time to go to moms job!')#speech dialog from (Lilo) uses print function
 print('(press enter)')#prompts user to press enter w/print
 input()#T/I
-print(experiment626 +': LetsSS go!')#speech dialog from (Experiment626) uses print function
+print(experimeant626 +': LetsSS go!')#speech dialog from (Experimeant626) uses print function
 save='save-point'#creates the save-point variable uses variables+operators
 print('(press enter to use '+ save +')')#prompts user to press enter w/print
 input()#T/I
 print('(Slot 1:Honolulu game progress \57%\ complete)')#saving point within the program uses print functionality
 print('(press enter)')#prompts user to press enter w/print
 input()#T/I
-print('-A scene of Nani dancing with two firey sticks and a huge audience watching her is seen')#(SOD) sense of direction (Nani,Lilo,Experiment626,User) w/print
-print('and the crowd watches in amazement as the hulu girls dance as delicious food is given out')#(SOD) continues sense of direction from line '496' w/print
-print('as time goes by the sun goes down and '+ lilo +','+ experiment626 +','+ name +' all sit at a')#(SOD) continues sense of direction from line '497' w/print
+print('-A scene of Nani dancing with two fiery sticks and a huge audience watching her is seen')#(SOD) sense of direction (Nani,Lilo,Experimeant626,User) w/print
+print('and the crowd watches in amazemeant as the hula girls dance as delicious food is given out')#(SOD) continues sense of direction from line '496' w/print
+print('as time goes by the sun goes down and '+ lilo +','+ experimeant626 +','+ name +' all sit at a')#(SOD) continues sense of direction from line '497' w/print
 print('table and wait and all of a sudden. . .-')#(SOD) continues sense of direction from line '498' w/print
 print('(press enter to brace yourself)')#prompts user to press enter w/print
 input()#T/I
@@ -514,13 +514,13 @@ print('press enter')#prompts user to press enter w/print
 input()#T/I
 print(nani + ':Someone help I have a little girl!!!!!!')#speech dialog from (Nani) uses print function
 print()#(ELOC)
-print('-Her scream shout within your soul and a blade emmits within your hands the shape of a sword!-')#(SOD) sense of direction (User) w/print
+print('-Her scream shout within your soul and a blade emits within your hands the shape of a sword!-')#(SOD) sense of direction (User) w/print
 print('(press enter to accept that you are the chosen one)')#prompts user to press enter to accept fate w/print 
 input()#T/I
 print('-'+ name +' has Obtained the '+ key +'!')#(SOA) Sense of action (User) uses w/print
 print('(press enter to Equip the '+ key)#prompts user to press enter to equip the keyblade w/print
 input()#T/I
-print('-'+ name +' has equiped the '+ key +'!')#(SOA) Sense of action (User) uses w/print
+print('-'+ name +' has equipped the '+ key +'!')#(SOA) Sense of action (User) uses w/print
 print('(press enter to fight the lost)')#prompts user to press enter to fight the lost w/print
 input()#T/I
 attk = 'Attack'#attack variables uses w/variables+operators
@@ -531,7 +531,7 @@ summonstitch = 's͛uͧmͫmͫoͦneͤdͩ Stitch iͥnᴛⷮoͦ ᴛⷮhͪeͤ вaͣ�
 print('-' + name + ' runs into action and uses summon!'+'-')#(SOA) Sense of action (User) uses w/print
 print('(Summon Stitch use [enter])')#prompts user to press enter w/print
 input()#T/I
-print('-' + name + summonstitch + '-')#user summons (Experiment 626)
+print('-' + name + summonstitch + '-')#user summons (Experimeant 626)
 print()#(ELOC)
 print('                                                          ░░▒▒                               ')                                
 print('                                                  ▓▓▓▓▓▓  ▒▒▒▒                               ')                                 
@@ -606,15 +606,15 @@ print('██████╔╝░░░██║░░░██║░░░█�
 print('╚═════╝░░░░╚═╝░░░╚═╝░░░╚═╝░░░░╚════╝░╚═╝░░╚═╝')
 print()
 print()
-print('-FIGHT THE LOST-!')#letting the user to ffight the lost w/print
+print('-FIGHT THE LOST-!')#letting the user to fight the lost w/print
 print('(press enter)')#prompts user to press enter w/print
 input()#T/I
 print('-'+ name + ' runs at the lost and slashes them apart as black puffs of smoke enter the airs')#(SOA) Sense of action (User) uses w/print
 print('atmosphere and munni falls out the enemies , Stitch pulls out a Ray Blaster and send the lost')#(SOA continues) from line '612'
-print('back into the unknown. Ray blasts and Keyblade sounds are heard! As the people of Honululu run!-')#(SOA continues) from line '613'
+print('back into the unknown. Ray blasts and Keyblade sounds are heard! As the people of Honolulu run!-')#(SOA continues) from line '613'
 print('(press enter)')#prompts user to press enter w/print
 input()#T/I
-print('-SLASH , BLAST , Swip! ,SLASHHHHhhh-')#fight sound effects using the print function!
+print('-SLASH , BLAST , Swipe! ,SLASHHHHhhh-')#fight sound effects using the print function!
 print('(press enter)')#prompts user to press enter w/print
 input()#T/I
 print('-'+ name + ' ' + blzzrd + '-')#uses user name variable and magic spell w/print
@@ -648,13 +648,13 @@ print('- You pull out your '+ key +' and run towards the heartless and jump onto
 print('away at its head and MUNNI falls out and the heartless begins to spin shooting fire out its mouth')#(SOA continues) from line '647'
 print('(press enter to dodge the attack!)')#prompts user to press enter to dodge attack w/print
 input()#T/I
-print('-' + name + ' dodges the firey attack from the ' + heartlesstype1 + '-')#(SOA) Sense of action (User) uses w/print
+print('-' + name + ' dodges the fiery attack from the ' + heartlesstype1 + '-')#(SOA) Sense of action (User) uses w/print
 print('(press enter for final blow!)')#prompts user to press enter w/print
 input()#T/I
 print('-' + name + ' ' + blzzrdtype2 + '-')#user uses a magic variable
 print('(press enter!)')#prompts user to press enter w/print
 input()#T/I
-print('(BOSS ' + heartlesstype1 + ' DFEATED!)')#lets user know that they defeated the boss with w/print
+print('(BOSS ' + heartlesstype1 + ' DEFEATED!)')#lets user know that they defeated the boss with w/print
 print('(press enter to use ' + save + ')')#prompts user to press enter w/print
 input()#T/I
 print('(Slot 1:Honolulu game progress \67%\ complete)')#saves game using the print function w/print
@@ -670,10 +670,10 @@ input()#T/I
 █▀ ▀█▀ █▀█ ▄▀ ▀▄       █ █▄ █ ▀█▀ ▄▀ ▀▄       █▀▀ █░░ █▀█ ▄▀█ ▀█▀ ▄▀ ▀▄   █▀▀ █░█ █▀▀ ▀█▀ █ █▀█ █▄░█ █▀
 ▄█  █░ █▀▄ ▀▄ ▄▀   █   █ █░▀█ ░█░ ▀▄ ▄▀   █   █▀░ █▄▄ █▄█ █▀█ ░█░ ▀▄ ▄▀   █▀░ █▄█ █▄▄ ░█░ █ █▄█ █░▀█ ▄█
 
-Conventionally they are converters and change the opposite dtata types into the ones they are
-can be very beneficial if for example you have a interger in a print line and needs to be string
+Conventionally they are converters and change the opposite data types into the ones they are
+can be very beneficial if for example you have a integer in a print line and needs to be string
 all you gotta do is convert it to string data type. How? str(50) and than the output will be
-'50' again all this stuff is experimentation but in the long run they convert data types. A basic
+'50' again all this stuff is experimeantation but in the long run they convert data types. A basic
 rule of thumb is to always refer to the chapter 1 page of automate the boring stuff's website!
 """
 print('-Obtained:' + '(' + str(int(1.10)) + ')'+ healing_leaf +'!')#shows that user obtained an item uses print function+str(),int(),integer functions
@@ -692,7 +692,7 @@ print('                ▀█▀ █▀█ ▄▀█ █░█ █▀▀
 print('                ░█░ █▀▄ █▀█ ▀▄▀ ██▄ █▀▄ ▄█ ██▄   ░█░ █▄█ ▀▄▀▄▀ █░▀█                    ')
 print()#(ELOC)
 print()#(ELOC)
-print(Moo + ':Oh my god youre back! We lost you for a second there! My radar showed that somone stole the ship!')#speech dialog from (Jixo The Moogle) uses print function
+print(Moo + ':Oh my god youre back! We lost you for a second there! My radar showed that someone stole the ship!')#speech dialog from (Jixo The Moogle) uses print function
 print('(press enter)')#prompts user to press enter w/print
 input()#T/I
 print(Moo+': And I see you have the ' + healing_leaf + ' thats great! Time to synthesize!')#speech dialog from (Jixo The Moogle) uses print function
@@ -724,7 +724,7 @@ input() # T/I
 print(cid + ':Hey there kid what do you need?')#speech dialog from (Cid) uses print function
 print('(press enter)')#prompts user to press enter w/print
 input() # T/I
-print(name + ':' + Moo + ' needs help fixing the Synthezier.')#speech dialog from (User) uses print function
+print(name + ':' + Moo + ' needs help fixing the Synthesizer.')#speech dialog from (User) uses print function
 print('(press enter)')#prompts user to press enter w/print
 input() # T/I
 wizzard = 'Merlin'#creates name variable for the character (Merlin) 
@@ -735,7 +735,7 @@ print(cid + ':I mean if you dont mind heading over there and fetching them for m
 print('a jiffy!')#speech continues from line '653' w/print
 print('(Accept Job[press enter])')#prompts user to press enter w/print
 input() # T/I
-print('(Job Accpeted![press enter])')#prompts user to press enter w/print
+print('(Job Accepted![press enter])')#prompts user to press enter w/print
 input() # T/I
 print('-You walk out the store and head to get the tools-')#(SOA) Sense of action (User) uses w/print
 print('(press enter to exit shop)')#prompts user to press enter to exit shop w/print
@@ -799,7 +799,7 @@ print('(press enter)')#prompts user to press enter w/print
 input() # T/I
 print(leo + ':Well when I tried taking the ' + key + ' from them it would go back into their hands.')#speech dialog from (leon) uses print function
 print()#(ELOC)
-print('-' + leo + ' crosses his armsa and looks downwards eyes shut'+'-')#(SOA) Sense of action (Leon) uses w/print
+print('-' + leo + ' crosses his arms and looks downwards eyes shut'+'-')#(SOA) Sense of action (Leon) uses w/print
 print()#(ELOC)
 print(yuff + ':Geez they are the chosen ones. . Can we count on them to rid the heartless?')#speech dialog from (Yuffie) uses print function
 print('(press enter)')#prompts user to press enter w/print 
@@ -830,7 +830,7 @@ input() # T/I
 print(name + ':That was in another world!')#speech dialog from (User) uses print function
 print('(press enter)')#prompts user to press enter w/print 
 input() # T/I
-print(leo + ':Well its happening in alot of worlds even yours..the darkness is taking over and that key. .')#speech dialog from (leon) uses print function
+print(leo + ':Well its happening in a lot of worlds even yours..the darkness is taking over and that key. .')#speech dialog from (leon) uses print function
 print()#(ELOC)
 print(leo + ':You to fix it but to be honest why would it pick a stubborn kid like you?..')#speech dialog from (leon) uses print function
 print('(press enter)')#prompts user to press enter w/print 
@@ -838,7 +838,7 @@ input() # T/I
 print(name + ':Hey whats that supposed to mean!')#speech dialog from (User) uses print function
 print('(press enter. . )')#prompts user to press enter w/print 
 input() # T/I
-print(aer + ':What he ment to say was we need to help people with the '+key+'.')#speech dialog from (Aerith) uses print function
+print(aer + ':What he meant to say was we need to help people with the '+key+'.')#speech dialog from (Aerith) uses print function
 print()#(ELOC)
 print(yuff + '*Nods her head in agreement*')#(SOA) Sense of action (Yuffie) uses w/print
 print('(press enter)')#prompts user to press enter w/print 
@@ -866,12 +866,12 @@ print('but we are going to need to find it in another world')#speech continues f
 print('(press enter)')#prompts user to press enter w/print 
 input()#T/I
 print(name + ':Right! Lets go.')#speech dialog from (User) uses print function
-print('(press enter to head to the moogle Shop!)')#prompts user to press ente to head to the Moogle Shopr w/print 
+print('(press enter to head to the moogle Shop!)')#prompts user to press enter to head to the Moogle Shop w/print 
 input()#T/I
 print('-They all head towards to ' + Moo + 's workshop-')#(SOD) sense of direction (User,Leon,Yuffie,Aerith) w/print
 print('(press enter to use ' + save + ')')#prompts user to press enter w/print
 input()#T/I
-print('(Slot 1:Traverese town game progress \77%\ complete)')#creating a save-point using the print functionality
+print('(Slot 1:Traverse town game progress \77%\ complete)')#creating a save-point using the print functionality
 print('(press enter)')#prompts user to press enter w/print
 input()#T/I
 print('-You walk into the shop with the others and confront ' + Moo + '-')#(SOD) sense of direction (User,Leon,Yuffie,Aerith) w/print
@@ -890,7 +890,7 @@ input()#T/I
 print(Moo + ':Hollow Bastion. . .')#speech dialog from (Jixo The Moogle) uses print function
 print('(press enter)')#prompts user to press enter w/print 
 input()#T/I
-print(leo + ':Hollow Bastion out of all the places. .but youll have to go its the only way')#speech dialog from (leon) uses print function
+print(leo + ':Hollow Bastion out of all the places. . but you will have to go its the only way')#speech dialog from (leon) uses print function
 print('(press enter to talk to ' + leo + ')')#prompts user to press enter to talk to Leon w/print 
 input() # T/I
 print(name + ':Fly me there! We need to end this once in for all darkness wont win!')#speech dialog from (user) uses print function
@@ -904,7 +904,7 @@ print()
 print(yuff + ':You got this ' + name + '!')#speech dialog from (Yuffie) uses print function
 print('(press enter to nod your head)')#prompts user to press enter to show expression w/print 
 input() # T/I
-print(Moo + ':Ill send you the cordinates to it and set the ship on auto-pilot.')#speech dialog from (Jixo The Moogle) uses print function
+print(Moo + ':Ill send you the coordinates to it and set the ship on auto-pilot.')#speech dialog from (Jixo The Moogle) uses print function
 print('(press enter')#prompts user to press enter w/print
 input() # T/I
 print('-The ship flies away in the distance!-')#(SOD) sense of direction () w/print
@@ -919,10 +919,10 @@ print('                    █░█ █▀█ █░░ █░░ █�
 print('                    █▀█ █▄█ █▄▄ █▄▄ █▄█ ▀▄▀▄▀   █▄█ █▀█ ▄█ ░█░ █ █▄█ █░▀█                 ')
 print()
 print()
-print('-' + name + ' finds them standingon a floating piece of iceberg and surrounded by waterfalls')#(SOD) sense of direction (User) w/print
+print('-' + name + ' finds them standing on a floating piece of iceberg and surrounded by waterfalls')#(SOD) sense of direction (User) w/print
 
 print(
-    'falling into the aybss and hears a voice in their head as they jump threw the platforms-'
+    'falling into the abyss and hears a voice in their head as they jump threw the platforms-'
      )#(SOD) continues sense of direction from line '922' w/print
 
 print('(press enter to keep jumping)')#prompts user to press enter to keep jumping w/print
@@ -1024,7 +1024,7 @@ print('(press enter)')#prompts user to press enter w/print
 input()#T/I
 print('-You run up a huge flight of stairs hovering into the air as the waterfalls from the world surround you-')#(SOD) sense of direction (User) w/print
 print('beautiful pink skys and the roaring winds blow threw your hair as your '+key+'s chain rattles as you run')#(SOD) continues sense of direction from line '989' w/print
-print('you feel the end nearing but you will be needing the ' + gummy +' and they are here. .Fight foward ' + name + '-')#(SOD) continues sense of direction from line '989' w/print
+print('you feel the end nearing but you will be needing the ' + gummy +' and they are here. .Fight forward ' + name + '-')#(SOD) continues sense of direction from line '989' w/print
 print()#(ELOC)
 print('-You feel a huge darkness take over you and see countless heartless near your direction fighting them one by one')#(SOD) sense of direction (User) w/print
 
@@ -1051,7 +1051,7 @@ print(
     )#(SOA continues) from line '997'
 
 print(
-    'things getting hetic you see a ' 
+    'things getting hectic you see a ' 
     + heartlesstype5 + 
     ' steering towards you QUICKLY! you must dodge it'
       )#(SOA continues) from line '998'
@@ -1064,7 +1064,7 @@ input()#T/I
 print(
     '-The ' 
     + heartlesstype5 
-    + 'steers back and balls up into a barrage of attacks comming at ' 
+    + 'steers back and balls up into a barrage of attacks coming at ' 
     + name 
     + '-'
     )#(SOA) Sense of action (Heartlesstype5) uses w/print
@@ -1109,8 +1109,8 @@ print('                ░█░ █▀▄ █▀█ ▀▄▀ ██▄
 print()#(ELOC)
 print()#(ELOC)
 print('-the people of Traverse town greet you as the ship lands and everyone comes to '+name+' hugging')#(SOA) Sense of action () uses w/print
-print('and blissfully proud of all the hard work youve done and as you walk towards the Moogles shop')#(SOA continues) from line '1029'
-print('you feel a sense of accomplishments from visiting vasts worlds you were the choson one all along')#(SOA continues) from line '1030'
+print('and blissfully proud of all the hard work you have done and as you walk towards the Moogle shop')#(SOA continues) from line '1029'
+print('you feel a sense of accomplishments from visiting vasts worlds you were the chosen one all along')#(SOA continues) from line '1030'
 print('(press enter to enter the synthesis shop of Jixo!)')#prompts user to press enter to enter the moogle shop w/print 
 input()#T/I
 
@@ -1156,7 +1156,7 @@ print()#(ELOC)
 print('Final Product:' + potionelixer)#shows the final product of combining attributes! w/print+variables
 print('(press enter to SYNTHESIZE)')#prompts user to press enter to synthesize w/print
 input()#T/I
-print('-SUCCESFULLY SYNTHESIZED ' + potionelixer + '!-')#(SOA) Sense of action (User) uses w/print
+print('-SUCCESSFULLY SYNTHESIZED ' + potionelixer + '!-')#(SOA) Sense of action (User) uses w/print
 print('(press enter to obtain)')#prompts user to press enter to obtain w/print
 input()#T/I
 print('[Obtained:' + potionelixer + '!')#(SOA) Sense of action (User) uses w/print
@@ -1176,8 +1176,8 @@ print('Credits')#credits to yours truly
 print('programmer - genesis gir')#credit info generated by the print function
 print('Lead programmer - genesis gir')#credit info generated by the print function
 print('Program directer- genesis gir')#credit info generated by the print function
-print('Character development - Sqaure ENIX')#credit info generated by the print function
-print('Storyline - Sqaure ENIX')#credit info generated by the print function
+print('Character development - Square ENIX')#credit info generated by the print function
+print('Storyline - Square ENIX')#credit info generated by the print function
 print('Special thanks to everyone one at my twitch and follows me!')#special thanks info generated by the print function
 print('(Press ENTER to exit program)')#credit info generated by the print function
 input()#prompts user to press enter to exit program
@@ -1185,6 +1185,5 @@ input()#prompts user to press enter to exit program
 █▀█ █▀▀ █▀ █▀█ █░█ █▀█ █▀▀ █▀▀ █▀
 █▀▄ ██▄ ▄█ █▄█ █▄█ █▀▄ █▄▄ ██▄ ▄█
 
-link: >>> https://www.twitch.tv/genesisgir  <<< Find Livestreams and more!
 link: >>> https://automatetheboringstuff.com <<< Discover and learn how i did!
 """ 

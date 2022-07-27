@@ -3,8 +3,8 @@
 █▄█ ██▄ █░▀█ ██▄ ▄█ █ ▄█   █▄▄ ██▄ ▄█ ▄█ █▄█ █░▀█ ▄█   ▀▄▀ █▄█ █▄▄ ▄ ░█ 
 Welcome to the genesis gir lesson tutorials Volume 1! SOS is a program that takes the user on a survivalist 
 trip to survive and explore a stranded remote island and they have to somehow escape it find resources and
-materials while fending off the erractical locals who live there! Gather Weapons , Storage , and items from
-the corpses of the enemy and hope that one day you will be found. . maybe an S.O.S singal could help?
+materials while fending off the erratic locals who live there! Gather Weapons , Storage , and items from
+the corpses of the enemy and hope that one day you will be found. . maybe an S.O.S signal could help?
 . Thanks for downloading!
 ⼕ㄖᗪ🝗ᗪ & 山尺讠セセ🝗𝓝 ⻏丫 Ꮆ🝗𝓝🝗丂讠丂 Ꮆ讠尺
 """
@@ -42,10 +42,10 @@ print('-You reach out to hold her face and suddenly-')#(SOA) Sense of action (Us
 print('(press enter to listen to the hostess)')#prompts user to press enter to listen to (Mrs. Melaine) w/print 
 input()#T/I
 hostess='Mrs. Melaine The hostess'#creates the name variables for the character (Mrs.Melanie) uses variables+operators
-print(hostess+':Everyone! Please hold on and brace yourself we are just having some turbulance! everyon-')#speech dialog from (Mrs. Melaine) uses print function
+print(hostess+':Everyone! Please hold on and brace yourself we are just having some turbulence! everyone-')#speech dialog from (Mrs. Melaine) uses print function
 print()#(ELOC)
 print('-The plane loses all control and is now headed for a down spiral angle to the oceans floor-')#(SOD) sense of direction () w/print
-print('(press enter to accecpt your fate)')#prompts user to press enter to accept fate w/print
+print('(press enter to accept your fate)')#prompts user to press enter to accept fate w/print
 input()#T/I
 print('-CRASH!-')#FX uses the print function!
 print('(press enter)')#prompts user to press enter w/print
@@ -74,7 +74,7 @@ input()#T/I
 print('-You look beside you and your wife and your child are missing but everyone else has..died-')#(SOA) Sense of action (Mr.Keith) uses w/print
 print('(press enter to grieve)')#prompts user to press enter to grieve w/print
 input()#T/I
-print('-The sound of a man letting out a huge bellow of anger and fustration is heard in the island-')#(SOA) Sense of action (Mr.Keith) uses w/print
+print('-The sound of a man letting out a huge bellow of anger and frustration is heard in the island-')#(SOA) Sense of action (Mr.Keith) uses w/print
 print()#(ELOC)
 print('-That bellow is...you-')#(SOD) sense of direction (Mr.Keith) w/print
 print('(press enter to get your shit together)')#prompts user to press enter w/print
@@ -198,7 +198,7 @@ hostess='Mrs. Melanie The hostess'#implemented!
 you='Mr.Keith'#implemented!
 wife='Mrs. Everest'#implemented!
 son='Nathan'#Someone Special to Mr.Keith
-crazed='Mentally Unstable Surviver'#NPCs found within the forest
+crazed='meantally Unstable Surviver'#NPCs found within the forest
 
 #Building   
 wood='Wood Material (Building)'#implemented!
@@ -285,8 +285,8 @@ crab='Crab Meat (consumable)'#implemented!
 snack1='Power Bar snack (consumable)'
 bird_meat='Small Bird Meat (consumable)'
 rabbit='Rabbit Meat (consumable)'
-berry_1='Blueberries (consumable)'#implemented!
-berry_2='Strawberries (consumable)'
+berry_1='Bluebeeries (consumable)'#implemented!
+berry_2='Strawbeeries (consumable)'
 soda='Energy Drink (consumable)'
 noodles='Hari Noodles (consumable)'
 water_bottle='Refreshing Water Bottle (consumable)'
@@ -344,7 +344,7 @@ The print function always comes with two parentheses and any function in that ma
 enter what data types we want inside of them and everything inside of it is called an
 argument and the print is called a function and in this case im using a (stir) or better known
 as a string to make a storyline! so print(    ) and anything inside it will be printed onto 
-stream(screen) just make sure its a correct data type: interger , float or a string value.
+stream(screen) just make sure its a correct data type: integer , float or a string value.
 
 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂
 """
@@ -357,7 +357,7 @@ print('SOS features many variables such as')#giving information about SOS uses t
 print()#(ELOC)
 print('-Healing, Crafting, Clothing, Building, Items, & Sanity ')#provides the user info on game items w/print
 print()#(ELOC)
-print('Most of SOS infastructure is built entirely from limited functions')#shares info about the limitations w/print
+print('Most of SOS infrastructure is built entirely from limited functions')#shares info about the limitations w/print
 print('(press enter to start story mode)')#prompts user to press enter to start story w/print 
 input()#T/I
 print()#(ELOC)
@@ -387,7 +387,7 @@ input()#T/I
 print(you+':There might be something I can use inside the plane I was in.')#speech dialog from (Mr.Keith) uses print function
 print('(press enter to head back to the plane)')#prompts user to press enter to head back w/print
 input()#T/I
-print('-You slowly walk threw the foilage and lush grass being careful keeping your guard up as')#(SOA) Sense of action (Mr.keith) uses w/print
+print('-You slowly walk threw the foliage and lush grass being careful keeping your guard up as')#(SOA) Sense of action (Mr.keith) uses w/print
 print('you head towards the plane that you once flew in all badly mangled. Passengers twisted within')#(SOA continues) from line '197'
 print('the seats and victims forced threw windows due to impact.-')
 print('(press enter to enter the bloody plane)')#prompts user to press enter  to enter plane w/print
@@ -419,7 +419,7 @@ input()#T/I
 #Collects Key
 key_amount= key_amount+1
 
-print(hostess+':Theres alot of things that will come in handy for you in that room.')#speech dialog from (Mrs. Melaine The hostess) uses print function
+print(hostess+':Theres a lot of things that will come in handy for you in that room.')#speech dialog from (Mrs. Melaine The hostess) uses print function
 print('(press enter)')#prompts user to press enter w/print
 input()#T/I
 print('-She seems to have passed away-')#(SOA) Sense of action (Mrs. Melaine The hostess) uses w/print
@@ -431,7 +431,7 @@ input()#T/I
 print('-You walk up to the room and it prompts you for a key-')#(SOA) Sense of action (Mr.keith) uses w/print
 print('(press enter to use your '+key+')')#prompts user to press enter to use key w/print
 input()#T/I
-print('-You are granted access to the room and the door slowly opens and a body falls out slowy-')#(SOD) sense of direction () w/print
+print('-You are granted access to the room and the door slowly opens and a body falls out slowly-')#(SOD) sense of direction () w/print
 print('the stench from the dead body is overwhelming to say the least but you enter anyway-')#(SOD) continues sense of direction from line '238' w/print
 print('(press enter to explore the room)')#prompts user to press enter to explore w/print
 input()#T/I
@@ -453,7 +453,7 @@ input()#T/I
 print('-'+you+' turns on the sink as the water flows slowly cleaning off the blunt axe-')#(SOA) Sense of action (Mr.Keith) uses w/print
 print('(press enter)')#prompts user to press enter w/print
 input()#T/I
-print('-'+you+' wiping off the pilots essense off the axe with a blank stare as water runs and')#(SOA) Sense of action (Mr.Keith) uses w/print
+print('-'+you+' wiping off the pilots essence off the axe with a blank stare as water runs and')#(SOA) Sense of action (Mr.Keith) uses w/print
 print('the streaks of red like ribbons in the wind blowing running threw his strong hands-')#(SOA continues) from line '256'
 print('(press enter to turn off the sink)')#prompts user to press enter to turn off the sink w/print
 input()#T/I
@@ -494,11 +494,11 @@ print('Introduction')#intro to handbook w/print
 print('Page 1 ')
 print('When faced with nature and forced to survive this book teaches you about everything you need')
 print('to know about survival and keeping yourself cozy, safe, and away from infections & insanity.')
-print('If your reading this your in a point or state of desprate need of education on how to keep')
+print('If your reading this your in a point or state of desperate need of education on how to keep')
 print('yourself from danger in the wild lucky for you this book comes all the tools and tips you need')
 print('to know to be the ultimate survivalist in nature! read the table of contents to see what this')
-print('handbook teaches the average person how to gather the neccesary things they need to stay alive')
-print('keeping your sanity is also is important we reccomend '+sanity)
+print('handbook teaches the average person how to gather the necessary things they need to stay alive')
+print('keeping your sanity is also is important we recommend '+sanity)
 print()#(ELOC) stands for empty line of code
 
 #table of contents for the S.O.S handbook
@@ -519,7 +519,7 @@ print('CHAPTER 1 - SANITY')
 print('When in the wild for so long the human brain under intense stress begins to deteriorate')
 print('and sometimes a mans only option is to seek medical help but since your lost and stranded')
 print('if you can manage to find medication to use the stress for these circumstances its highly')
-print('reccomended to take '+sanity+' to keep yourself from going insane')
+print('recommended to take '+sanity+' to keep yourself from going insane')
 print('its been heard it can lead to even manic behavior to get you killed by hallucinating and doing')
 print('rash decisions leaving the person to commit acts the can lead to death or even worse taking their on life')
 print('again value your sanity and if you crashed in a plane check luggage from passengers to seek them out')
@@ -554,7 +554,7 @@ What are inputs? And why do we use them? Its important to note that inputs() are
 that wait for the users input or intake on their keyboard to gather their keyboard presses
 and calls them to the function input(). They are pretty cool! Combine them with variables to
 let the user essentially set the variable for us and than later use their answers in our programs
-line of code! variables can be foud threwout this .py and seen in concatanation with inputs
+line of code! variables can be found throughout this .py and seen in concatenation with inputs
 see the text below to refer to what I'm talking about.
 
 ex.'Line 1' print('press ENTER and flowers will bloom!') > this line is telling user to press ENTER
@@ -565,7 +565,7 @@ ex.'Line 3' (  After the ENTER press as seen in Line 2 the user is now in this l
 """
 print('CHAPTER 2 - SHELTER')
 print('In this chapter it will teach you how to make shelters that you can craft to have a good nights')
-print('sleep and not have to worry about the dnagers that go bump in the night. Theres all types of shelters')
+print('sleep and not have to worry about the dangers that go bump in the night. Theres all types of shelters')
 print('that can be crafted using just simple materials, shelters like '+small_cottage)
 print('or shelters more on the easy end like '+leaf_shelter+' some shelters')
 print('last longer than others and are harder to break into so depending on the situation choose your')
@@ -601,7 +601,7 @@ print()#(ELOC)
 print()#(ELOC)
 print('CHAPTER 3 - MEDICINES')
 print('Infections are a reality and in this chapter you will learn about how to mend yourself from wounds and sickness')
-print('while there are natrual healing methods out there using plants and herbs are one way of healing yourself and warding')
+print('while there are natural healing methods out there using plants and herbs are one way of healing yourself and warding')
 print('off infections from taking you under. some medicines you can find in the wild include herbs like the following')
 print()
 print('- '+gin)
@@ -612,8 +612,8 @@ print('- '+aloe)
 print()
 print('These herbs can heal most wounds and ward off most infections but not all of them so if you happen to find any')
 print('make sure to collect them and use them if your feeling weak, sick, or in need of energy. Medicines are one of those')
-print('things that every survivalist needs in order to keep their body helathy and ready for the next day if not the')
-print('consequences can be dramamtic resulting in massive infections that can kill you or worse leave you paralzed and hopeless')
+print('things that every survivalist needs in order to keep their body healthy and ready for the next day if not the')
+print('consequences can be dramatic resulting in massive infections that can kill you or worse leave you paralyzed and hopeless')
 print()
 print('                                                       __    _                                                                            ')                                   
 print('                                                  _wr""        "-q__                                                                      ')        
@@ -642,8 +642,8 @@ print()#(ELOC)
 print()#(ELOC)
 print('CHAPTER 4 - COOKING')
 print('Food is very essential in order to survive and keep yourself from getting hungry so in this chapter we will')
-print('the avgerage s urviver to cook for themselves and what meals provide more protien and vitamins to better benefit them')
-print('you can gather the supplies to make the meals in this book while your out hunting or forging for foof or herbs.')
+print('the average surviver to cook for themselves and what meals provide more protein and vitamins to better benefit them')
+print('you can gather the supplies to make the meals in this book while your out hunting or forging for food or herbs.')
 print('Most importantly make sure to gather fresh foods like '+crab+' '+deer)
 print(squid+' '+fresh_fish+' and foods like '+berry_1)
 print('your health and hungry play a huge part of your survival so make sure to eat and cook frequently!')
@@ -652,10 +652,10 @@ print('in order to make things like soups and boil food. Finding a '+pot+' is re
 print()#(ELOC)
 print()#(ELOC)
 print('CHAPTER 5 - Hunting')
-print('Making sure you find prey is life or death and in the wild youll find plenty of animals to hunt')
-print('of course hunting is artform and patience because even someone who has hunted for years needs patience')
+print('Making sure you find prey is life or death and in the wild you will find plenty of animals to hunt')
+print('of course hunting is art form and patience because even someone who has hunted for years needs patience')
 print('in this guide it will teach you how to find prey and the types of prey you can find.')
-print('In the wild you may find '+deer+' you can mame and obtain its esources for cooking later on')
+print('In the wild you may find '+deer+' you can kill and obtain its resources for cooking later on')
 print('please resort to chapter 4 for more in depth detail how to cook.')
 print()#(ELOC)
 print()#(ELOC)
@@ -663,14 +663,14 @@ print('CHAPTER 6 - TRAPS')
 print('Sometimes creeping up on an enemy or a predator isnt enough for the kill so thats where traps')
 print('come into play.You can craft traps and make all types to stop your target from breaking into')
 print('your cottage and harming you and your goods or worse stealing your food when your not there')
-print('robbery is a real thing and whos to say your the only surviver on the island there can be other')
-print('people who could have been tehre longer than you and do not assume everyone is there to help you')
-print('there have ben cases off maulings and killings from survivers by other survivers going insane.')
+print('robbery is a real thing and who is there to say your the only surviver on the island there can be other')
+print('people who could have been there longer than you and do not assume everyone is there to help you')
+print('there have ben cases off mauling and killings from survivers by other survivers going insane.')
 print('While we know for a fact there is someone else on that island with you but dont assume the best')
 print('in any situation scout out the island to see if theres a nearby city or anyone and seek help')
 print('again this chapter is about traps how to use them and what types there are.')
 print()
-print('The following are various traps you can makeand are highly suggested')
+print('The following are various traps you can make and are highly suggested')
 print()
 print('- '+bear_trap)
 print('- '+noose_trap)
@@ -684,7 +684,7 @@ print('its a matter of life and death and many of these traps are easy to make s
 print()#(ELOC)
 print()#(ELOC)
 print('CHAPTER 7 - CRAFTING')
-print('Crafting is one off the skills youll need to develop and crafting various items will keep you up to date')
+print('Crafting is one off the skills you will need to develop and crafting various items will keep you up to date')
 print('with new weapons, items, healing methods and I cannot stress it enough to please learn this craft to better')
 print('stand a chance in the wild the following are some items you can use for crafting')
 print()
@@ -694,25 +694,25 @@ print('- '+squid_ink)
 print('- '+stick)
 print()
 print('These are only a few of the crafting items but Im sure you can find more out there')
-print('also experiment with various types of crating items who knows what youll end up making')
-print('crafting is one of the best ways to create brand new items to your arsenal from extrodinary')
-print('Foods ,Traps, Weapons, Tools and much more and youll need all the essentials you can get your hands')
-print('on. If you find yourself lost again experiment with the craftable items you find mix & match them ')
+print('also experiment with various types of crating items who knows what you will end up making')
+print('crafting is one of the best ways to create brand new items to your arsenal from extraordinary')
+print('Foods ,Traps, Weapons, Tools and much more and you will need all the essentials you can get your hands')
+print('on. If you find yourself lost again experimeant with the craftable items you find mix & match them ')
 print()#(ELOC)
 print()#(ELOC) 'empty line of code'
 print('CHAPTER 8 - BUILDING S.O.S SIGNALS')
 print('When all hope is lost never give up hope and find plenty of '+stone)
 print('and build an '+sos+' and wait for help to come')
-print('these signals can gather the attention of a passing aeroplane and give a glint of hope')
+print('these signals can gather the attention of a passing airplane and give a glint of hope')
 print('hopefully getting someone to spot your location sending help towards you ultimately saving')
 print('your life.')
 print()#(ELOC)
 print()#(ELOC)
 print('CHAPTER 9 - BLOOD TRANSFUSIONS')
 print('Essential in the line of the medical field blood transfusions can save your life when losing')
-print('alot of blood and finding them is important. Use them when you have severe blood lost , damage')
+print('a lot of blood and finding them is important. Use them when you have severe blood lost , damage')
 print('wounds, or gashes that are bleeding heavy keep your hand on the wound and use '+band)
-print('with a concatantion of other herbs to finally shut the wound and the transfusions to restore your')
+print('with a concatenation of other herbs to finally shut the wound and the transfusions to restore your')
 print('health and hospitality and there are two types of transfusions')
 print()#(ELOC)
 print('- '+blood_transfusion_A)
@@ -724,9 +724,9 @@ print(fusion_tool+' to find out which blood type you are to ensure safety and re
 print()#(ELOC)
 print()#(ELOC)
 print('CHAPTER 10 - DIY')
-print('Creafting and crafting your own items are possible in this book it will show you the various ways ')
+print('Crafting and crafting your own items are possible in this book it will show you the various ways ')
 print('you can craft/create DIY items to better help your needs some of the items in this chapter')
-print('are very dangerours and can cause serious damage and even death so be cautious')
+print('are very dangerous and can cause serious damage and even death so be cautious')
 print()#(ELOC)
 print('- '+robo)
 print('- '+m16)
@@ -759,7 +759,7 @@ print('                               .:/        |                              
 print('                               :/_________|                                         ')
 print()#(ELOC)
 print('Crafting the '+robo+' is an emergency DIY tool in any case your arm has been severed')
-print('and is a very craftable tool with immense power and force being able to even kill a man by')
+print('and is a very craft-able tool with immense power and force being able to even kill a man by')
 print('squeezing their throat. But nonetheless it runs on batteries and you will need to find them')
 print('in order for the mechanism to function in its full potential.In another retrospect the')
 print(m16+' is very viable and with ammunition can cause heavy distorting results to your target')
@@ -777,10 +777,10 @@ input()
 █▀█ █▄█ ░█░ █▄█ █░▀░█ █▀█ ░█░ ██▄ ░█░ █▀█ ██▄ █▄█ █▄█ █▀▄ █ █░▀█ █▄█ ▄█ ░█░ █▄█ █▀░ █▀░
 
 A great resource for novices such as myself to learn the basics of programming
-if you feel that i didnt explain something quite right well head over to the sight i learned
+if you feel that i did not explain something quite right well head over to the sight i learned
 it from and how i started coding and where I began to delve into the world of code
 link: >>> https://automatetheboringstuff.com/ <<< 
-With tons of tutorials explaining the basis of coding I highly reccomend to go here and do 
+With tons of tutorials explaining the basis of coding I highly recommend to go here and do 
 your studies and refresh your brain and gather as much information you can on the matter.
 
 "You learn the things you do much more than the things you read" - By Al Sweigart
@@ -792,15 +792,15 @@ print('(press enter to head back to the plane wreckage)')
 input()
 print('-You walk back slowly towards the burnt out plane and the bodies decomposing the smell so potent-')
 print('to be exact that the animals of the forest are now gathering around the bodies')
-print('as your presense gets known to the feasting animals with blood covered over their faces you')
-print('you enter the wreckage and see '+hostess+' laying there in a pityful state')
+print('as your presence gets known to the feasting animals with blood covered over their faces you')
+print('you enter the wreckage and see '+hostess+' laying there in a pitiful state')
 print('something tells you deep down that it isnt right nor fair that she lay down in this condition')
 print('her body in a perfect state she hasnt been eaten by the vicious animals yet-')
 print('(press enter to give her a proper burial)')
 input()
 print('-You pick her body and slowly walk out the plane as the rain begins to shower the earths')
 print('surface as you look at her face in a calm manner you shut her eyes with your hand and you set')
-print('her down gently and as you dig into the ground the rain soons stops after the trees blowing')
+print('her down gently and as you dig into the ground the rain soon stops after the trees blowing')
 print('in such a soft motion the leaves bouncing off the winds. The world is in your favor-')
 print('(press enter to give her rest)')
 input()
@@ -896,7 +896,7 @@ print(       '['+str(light_amount)+' '+light+']')
 print('(press enter to craft an item!)')
 
 print('Alert!:Craft a '+small_cottage+'')
-print('youll need somewhere to sleep threw this horrific night.')
+print('you will need somewhere to sleep threw this horrific night.')
 print()
 print(small_cottage+' requires '+'('+str(10)+')'+' '+wood)
 print()
@@ -908,7 +908,7 @@ small_cottage_amount=small_cottage_amount+1
 print('Crafted '+'('+str(int(1.1))+')'+' '+small_cottage)
 print('(press enter to exit crafting menu)')
 input()
-print('Alert!:Now that you have a shelter placing it would be benifical. Place your new shelter')
+print('Alert!:Now that you have a shelter placing it would be beneficial. Place your new shelter')
 print('your new home down somewhere by pressing the enter key.')
 print('(press enter to place '+small_cottage+')')
 input()
@@ -924,7 +924,7 @@ print('this project will be further developed in the future again thank you for 
 ░█░ ▀▄▀▄▀ █ ░█░ █▄▄ █▀█   ▄█ ░█░ █▄█ █▀▄ ██▄ █▄▀   █▄█ █▀▄ █▄█ █▀█ █▄▀ █▄▄ █▀█ ▄█ ░█░ ▄█
 
 Fun Fact this .py was made on stream and can be found on my Twitch page @ GenesisGir! Subscribers can 
-go back a rewatch how .py files are made in cohesion and learn step by step how projects like these are made 
+go back a re-watch how .py files are made in cohesion and learn step by step how projects like these are made 
 very useful to those starting out. Subscribe and stay in the loop!
 
 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂
@@ -942,7 +942,7 @@ print('Credits')#credits to yours truly
 print('programmer - genesis gir')#credit info generated by the print function
 print('Lead programmer - genesis gir')#credit info generated by the print function
 print('Program directer- genesis gir')#credit info generated by the print function
-print('Character development - Genesis Gir')#credit info generated by the print function
+print('Character developmeant - Genesis Gir')#credit info generated by the print function
 print('Storyline - Genesis Gir')#credit info generated by the print function
 print('Special thanks to everyone one at my twitch and follows me!')#special thanks info generated by the print function
 print('Inspired by End Night Games The Forest')

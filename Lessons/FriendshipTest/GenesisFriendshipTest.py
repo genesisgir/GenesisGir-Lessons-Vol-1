@@ -1,15 +1,11 @@
-<<<<<<< HEAD
- """ 
-=======
 """ 
->>>>>>> 1837ec3396e67c73d74494a3ac1f250e987122b5
 █▀▀ █▀▀ █▄░█ █▀▀ █▀ █ █▀   █░░ █▀▀ █▀ █▀ █▀█ █▄░█ █▀   █░█ █▀█ █░░ ░ ▄█
 █▄█ ██▄ █░▀█ ██▄ ▄█ █ ▄█   █▄▄ ██▄ ▄█ ▄█ █▄█ █░▀█ ▄█   ▀▄▀ █▄█ █▄▄ ▄ ░█ 
 Welcome to the genesis gir lesson tutorials Volume 1! Do you know me as much as you think you do?
 This program tests you on how well you think you know me! Select from all the choices given to you 
-and guess or if you think you know answer them, a cute little program to pass time by and challenge yoru knowledge 
-about Genesis (me)
-. Thanks for downloading!
+and guess or if you think you know answer them, a cute little program to pass time by and challenge your 
+knowledge about Genesis! 
+
 ⼕ㄖᗪ🝗ᗪ & 山尺讠セセ🝗𝓝 ⻏丫 Ꮆ🝗𝓝🝗丂讠丂 Ꮆ讠尺
 """
 #This programs tests you about how well you know Genesis gir in test form
@@ -22,7 +18,7 @@ The print function always comes with two parentheses and any function in that ma
 enter what data types we want inside of them and everything inside of it is called an
 argument and the print is called a function and in this case im using a (stir) or better known
 as a string to make a storyline! so print(    ) and anything inside it will be printed onto 
-stream(screen) just make sure its a correct data type: interger , float or a string value.
+stream(screen) just make sure its a correct data type: integer , float or a string value.
 
 
 ──▒▒▒▒▒▒───▄████▄
@@ -36,14 +32,14 @@ stream(screen) just make sure its a correct data type: interger , float or a str
 print()#(ELOC)
 print('Welcome to the Genesis Friendship Test!')#introduction to program
 print()#(ELOC)
-print(' You will be asked various questions about Genesis and see if you can get them right!')#uses the print functianlity w/print
+print(' You will be asked various questions about Genesis and see if you can get them right!')#uses the print functionality w/print
 print('(press enter to continue)')#prompts user to press enter w/print and gathers data collection
 input()#T/I 'takes input' uses the input()
 print('Create name!')#prompts user to create their name
 print('Please enter your name!')#prompts user to press enter to create user name variable w/print
 name=input()#creates the name variable with the input()
 print()#(ELOC)
-print(name+' has registred to the program!')#registers user w/print
+print(name+' has registered to the program!')#registers user w/print
 print()#(ELOC)
 print('Are you ready for the first question?')#
 print('(press enter to start!)')#prompts user to press enter to start questions w/print 
@@ -134,7 +130,7 @@ to create a variable using the users input to later use it in the program
 """
 print()#(ELOC)
 print('Fun fact:Genesis started playing Growtopia and gained a reputation in a short amount of')#gives fun facts about me to the user w/print
-print('time by doing wild hyper active streams and obtatining Rayman in only 44 days!')#continues fun facts about me to the user w/print from line '65'
+print('time by doing wild hyper active streams and obtaining Rayman in only 44 days!')#continues fun facts about me to the user w/print from line '65'
 print()#(ELOC)
 print('Answer:(Growtopia)')#the answer to the question uses print functions
 print('press enter to continue')#prompts user to press enter w/print and gathers data collection
@@ -154,7 +150,7 @@ print()#(ELOC)
 ░█▄█░ █▄▄█ █▄▄▀ ▀█▀ █▄▄█ █▀▀▄ █░░ █▀▀ ▀▀█ 
 ░░▀░░ ▀░░▀ ▀░▀▀ ▀▀▀ ▀░░▀ ▀▀▀░ ▀▀▀ ▀▀▀ ▀▀▀
 Variables are like little tiny safes or cardboard boxes that you can label! In them you can
-insert data types from intergers, strings(stirs), floating-points and values to later use
+insert data types from integers, strings(stirs), floating-points and values to later use
 them in your file editor and is a great way to store data.
 ex.( box='a cat inside of it' ) we stored "a cat inside of it" inside box making box a variable!
 """
@@ -207,7 +203,7 @@ print('Answer:(All of the above)')#the answer to the question uses print functio
 print('press enter to continue')#prompts user to press enter w/print and gathers data collection
 input()#Question starts on line '114'
 print()#(ELOC)
-print('Q:Did Genesis have a girlfriend in middleschool?')#asks the user a question w/print
+print('Q:Did Genesis have a girlfriend in middle school?')#asks the user a question w/print
 print()#(ELOC)
 print('A(Nah he has no guts)')#choices uses print w/print function
 print('B(Hes too shy)')#choices uses print w/print function
@@ -255,7 +251,7 @@ print()#(ELOC)
 print('A(Watching shit ton of hentai)')#choices uses print w/print function
 print('B(Replika)')#choices uses print w/print function
 print('C(Fell on his head and decided to code one day)')#choices uses print w/print function
-print('D(Played alot of Minecraft)')#choices uses print w/print function
+print('D(Played a lot of Minecraft)')#choices uses print w/print function
 print('Select from A , B , C , D than press enter')#prompts user to select a choice than press enter w/print and gathers data collection
 answer=input()#creates answer variable w/input()
 print()#(ELOC)
@@ -265,19 +261,19 @@ print()#(ELOC)
 █░█░█ █▀█ █▀█ █▄▀ █▀▀ █░░ █▀█ █░█░█
 ▀▄▀▄▀ █▄█ █▀▄ █░█ █▀░ █▄▄ █▄█ ▀▄▀▄▀
 
-Finding different workflows while writing code can beneift the developer in finding quicker ways
+Finding different workflows while writing code can benefit the developer in finding quicker ways
 to do things like a nifty app like ClipClip can enhance work flows and its important to sharpen
 your workflow in a way that makes things easier for you! Remember just because we speak the same
-language doesnt mean our workflows are the same. Find your manner of writing your scripts and
+language doesn't mean our workflows are the same. Find your manner of writing your scripts and
 harness its ability to get faster and faster with flows. Branching out to new software that helps
-with copy & pasting functinalities for instance would help to write lines of code down quicker!
+with copy & pasting functionalities for instance would help to write lines of code down quicker!
 
                   §§      §§
              §§§§__§§§§§§
            §§§§
           §§                              Get comfy with your workflows as well you can have as
          §§                               many as you like but figure out little tricks to write
-        §§        $$$$$$$$$$$$$$$$        quicker and get that program commited & pushed!
+        §§        $$$$$$$$$$$$$$$$        quicker and get that program committed & pushed!
        §§§§       $$$$$$$$$$$$$$$$
       #######     $$$$    $$$$            Heres a choo choo train yay!
        ####        $$$$    $$$$
@@ -299,8 +295,8 @@ input()#Question starts on line '156'
 print()#(ELOC)
 print('Q:Whats genesis favorite anime character?')#asks the user a question w/print
 print()#(ELOC)
-print('A(freiza)')#choices uses print w/print function
-print('B(Speedracer)')#choices uses print w/print function
+print('A(frieza)')#choices uses print w/print function
+print('B(Speed racer)')#choices uses print w/print function
 print('C(Zero Two)')#choices uses print w/print function
 print('D(Gaz thicc version)')#choices uses print w/print function
 print('Select from A , B , C , D than press enter')#prompts user to select a choice than press enter w/print and gathers data collection
@@ -312,12 +308,12 @@ print('Answer:(Gaz thicc version)')#the answer to the question uses print functi
 print('press enter to continue')#prompts user to press enter w/print and gathers data collection
 input()#T/I 'takes input' waits for user to do a key press and press enter using the input() function
 print()#(ELOC)
-print('Congrats you have finished the test! Now you know alot about Genesis! Thanks for playing~')#lets user know they finished w/print function
+print('Congrats you have finished the test! Now you know a lot about Genesis! Thanks for playing~')#lets user know they finished w/print function
 print()
 print('█▀█ █▀▀ █▀ █▀█ █░█ █▀█ █▀▀ █▀▀ █▀')
 print('█▀▄ ██▄ ▄█ █▄█ █▄█ █▀▄ █▄▄ ██▄ ▄█')
 print()
-print('link: >>> https://www.twitch.tv/genesisgir  <<< Find Livestreams and more!')
+print('link: >>> https://www.twitch.tv/genesisgir  <<< Find livestreams and more!')
 print('link: >>> https://automatetheboringstuff.com <<< Discover and learn how i did!')
 print('(press enter to exit program)')#prompts user to exit the program
 input()#T/I
@@ -328,7 +324,7 @@ input()#T/I
 ░█░ ▀▄▀▄▀ █ ░█░ █▄▄ █▀█   ▄█ ░█░ █▄█ █▀▄ ██▄ █▄▀   █▄█ █▀▄ █▄█ █▀█ █▄▀ █▄▄ █▀█ ▄█ ░█░ ▄█
 
 Fun Fact this .py was made on stream and can be found on my Twitch page @ GenesisGir! Subscribers can 
-go back a rewatch how .pf files are made in cohesion and learn step by step how projects like these are made 
+go back a re-watch how .pf files are made in cohesion and learn step by step how projects like these are made 
 very useful to those starting out. Subscribe and stay in the loop!
 
 link:https://www.twitch.tv/genesisgir Watch resourceful livestreams and chat , code!
