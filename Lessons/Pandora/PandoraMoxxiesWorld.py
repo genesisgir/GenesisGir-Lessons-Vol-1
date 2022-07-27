@@ -52,11 +52,11 @@ print('🅶🅴🅽🅴🆂🅸🆂🅶🅸🆁  🅶🅴🅽🅴🆂🅸🆂�
 █▀▀ █▀▀ █▄░█ █▀▀ █▀ █ █▀   █░░ █▀▀ █▀ █▀ █▀█ █▄░█ █▀   █░█ █▀█ █░░ ░ ▄█
 █▄█ ██▄ █░▀█ ██▄ ▄█ █ ▄█   █▄▄ ██▄ ▄█ ▄█ █▄█ █░▀█ ▄█   ▀▄▀ █▄█ █▄▄ ▄ ░█ 
 Welcome to the genesis gir lesson tutorials Volume 1! Pandora. A Planet with no rules!
-You the Vault Hunter must help the sadistic , lustful, Moxxxie collect her beverages, 
+You the Vault Hunter must help the sadistic , lustful, Moxxie collect her beverages, 
 guns , loot and bring them back to her. She will be very interactive with you
 just make sure to do as she says or game over! Moxxie is a Famous barkeeper in Pandora
 and the word around is that she has the hots for anyone that helps her out! If not for her
-Do it for the loot please. . . and make it back in one peace goodluck Vault Hunter!
+Do it for the loot please. . . and make it back in one peace good luck Vault Hunter!
 . Thanks for downloading!
 ⼕ㄖᗪ🝗ᗪ & 山尺讠セセ🝗𝓝 ⻏丫 Ꮆ🝗𝓝🝗丂讠丂 Ꮆ讠尺
 """
@@ -73,12 +73,12 @@ into a unmarked planet called pandora and go full frontal with the concepts and 
 Sure we are limited by only using the enter key. . for now. Because chapter one only teaches us certain
 methods, drive your story and put your love and energy into it like its a movie set! You can really pull in
 a users attention wanting more Throw them some scenarios that will blow them away have them wanting more
-if you can do this only with limited amount of functions and enter youll do that much more with more functions 
+if you can do this only with limited amount of functions and enter you'll do that much more with more functions 
 later on! 
 
 
          █▄██▄█
-█▄█▄█▄█▄█▐█┼██▌█▄█▄█▄█▄█ ~ The Queen wishes for your assistance madem!
+█▄█▄█▄█▄█▐█┼██▌█▄█▄█▄█▄█ ~ The Queen wishes for your assistance madam!
 ███┼█████▐████▌█████┼███
 █████████▐████▌█████████ 
 
@@ -94,8 +94,8 @@ print('Old Man:A Wise man once told me to never ever step into Pandora. . ')  # 
 # prompts user to press enter using the print functionality
 print('(press enter)')
 input()  # takes input from user uses the input() function
-# narrarator sets the scene using print
-print('Old Man:They told me of the unforseen riches. . ')
+# narrator sets the scene using print
+print('Old Man:They told me of the unforeseen riches. . ')
 print('(press enter)')  # prompts user to progress by pressing enter
 input()  # the input() function waits for the user to key press and press enter!
 # speech dialog from the old man character uses print function
@@ -139,10 +139,10 @@ input()  # takes input w/input()
 # (SOD) using the print functionality
 print('-Your eyes get distracted by a woman with a voluptuous figure walking into a bar')
 print('(press enter)')  # prompts to ask user to press enter key to progress
-input()  # takes and gathers the input from user to make a choice! input() demostrated here
+input()  # takes and gathers the input from user to make a choice! input() demonstrated here
 # using print to print values w/print
 print('-The bar sign reads M O X X X I E S and the sign flickers-')
-print('(press enter)')  # prmopts user to use enter key to continue
+print('(press enter)')  # prompts user to use enter key to continue
 input()  # collects user key press w/input()
 # (SOD) using 'print'
 print('-Before she walks in her eyes pierce yours and finger signals you in-')
@@ -157,7 +157,7 @@ print('-As you walk in the smoke from cigars and the smell and stench of liquor 
 print('(press enter)')  # prompts user to press enter key
 input()  # takes the input from user and progresses them to line '115'
 # introduces Moxxie to setting! w/print
-print('Moxxi: I love being surrounded by men and violence')
+print('Moxxie: I love being surrounded by men and violence')
 # (SOA) using print to print values to stream(screen)
 print('-as she walks her hip move back and fourth in a clock like motion-')
 print('(press enter)')  # prompts user to press enter key
@@ -171,7 +171,7 @@ What are inputs? And why do we use them? Its important to note that inputs() are
 that wait for the users input or intake on their keyboard to gather their keyboard presses
 and calls them to the function input(). They are pretty cool! Combine them with variables to
 let the user essentially set the variable for us and than later use their answers in our programs
-line of code! variables can be foud threwout this .py and seen in concatanation with inputs
+line of code! variables can be found throughout this .py and seen in concatenation with inputs
 see the text below to refer to what I'm talking about.
 
 ex.'Line 1' print('press ENTER and flowers will bloom!') > this line is telling user to press ENTER
@@ -181,7 +181,7 @@ ex.'Line 3' (  After the ENTER press as seen in Line 2 the user is now in this l
 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂
 """
 print('-You trail right behind her and make it to the counter and she vaults over the counter')  # sense of action uses the print functionality
-# sense of actio(SOA) uses the print function
+# sense of action (SOA) uses the print function
 print('very slowly in a flirtatious manner while looking into your eyes the whole time-')
 print('(press enter)')  # prompts user to press enter key
 input()  # data collection of user key press w/input()
@@ -211,7 +211,7 @@ input()  # input waits for the user to enter his/her enter key press w/input()
 print('Moxxie:I need guns that go BOOM! BAM! and make people go SPLAT! and theres these bandits')
 # more speech dialog for Moxxie uses print functions
 print('that have my inventory and drinks and guns stashed in some hideout and I could use it right')
-# Moxxie asks for a favor /wprint
+# Moxxie asks for a favor w/print
 print('right about now so.. if you could do me the favor?')
 # directs user to press enter to nod his/her head w/print
 print('(press enter to nod)')
@@ -226,7 +226,7 @@ print('accepted!')  # the quest has been accepted! w/print
 print('(OK! press enter)')  # prompts user to press enter key
 input()  # input gathers the dta from users keyboard presses w/input() function
 # (SOD) using print function
-print('-The bar gets quieter as the enterance to the door slowly opens and a man walks in slowly-')
+print('-The bar gets quieter as the entrance to the door slowly opens and a man walks in slowly-')
 print('JACK:. . .')  # Jack is introduced to the setting/scene w/print function
 # prompts user to press enter to hide w/print)
 print('(press enter to hide within crowd!')
@@ -255,7 +255,7 @@ print('-The customer shakes his head yes slowly. . -')
 print('(press enter)')
 input()  # takes input from user w/input()
 # (SOA) uses the print function
-print('JACK:*Makes a dissapointed expression on his face*')
+print('JACK:*Makes a disappointed expression on his face*')
 print('(press enter)')  # prompts user to press enter key
 input()  # sweeps in info from the user data input from keyboard w/input()
 # dialog of the character Handsome jack
@@ -278,7 +278,7 @@ print('(press enter)')  # prompts user to press enter key
 input()  # gathers keyboard presses from user using the input() function
 # (C2CI) uses the print function
 print('JACK:For Goodness sakes baby girl. run a lap or something at least!')
-print('(press enter)')  # prompts user to press enter key w/prpint
+print('(press enter)')  # prompts user to press enter key w/print
 input()  # gathers and collects key press from user w/input()
 """
 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂
@@ -289,7 +289,7 @@ The print function always comes with two parentheses and any function in that ma
 enter what data types we want inside of them and everything inside of it is called an
 argument and the print is called a function and in this case im using a (stir) or better known
 as a string to make a storyline! so print(    ) and anything inside it will be printed onto 
-stream(screen) just make sure its a correct data type: interger , float or a string value.
+stream(screen) just make sure its a correct data type: integer , float or a string value.
 
 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂
 """
@@ -307,7 +307,7 @@ print('(press enter)')  # prompts user to press enter key
 input()  # input() waits for user to do a key press than press enter w/input
 # speech dialog from the character Handsome jack uses the print functions to print values to stream(screen)
 print('JACK:Wouldnt be that funny if that tattoo on your breast was eaten off by dogs.')
-# speech dialog from handsome jack intergrates the print functionality 'print'
+# speech dialog from handsome jack integrates the print functionality 'print'
 print('Jack:Would be a real shame.')
 print('(press enter)')  # prompts user to press enter key
 input()  # takes input w/input() functions
@@ -327,14 +327,14 @@ input()  # waits for user to press enter to progress
 ░█░ ▀▄▀▄▀ █ ░█░ █▄▄ █▀█   ▄█ ░█░ █▄█ █▀▄ ██▄ █▄▀   █▄█ █▀▄ █▄█ █▀█ █▄▀ █▄▄ █▀█ ▄█ ░█░ ▄█
 
 Fun Fact this .py was made on stream and can be found on my Twitch page @ GenesisGir! Subscribers can 
-go back a rewatch how .pf files are made in cohesion and learn step by step how projects like these are made 
+go back a re-watch how .pf files are made in cohesion and learn step by step how projects like these are made 
 very useful to those starting out. Subscribe and stay in the loop!
 
 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂
 """
 print('-You walk up to Moxxie at the counter and place your hand on top of hers and play')  # (SOA) sense of action w/print
 print('with her wrist comforting her-')  # sense of action continues w/print
-# Moxxie speech dialog intergrates with the print function
+# Moxxie speech dialog integrates with the print function
 print('Moxxie:Its. . . the reason why I need your help.')
 print('(press enter)')  # prompts user to press enter key
 input()  # gathers user key presses w/input()
@@ -353,7 +353,7 @@ input()  # T/I 'takes input from user and waits for enter key press'
 print('Moxxie:Your going to have to Um Wipe them out.')
 print('(press enter)')  # prompts user to press enter w/print
 input()  # T/I
-print('Moxxie:Meet me outside in the Convoy Jeep and we will drive there this shit is gunna get messy.')
+print('Moxxie:Meet me outside in the Convoy Jeep and we will drive there this shit is going to get messy.')
 # prompts user to exit bar and press enter w/print
 print('(press enter to exit  M O X X X I E S!)')
 input()  # T/I
@@ -374,7 +374,7 @@ input()  # T/I
 ░█▄█░ █▄▄█ █▄▄▀ ▀█▀ █▄▄█ █▀▀▄ █░░ █▀▀ ▀▀█ 
 ░░▀░░ ▀░░▀ ▀░▀▀ ▀▀▀ ▀░░▀ ▀▀▀░ ▀▀▀ ▀▀▀ ▀▀▀
 Variables are like little tiny safes or cardboard boxes that you can label! In them you can
-insert data types from intergers, strings(stirs), floating-points and values to later use
+insert data types from integers, strings(stirs), floating-points and values to later use
 them in your file editor and is a great way to store data.
 
 ex.( vehicle='B250 Destroyer' ) we stored "B250 Destroyer" inside the box making vehicle a variable!
@@ -420,7 +420,7 @@ print('Old Man:'+name+'?'+' my cousins name is '+name)
 print('(press enter to read)')  # prompts w/print
 input()  # T/I
 print('Old Man:Anyways thats besides the point *Ahem* and so '+name +
-      ' and Moxxie made their way to')  # print funcionalities being used w/variables
+      ' and Moxxie made their way to')  # print functionalities being used w/variables
 # using the print function here as well
 print('their death or victory its up to them to decide. . . Vault Hunters and Bar women whats up with that.')
 print('(press enter to continue)')  # prompts w/print
@@ -428,11 +428,11 @@ input()  # taking input from user or for short #T/I
 # Moxxie dialog speech using the print functionalities
 print('Moxxie:Stop here! Thats the Hideout!')
 # (SOD) 'sense of direction'
-print('-She points at a building surrounded by grunts and pycho enemies-')
+print('-She points at a building surrounded by grunts and Psycho enemies-')
 print('(press enter to prepare yourself)')  # prompts w/print
 input()  # T/I
 # speech dialog from the character Moxxie uses print
-print('Moxxie:Lets go kill some Badasses!')
+print('Moxxie:Lets go kill some Bad asses!')
 print('(press enter)')  # prompts w/print
 input()  # T/I
 print('Moxxie:Here take this.')  # speech dialog from Moxxie w/print
@@ -444,19 +444,19 @@ input()  # T/I
 █░█ █▀█ █░█░█   ▀█▀ █▀█   █░░ █▀▀ █▄░█   █▀▀ █░█ █▄░█ █▀▀ ▀█▀ █ █▀█ █▄░█
 █▀█ █▄█ ▀▄▀▄▀   ░█░ █▄█   █▄▄ ██▄ █░▀█   █▀░ █▄█ █░▀█ █▄▄ ░█░ █ █▄█ █░▀█
 
-The len function is a cool way to generate intergers with using 'Len()' very useful for any situation
+The len function is a cool way to generate integers with using 'Len()' very useful for any situation
 but what it really does would confuse some but in the end all it does is returns the number of items
-in a container or string value or anything isde the container explained below.
+in a container or string value or anything inside the container explained below.
 
 
 ex. len() > len('candy') > 5
 
-as you see from process from left to right it takes whatevr is inside and returns
+as you see from process from left to right it takes whatever is inside and returns
 the number of items in the container! really can be used in a situations that need it or dont 
 use it whatever floats ya boat! Check out line '334' to see this in action
 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂
 """
-print('(Obtained:Deadmans Revolver! Level '+str(5) +
+print('(Obtained:Dead mans Revolver! Level '+str(5) +
       ')')  # lets user know what gun they have obtained
 print('(Lock and reload[press enter])')  # (SOA)
 input()  # T/I
@@ -468,15 +468,15 @@ input()  # T/I
 print('-Moxxie & ' + name +
       ' enter the hideout and begin to decimate the population of the grimey')
 # plotting w/print
-print('location. Moxxie gets on top of a pycho and bashes his brains out with a single bullet')
+print('location. Moxxie gets on top of a psycho and bashes his brains out with a single bullet')
 # plotting w/print
 print('from her revolver and the crowd gets rowdy as more enemies approach in vehicles-')
 print('(press enter)')  # prompts w/print waits for user to press enter!
 input()  # T/I
 # (SOA) from enemies flocking
-print('-Pycho enemies flock from left and right and one approaches you-')
+print('-Psycho enemies flock from left and right and one approaches you-')
 # (SOD) directs user to use weapon
-print('(Press enter to aim your Deadmans Revolver at his head!)')
+print('(Press enter to aim your Dead mans Revolver at his head!)')
 input()  # T/I 'takes input from user and waits for enter key press'
 # (SOD) directs user to pull trigger uses w/print
 print('(Pull the trigger and end his life! [press enter])')
@@ -558,7 +558,7 @@ input()  # waiting for user to press enter w/input() functionality
 print('Obtained:'+DFFLS+'+ '+str(int(50.1))+' xp'+'!')
 print('(press enter to collect)')  # prompts user to progress.
 input()  # waiting for user to press enter w/input() functionality
-# shows user that they stashedaway weapon w/print
+# shows user that they stashed away weapon w/print
 print('-Stashed '+DFFLS+' in your inventory!-')
 # prompts user to check next case of loot w/print
 print('(Next loot box Press enter)')
@@ -576,7 +576,7 @@ input()  # waiting for user to press enter w/input() functionality
 print('Obtained:'+Jiro+'+ '+str(int(100.20))+' xp'+'!')
 print('(press enter to collect)')  # prompts user to progress.
 input()  # prompts user to progress.
-# shows user that they stashedaway weapon w/print
+# shows user that they stashed away weapon w/print
 print('-Stashed '+Jiro+' in your inventory!-')
 # prompts user to check next case of loot w/print
 print('(Next loot box Press enter)')
@@ -595,7 +595,7 @@ input()  # waiting for user to press enter w/input() functionality
 print('Obtained:'+ChrmeSniperMk2+'+ '+str(int(204.20))+' xp'+'!')
 print('(press enter to collect)')  # prompts user to progress.
 input()  # prompts user to progress.
-# shows user that they stashedaway weapon w/print
+# shows user that they stashed away weapon w/print
 print('-Stashed '+ChrmeSniperMk2+' in your inventory!   -')
 # prompts user to check next case of loot w/print
 print('(Next loot box Press enter)')
@@ -613,7 +613,7 @@ print('Obtained:'+SprayAndPrayBoombox+'+ '+str(int(100.1)) +
       ' xp'+'!')  # tells user which weapons they have obtained
 print('(press enter to collect)')  # prompts user to progress.
 input()  # prompts user to progress.
-# shows user that they stashedaway weapon w/print
+# shows user that they stashed away weapon w/print
 print('-Stashed '+SprayAndPrayBoombox+' in your inventory!-')
 # prompts user to try next loot box w/print function
 print('(Next loot box Press enter)')
@@ -624,14 +624,14 @@ print()  # (ELOC)
 print('-You walk up to a Shields Loot box-')
 # sets variable name for weapon cache
 geico = 'Pyeico Insurance Shield (LEVEL 5!) '
-print('(Open [Lengendary Shield Loot box?)')  # prompts user to open the loot
+print('(Open [Legendary Shield Loot box?)')  # prompts user to open the loot
 print('(press enter to open!)')  # prompts user to press enter
 input()  # waiting for user to press enter w/input() functionality
 # tells user which shields they have obtained
 print('Obtained:'+geico+str(int(1000.25))+'+ '+' xp'+'!')
 print('(press enter to collect)')  # prompts user to progress.
 input()  # prompts user to progress.
-# shows user that they stashedaway weapon w/print
+# shows user that they stashed away weapon w/print
 print('-Stashed '+geico+' in your inventory!-')
 # prompts user to try next loot box w/print function
 print('(Next loot box Press enter)')
@@ -649,7 +649,7 @@ input()  # waiting for user to press enter w/input() functionality
 print('Obtained:'+bevarages+'+ '+str(int(1000.67))+' xp'+' 100 cases'+'!')
 print('(press enter to collect)')  # prompts user to progress.
 input()  # prompts user to progress.
-# shows user that they stashedaway weapon w/print
+# shows user that they stashed away weapon w/print
 print('-Stashed '+bevarages+' in your inventory!')
 # prompts user to press enter to progress w/print
 print('(press enter to talk to Moxxie)')
@@ -693,14 +693,14 @@ input()  # T/I
 # prompts user to get inside vehicle+variable
 print('(Enter the '+vehicle+' than press enter)')
 input()  # gathers input from the user to enter the B250 Destroyer
-print('Moxxie: Okay start this puppy!')  # Mxxie shows her excitment w/print
+print('Moxxie: Okay start this puppy!')  # Mxxie shows her excitmeant w/print
 # creates a sense of direction w/print functions
 print('(press enter to start the ignition to the '+vehicle+')')
 input()  # T/I
 print('Old man:Vault Hunters , Blah Hunters , Small Hunters who cares? ' +
       name+' has')  # narration and speech dialog created with print function
 # uses the print function to print values
-print('wiped out an entire hideout full of Pycho Bandits with 0 effort and by just pressing')
+print('wiped out an entire hideout full of Psycho Bandits with 0 effort and by just pressing')
 # uses print function and continues from lines '478,479'
 print('a fucking enter key?.')
 print('(press enter to read)')  # prompts user to press enter to read w/print
@@ -722,10 +722,10 @@ input()  # T/I
 █▀ ▀█▀ █▀█ ▄▀ ▀▄       █ █▄ █ ▀█▀ ▄▀ ▀▄       █▀▀ █░░ █▀█ ▄▀█ ▀█▀ ▄▀ ▀▄   █▀▀ █░█ █▀▀ ▀█▀ █ █▀█ █▄░█ █▀
 ▄█  █░ █▀▄ ▀▄ ▄▀   █   █ █░▀█ ░█░ ▀▄ ▄▀   █   █▀░ █▄▄ █▄█ █▀█ ░█░ ▀▄ ▄▀   █▀░ █▄█ █▄▄ ░█░ █ █▄█ █░▀█ ▄█
 
-Conventionally they are converters and change the opposite dtata types into the ones they are
-can be very beneficial if for example you have a interger in a print line and needs to be string
+Conventionally they are converters and change the opposite data types into the ones they are
+can be very beneficial if for example you have a integer in a print line and needs to be string
 all you gotta do is convert it to string data type. How? str(50) and than the output will be
-'50' again all this stuff is experimentation but in the long run they convert data types. A basic
+'50' again all this stuff is experimeantation but in the long run they convert data types. A basic
 rule of thumb is to always refer to the chapter 1 page of automate the boring stuff's website!
 """
 print('-The camera slowly zooms inside the office window of Handsomes Jacks Office-')  # (SOD) uses print functions
@@ -757,7 +757,7 @@ print('Hperion Robot:I want my Mommy.')
 print('(press enter)')  # prompts user to press enter w/print
 input()  # T/I
 # speech dialog from (Handsome Jack) uses print function
-print('-Handsome Jack shocked by the statement looks back at the robot in disbelief-')
+print('-Handsome Jack shocked by the statemeant looks back at the robot in disbelief-')
 print('(press enter)')  # prompts user to press enter w/print
 input()  # T/I 'takes input from user and waits for enter key press'
 # speech dialog from (Handsome Jack) uses print function
@@ -777,7 +777,7 @@ print('Handsome Jack:NOW EVERYONE GET BACK TO WORK AND FIND THAT VAULT HUNTER!')
 print('(press enter)')  # prompts user to press enter w/print
 input()  # T/I
 # (SOA) Sense of action (Enemies) uses w/print
-print('-The henchmen and pychos run and bump into one another leaving the office in fear-')
+print('-The henchmen and Psychos run and bump into one another leaving the office in fear-')
 print()  # (ELOC) ''empty line of code
 # speech dialog from (Handsome Jack) uses print function
 print('Handsome Jack:AND BRING HIM BACK TO ME ALIVE!')
@@ -790,7 +790,7 @@ print('-The scene changes and '+name+' and Moxxie are exiting the '+vehicle +
       ' they look')  # story driven scene with the use of variables and such
 # more story driven settings w/print
 print('at a huge hologram near a store on the news. Handsome Jack appears and everyone gathers')
-print('around to watch his new announcment as children and the people of sanctuary watch in fear-')  # (SOA)
+print('around to watch his new announcmeant as children and the people of sanctuary watch in fear-')  # (SOA)
 print('(press enter)')  # prompts user to press enter w/print
 input()  # T/I
 # sound effect uses the print functionality!
@@ -1204,7 +1204,7 @@ print('Lead programmer - genesis gir')
 # credit info generated by the print function
 print('Program directer- genesis gir')
 # credit info generated by the print function
-print('Character development - genesis gir')
+print('Character developmeant - genesis gir')
 print('Storyline - genesis gir')  # credit info generated by the print function
 # special thanks info generated by the print function
 print('Special thanks to everyone one at my twitch and follows me!')
@@ -1215,6 +1215,5 @@ input()  # prompts user to press enter to exit program
 █▀█ █▀▀ █▀ █▀█ █░█ █▀█ █▀▀ █▀▀ █▀
 █▀▄ ██▄ ▄█ █▄█ █▄█ █▀▄ █▄▄ ██▄ ▄█
 
-link: >>> https://www.twitch.tv/genesisgir  <<< Find Livestreams and more!
 link: >>> https://automatetheboringstuff.com <<< Discover and learn how i did!
 """

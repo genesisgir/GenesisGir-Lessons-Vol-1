@@ -1,5 +1,5 @@
 # GENESIS GIR VOLUME 1
-Welcome to (GGVL1) Genesis Gir Volume 1 in this segment youll be diving and digging threw the various programs I created over the past weeks to better understand workflows
+Welcome to (GGVL1) Genesis Gir Volume 1 in this segmeant youll be diving and digging threw the various programs I created over the past weeks to better understand workflows
 and to see how coding works overall and if your especially new to coding like I am these will be very beneficial to any novice or expert to understand the craft
 how it works, blends, shape-shifts, evolves overtime.Dont worry I've explained the lines of code in great detail and everything is set out for you to learn
 with the confidence that you can make your own programs in the future but remember to reference the website included in these files to get the extra mile

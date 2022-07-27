@@ -4,22 +4,22 @@
 SOS is a program that takes the user on a survivalist 
 trip to survive and explore a stranded remote island and they have to somehow escape it find resources and
 materials while fending off the erractical locals who live there! Gather Weapons , Storage , and items from
-the corpses of the enemy and hope that one day you will be found. . maybe an S.O.S singal could help?
+the corpses of the enemy and hope that one day you will be found. . maybe an S.O.S signal could help?
 # survive the night
 ![surviver](https://user-images.githubusercontent.com/87259615/128305572-fb91cd6b-ba34-4f94-b62d-9116b8ae06eb.png)
 
 (image not apart of the program credit to end night games 'The Forest')
 
 
-# Learn , Discover , Explore!
-In this .py you can learn alot from what I did and discover methods I use to make things work! This is very Novice level friendly
+# Learn , Discover , Explore
+In this .py you can learn a lot from what I did and discover methods I use to make things work! This is very Novice level friendly
 and if you find yourself lost just make sure to look at the comments next to the lines of code to see what each line does and why 
-I added those functions and how they are being implmented. again this is very user friendly and very easy to understand I made
+I added those functions and how they are being implemented. again this is very user friendly and very easy to understand I made
 these projects so someone new to coding can learn and develop skills like I have to make their own programs and have somewhere to
 start in the world of coding!
 
 # Twitch
-I also stream my progress on Twitch and store the broadcasts so subscribers can rewatch and see how i made them from scratch! I stream for hours
+I also stream my progress on Twitch and store the broadcasts so subscribers can re-watch and see how i made them from scratch! I stream for hours
 at a time and make sure to stop by and ask me any questions or , Chat , watch my progress!
 
 link: https://www.twitch.tv/genesisgir 
