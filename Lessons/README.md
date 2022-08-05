@@ -4,7 +4,7 @@ and to see how coding works overall and if your especially new to coding like I 
 how it works, blends, shape-shifts, evolves overtime.Dont worry I've explained the lines of code in great detail and everything is set out for you to learn
 with the confidence that you can make your own programs in the future but remember to reference the website included in these files to get the extra mile
 when learning with tandem with these .py files also make sure to stay on the chapter 1 page of automatetheboringstuff to better learn these functionalities
-everything was written for the ease of the novice and this volume contains 9 .py files to explore.
+everything was written for the ease of the novice and this volume contains 10 .py files to explore.
 
 This volume contains
 
