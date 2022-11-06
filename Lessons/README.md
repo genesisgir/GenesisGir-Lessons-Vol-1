@@ -25,11 +25,11 @@ and hopefully someone learns from these cause I am obsessed with this artform an
 
 # links to social media
 
-Twitch - https://www.twitch.tv/genesisgir
+Twitch - https://www.twitch.tv/tenniswaifu
 
-Tumblr- https://www.tumblr.com/blog/view/genesisgir
+Tumblr- https://www.tumblr.com/blog/view/tenniswaifu
 
-Github- https://github.com/GenesisGir
+Github- https://github.com/tenniswaifu
 
 # special thanks
 Thanks to all the people I met during this volume and have helped me in some way or another all help is greatly appreciated

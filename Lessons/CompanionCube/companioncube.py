@@ -441,7 +441,7 @@ print('  my satisfaction.                -@#@@@MX .,              -%HX$$%%%+;   
 print('  Aperture Science                =-./@M@M$                  .;@MMMM@MM:                                                   ')
 print('  We do what we must              X@/ -$MM/                   .+MM@@@M$     Owners of Portal™ - Valve™                       ') 
 print('  because we can.               ,@M@H: :@:                    . -X#@@@@-                                                   ') 
-print('  For the good of all of us.    ,@@@MMX, .                    /H- ;@M@M=    Twitch:https://www.twitch.tv/genesisgir       ') 
+print('  For the good of all of us.    ,@@@MMX, .                    /H- ;@M@M=    Twitch:https://www.twitch.tv/tenniswaifu       ') 
 print('  Except the ones who are dead..H@@@@M@+,                     %MM+..%#$.                                                  ')
 print('                                /MMMM@MMH/.                   XM@MH; -;     Resources:https://automatetheboringstuff.com/  ')                             
 print('  But theres no sense crying      /%+%$XHH@$=                , .H@@@@MX,                                                   ')
@@ -466,6 +466,6 @@ input()#waits for user to put final enter key press to end program and again tha
 █▀█ █▀▀ █▀ █▀█ █░█ █▀█ █▀▀ █▀▀ █▀
 █▀▄ ██▄ ▄█ █▄█ █▄█ █▀▄ █▄▄ ██▄ ▄█
 
-link: >>> https://www.twitch.tv/genesisgir  <<< Find livestream's and more!
+link: >>> https://www.twitch.tv/tenniswaifu  <<< Find livestream's and more!
 link: >>> https://automatetheboringstuff.com <<< Discover and learn how i did!
 """

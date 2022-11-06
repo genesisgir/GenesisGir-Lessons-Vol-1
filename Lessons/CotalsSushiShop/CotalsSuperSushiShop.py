@@ -371,7 +371,7 @@ print()#(ELOC)
 █▀█ █▀▀ █▀ █▀█ █░█ █▀█ █▀▀ █▀▀ █▀
 █▀▄ ██▄ ▄█ █▄█ █▄█ █▀▄ █▄▄ ██▄ ▄█
 
-link: >>> https://www.twitch.tv/genesisgir  <<< Find Livestreams and more!
+link: >>> https://www.twitch.tv/tenniswaifu  <<< Find Livestreams and more!
 link: >>> https://automatetheboringstuff.com <<< Discover and learn how i did!
 """
 """
@@ -380,11 +380,11 @@ link: >>> https://automatetheboringstuff.com <<< Discover and learn how i did!
 ▀█▀ █░█░█ █ ▀█▀ █▀▀ █░█   █▀ ▀█▀ █▀█ █▀█ █▀▀ █▀▄   █▄▄ █▀█ █▀█ ▄▀█ █▀▄ █▀▀ ▄▀█ █▀ ▀█▀ █▀
 ░█░ ▀▄▀▄▀ █ ░█░ █▄▄ █▀█   ▄█ ░█░ █▄█ █▀▄ ██▄ █▄▀   █▄█ █▀▄ █▄█ █▀█ █▄▀ █▄▄ █▀█ ▄█ ░█░ ▄█
 
-Fun Fact this .py was made on stream and can be found on my Twitch page @ GenesisGir! Subscribers can 
+Fun Fact this .py was made on stream and can be found on my Twitch page @ tenniswaifu! Subscribers can 
 go back a re-watch how .pf files are made in cohesion and learn step by step how projects like these are made 
 very useful to those starting out. Subscribe and stay in the loop!
 
-link:https://www.twitch.tv/genesisgir Watch resourceful livestreams and chat , code!
+link:https://www.twitch.tv/tenniswaifu Watch resourceful livestreams and chat , code!
 
 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂
 """
@@ -397,7 +397,7 @@ link:https://www.twitch.tv/genesisgir Watch resourceful livestreams and chat , c
 Discover , Explore and learn from my programs that Ive pushed to my remote repositories!
 and dont forget to follow me! (;
 
-link: >>> https://github.com/GenesisGir <<<
+link: >>> https://github.com/tenniswaifu <<<
 
 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂
 """

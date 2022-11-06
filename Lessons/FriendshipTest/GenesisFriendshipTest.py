@@ -240,7 +240,7 @@ print('press enter to continue')#prompts user to press enter w/print and gathers
 Discover , Explore and learn from my programs that Ive pushed to my remote repositories!
 and dont forget to follow me! (;
 
-link: >>> https://github.com/GenesisGir <<<
+link: >>> https://github.com/tenniswaifu <<<
 
 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂
 """
@@ -313,7 +313,7 @@ print()
 print('█▀█ █▀▀ █▀ █▀█ █░█ █▀█ █▀▀ █▀▀ █▀')
 print('█▀▄ ██▄ ▄█ █▄█ █▄█ █▀▄ █▄▄ ██▄ ▄█')
 print()
-print('link: >>> https://www.twitch.tv/genesisgir  <<< Find livestreams and more!')
+print('link: >>> https://www.twitch.tv/tenniswaifu  <<< Find livestreams and more!')
 print('link: >>> https://automatetheboringstuff.com <<< Discover and learn how i did!')
 print('(press enter to exit program)')#prompts user to exit the program
 input()#T/I
@@ -323,11 +323,11 @@ input()#T/I
 ▀█▀ █░█░█ █ ▀█▀ █▀▀ █░█   █▀ ▀█▀ █▀█ █▀█ █▀▀ █▀▄   █▄▄ █▀█ █▀█ ▄▀█ █▀▄ █▀▀ ▄▀█ █▀ ▀█▀ █▀
 ░█░ ▀▄▀▄▀ █ ░█░ █▄▄ █▀█   ▄█ ░█░ █▄█ █▀▄ ██▄ █▄▀   █▄█ █▀▄ █▄█ █▀█ █▄▀ █▄▄ █▀█ ▄█ ░█░ ▄█
 
-Fun Fact this .py was made on stream and can be found on my Twitch page @ GenesisGir! Subscribers can 
+Fun Fact this .py was made on stream and can be found on my Twitch page @ tenniswaifu! Subscribers can 
 go back a re-watch how .pf files are made in cohesion and learn step by step how projects like these are made 
 very useful to those starting out. Subscribe and stay in the loop!
 
-link:https://www.twitch.tv/genesisgir Watch resourceful livestreams and chat , code!
+link:https://www.twitch.tv/tenniswaifu Watch resourceful livestreams and chat , code!
 
 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂
 """
