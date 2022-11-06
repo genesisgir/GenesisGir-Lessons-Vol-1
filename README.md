@@ -5,7 +5,7 @@ Welcome rookies and veterans! I'm Genesis Gir and I have been documeanting my pr
 ![Capture](https://user-images.githubusercontent.com/87259615/127349469-8c6c506e-0659-4de6-81f6-e36f604e188e.PNG)
 
 
-# Who is Genesis Gir?
+# Who is TenesisWaifu?
 I'm a novice with -100 IQ that started programming 11 days ago sharing my experiences with programming and delving into the world of code
 learn with me as I create various programs to try out and explore! Have a question? Drop by in  my livestreams and ask me anything or teach
 me something you know that I dont but please just dont push your methods against me! I like to experimeant and try things out on my own first
