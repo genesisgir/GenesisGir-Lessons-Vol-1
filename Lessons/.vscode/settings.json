@@ -1,0 +1,6 @@
+{
+    "editor.cursorBlinking": "expand",
+    "editor.cursorStyle": "block",
+    "scm.alwaysShowRepositories": true,
+    "editor.find.autoFindInSelection": "always"
+}
