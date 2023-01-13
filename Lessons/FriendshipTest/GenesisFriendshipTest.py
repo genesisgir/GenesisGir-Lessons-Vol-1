@@ -240,7 +240,11 @@ print('press enter to continue')#prompts user to press enter w/print and gathers
 Discover , Explore and learn from my programs that Ive pushed to my remote repositories!
 and dont forget to follow me! (;
 
+<<<<<<< HEAD
 link: >>> https://github.com/GenesisGir <<<
+=======
+link: >>> https://github.com/tenniswaifu <<<
+>>>>>>> bf5d45f9def98da8e69ddd5f2bcfb9d583e59de7
 
 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂
 """
@@ -313,7 +317,11 @@ print()
 print('█▀█ █▀▀ █▀ █▀█ █░█ █▀█ █▀▀ █▀▀ █▀')
 print('█▀▄ ██▄ ▄█ █▄█ █▄█ █▀▄ █▄▄ ██▄ ▄█')
 print()
+<<<<<<< HEAD
 print('link: >>> https://www.twitch.tv/GenesisGir  <<< Find livestreams and more!')
+=======
+print('link: >>> https://www.twitch.tv/tenniswaifu  <<< Find livestreams and more!')
+>>>>>>> bf5d45f9def98da8e69ddd5f2bcfb9d583e59de7
 print('link: >>> https://automatetheboringstuff.com <<< Discover and learn how i did!')
 print('(press enter to exit program)')#prompts user to exit the program
 input()#T/I
@@ -323,11 +331,19 @@ input()#T/I
 ▀█▀ █░█░█ █ ▀█▀ █▀▀ █░█   █▀ ▀█▀ █▀█ █▀█ █▀▀ █▀▄   █▄▄ █▀█ █▀█ ▄▀█ █▀▄ █▀▀ ▄▀█ █▀ ▀█▀ █▀
 ░█░ ▀▄▀▄▀ █ ░█░ █▄▄ █▀█   ▄█ ░█░ █▄█ █▀▄ ██▄ █▄▀   █▄█ █▀▄ █▄█ █▀█ █▄▀ █▄▄ █▀█ ▄█ ░█░ ▄█
 
+<<<<<<< HEAD
 Fun Fact this .py was made on stream and can be found on my Twitch page @ GenesisGir! Subscribers can 
 go back a re-watch how .pf files are made in cohesion and learn step by step how projects like these are made 
 very useful to those starting out. Subscribe and stay in the loop!
 
 link:https://www.twitch.tv/GenesisGir Watch resourceful livestreams and chat , code!
+=======
+Fun Fact this .py was made on stream and can be found on my Twitch page @ tenniswaifu! Subscribers can 
+go back a re-watch how .pf files are made in cohesion and learn step by step how projects like these are made 
+very useful to those starting out. Subscribe and stay in the loop!
+
+link:https://www.twitch.tv/tenniswaifu Watch resourceful livestreams and chat , code!
+>>>>>>> bf5d45f9def98da8e69ddd5f2bcfb9d583e59de7
 
 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂
 """

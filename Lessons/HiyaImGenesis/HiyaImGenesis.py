@@ -57,8 +57,13 @@ the input function can be used in a lot of creative ways, insert it when you wan
 and store them in variables for later use. Ask a question in print then after that link make a variable
 with an assignmeant operator and put input it will take the users input whatever they texted.
 links below!
+<<<<<<< HEAD
 - Twitch: https://www.twitch.tv/GenesisGir follow, chat ,and learn!
 - Github: https://github.com/GenesisGir programs, learn, contribute, a great dev that loves his community!
+=======
+- Twitch: https://www.twitch.tv/tenniswaifu follow, chat ,and learn!
+- Github: https://github.com/tenniswaifu programs, learn, contribute, a great dev that loves his community!
+>>>>>>> bf5d45f9def98da8e69ddd5f2bcfb9d583e59de7
 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂 🅶🅴🅽🅴🆂🅸🆂
 ──────▄▀▄─────▄▀▄
 ─────▄█░░▀▀▀▀▀░░█▄

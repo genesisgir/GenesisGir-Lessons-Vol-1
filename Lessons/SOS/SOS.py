@@ -923,7 +923,11 @@ print('this project will be further developed in the future again thank you for 
 ▀█▀ █░█░█ █ ▀█▀ █▀▀ █░█   █▀ ▀█▀ █▀█ █▀█ █▀▀ █▀▄   █▄▄ █▀█ █▀█ ▄▀█ █▀▄ █▀▀ ▄▀█ █▀ ▀█▀ █▀
 ░█░ ▀▄▀▄▀ █ ░█░ █▄▄ █▀█   ▄█ ░█░ █▄█ █▀▄ ██▄ █▄▀   █▄█ █▀▄ █▄█ █▀█ █▄▀ █▄▄ █▀█ ▄█ ░█░ ▄█
 
+<<<<<<< HEAD
 Fun Fact this .py was made on stream and can be found on my Twitch page @ GenesisGir! Subscribers can 
+=======
+Fun Fact this .py was made on stream and can be found on my Twitch page @ tenniswaifu! Subscribers can 
+>>>>>>> bf5d45f9def98da8e69ddd5f2bcfb9d583e59de7
 go back a re-watch how .py files are made in cohesion and learn step by step how projects like these are made 
 very useful to those starting out. Subscribe and stay in the loop!
 
@@ -933,7 +937,11 @@ very useful to those starting out. Subscribe and stay in the loop!
 █▀█ █▀▀ █▀ █▀█ █░█ █▀█ █▀▀ █▀▀ █▀
 █▀▄ ██▄ ▄█ █▄█ █▄█ █▀▄ █▄▄ ██▄ ▄█
 
+<<<<<<< HEAD
 link: >>> https://www.twitch.tv/GenesisGir  <<< Find Livestreams and more!
+=======
+link: >>> https://www.twitch.tv/tenniswaifu  <<< Find Livestreams and more!
+>>>>>>> bf5d45f9def98da8e69ddd5f2bcfb9d583e59de7
 link: >>> https://automatetheboringstuff.com <<< Discover and learn how i did!
 """ 
 print('█▀▀ █▀█ █▀▀ █▀▄ █ ▀█▀ █▀')

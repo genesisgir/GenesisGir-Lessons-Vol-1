@@ -257,7 +257,11 @@ input()#since we asked user to press enter this is the line that they do so!
 
 Like these types of lessons? Make sure to follow me on Twitch and follow through and
 ask me any questions you may have or teach me something new Im always eager to learn!
+<<<<<<< HEAD
 link: >>> https://www.twitch.tv/GenesisGir <<<
+=======
+link: >>> https://www.twitch.tv/tenniswaifu <<<
+>>>>>>> bf5d45f9def98da8e69ddd5f2bcfb9d583e59de7
 24/7 Livestream's where you can stop by anytime and see what i do and how im doing it
 - Interact with me and surface any questions!
 - Chat with the community!

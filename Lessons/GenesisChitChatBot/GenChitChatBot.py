@@ -348,6 +348,10 @@ input()#prompts user to press enter to exit program
 █▀█ █▀▀ █▀ █▀█ █░█ █▀█ █▀▀ █▀▀ █▀
 █▀▄ ██▄ ▄█ █▄█ █▄█ █▀▄ █▄▄ ██▄ ▄█
 
+<<<<<<< HEAD
 link: >>> https://www.twitch.tv/GenesisGir  <<< Find Livestreams and more!
+=======
+link: >>> https://www.twitch.tv/tenniswaifu  <<< Find Livestreams and more!
+>>>>>>> bf5d45f9def98da8e69ddd5f2bcfb9d583e59de7
 link: >>> https://automatetheboringstuff.com <<< Discover and learn how i did!
 """
